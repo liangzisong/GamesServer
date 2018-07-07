@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="73" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="盎然生机" />
+			<IconPath Value="xs_lv_03" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="19" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="金戈铁马" />
+			<IconPath Value="xs_z_04" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="24" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="气吞万里" />
+			<IconPath Value="xs_z_04" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="34" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="风驰电掣" />
+			<IconPath Value="xs_z_04" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="74" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="悬若日月" />
+			<IconPath Value="xs_lv_04" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="30" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="兵不血刃" />
+			<IconPath Value="xs_z_05" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="105" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="弹指一瞬" />
+			<IconPath Value="xs_h_05" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="95" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="吸血蝠王" />
+			<IconPath Value="xs_h_05" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="100" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="北溟神玉" />
+			<IconPath Value="xs_h_05" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="20" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="勇冠群雄" />
+			<IconPath Value="xs_z_05" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="25" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="攻无不克" />
+			<IconPath Value="xs_z_05" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Gem" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="10" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="千手观音" />
+			<IconPath Value="xs_j_05" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="43" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="乾坤镜" />
+			<IconPath Value="xy_xh_03_dunpai" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="55" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="奋斗之眼" />
+			<IconPath Value="xy_xh_04_wuqi" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="56" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="混乱之眼" />
+			<IconPath Value="xy_xh_04_wuqi" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="215" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="火蜃图腾" />
+			<IconPath Value="xy_xh_04_toushi" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="97" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="摩羯图腾" />
+			<IconPath Value="xy_xh_04_toushi" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="107" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="星火之源" />
+			<IconPath Value="xy_xh_05_wuqi" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="108" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="生命之源" />
+			<IconPath Value="xy_xh_05_wuqi" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="131" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="魔之精" />
+			<IconPath Value="xy_xh_05_toukui" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="132" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="天之痕" />
+			<IconPath Value="xy_xh_05_toukui" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="223" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="毒蛟图腾" />
+			<IconPath Value="xy_xh_05_toushi" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="152" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="青龙图腾" />
+			<IconPath Value="xy_xh_05_toushi" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Chip" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="153" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="朱雀图腾" />
+			<IconPath Value="xy_xh_05_toushi" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<RewardType Value="OpenType" />
+			<RewardItemType Value="CleanOutOne" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="0" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="MechFragmentMax" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="180" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<RewardType Value="OpenType" />
+			<RewardItemType Value="CleanOutTen" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="0" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="MechFragmentMax" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="360" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="MechFragmentMax" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="540" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="MechFragmentMax" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="720" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="MechFragmentMax" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="900" />
+			<RewardDes Value="" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="4" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="紫晶" />
+			<IconPath Value="紫晶" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="4" />
+			<RewardItemNum Value="2" />
+			<RewardDes Value="紫晶" />
+			<IconPath Value="紫晶" />
+		</data>
+		<data>
+			<Id Value="39" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="4" />
+			<RewardItemNum Value="3" />
+			<RewardDes Value="紫晶" />
+			<IconPath Value="紫晶" />
+		</data>
+		<data>
+			<Id Value="40" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="4" />
+			<RewardItemNum Value="4" />
+			<RewardDes Value="紫晶" />
+			<IconPath Value="紫晶" />
+		</data>
+		<data>
+			<Id Value="41" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="3" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="金晶" />
+			<IconPath Value="金晶" />
+		</data>
+		<data>
+			<Id Value="42" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="3" />
+			<RewardItemNum Value="2" />
+			<RewardDes Value="金晶" />
+			<IconPath Value="金晶" />
+		</data>
+		<data>
+			<Id Value="43" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="3" />
+			<RewardItemNum Value="3" />
+			<RewardDes Value="金晶" />
+			<IconPath Value="金晶" />
+		</data>
+		<data>
+			<Id Value="44" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="3" />
+			<RewardItemNum Value="4" />
+			<RewardDes Value="金晶" />
+			<IconPath Value="金晶" />
+		</data>
+		<data>
+			<Id Value="45" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="彩晶" />
+			<IconPath Value="彩晶" />
+		</data>
+		<data>
+			<Id Value="46" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2" />
+			<RewardItemNum Value="2" />
+			<RewardDes Value="彩晶" />
+			<IconPath Value="彩晶" />
+		</data>
+		<data>
+			<Id Value="47" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2" />
+			<RewardItemNum Value="3" />
+			<RewardDes Value="彩晶" />
+			<IconPath Value="彩晶" />
+		</data>
+		<data>
+			<Id Value="48" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2" />
+			<RewardItemNum Value="4" />
+			<RewardDes Value="彩晶" />
+			<IconPath Value="彩晶" />
+		</data>
+		<data>
+			<Id Value="49" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2001" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="万钧雷霆" />
+			<IconPath Value="xiaohongren_3" />
+		</data>
+		<data>
+			<Id Value="50" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_01" />
+			<RewardItemId Value="1" />
+			<RewardItemNum Value="30" />
+			<RewardDes Value="机甲碎片" />
+			<IconPath Value="机甲碎片" />
+		</data>
+		<data>
+			<Id Value="51" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="62" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="紫色熔剂" />
+			<IconPath Value="紫色熔剂" />
+		</data>
+		<data>
+			<Id Value="52" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_02" />
+			<RewardItemId Value="47" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="尉官回忆录" />
+			<IconPath Value="尉官回忆录" />
+		</data>
+		<data>
+			<Id Value="53" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="62" />
+			<RewardItemNum Value="2" />
+			<RewardDes Value="紫色熔剂" />
+			<IconPath Value="紫色熔剂" />
+		</data>
+		<data>
+			<Id Value="54" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="48" />
+			<RewardItemNum Value="6" />
+			<RewardDes Value="将军回忆录" />
+			<IconPath Value="将军回忆录" />
+		</data>
+		<data>
+			<Id Value="55" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="63" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="金色熔剂" />
+			<IconPath Value="金色熔剂" />
+		</data>
+		<data>
+			<Id Value="56" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="49" />
+			<RewardItemNum Value="3" />
+			<RewardDes Value="元帅回忆录" />
+			<IconPath Value="元帅回忆录" />
+		</data>
+		<data>
+			<Id Value="57" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="63" />
+			<RewardItemNum Value="2" />
+			<RewardDes Value="金色熔剂" />
+			<IconPath Value="金色熔剂" />
+		</data>
+		<data>
+			<Id Value="58" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="49" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="元帅回忆录" />
+			<IconPath Value="元帅回忆录" />
+		</data>
+		<data>
+			<Id Value="59" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Item" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="63" />
+			<RewardItemNum Value="4" />
+			<RewardDes Value="金色熔剂" />
+			<IconPath Value="金色熔剂" />
+		</data>
+		<data>
+			<Id Value="60" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Mech" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="14" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="光·布尔" />
+			<IconPath Value="buer" />
+		</data>
+		<data>
+			<Id Value="61" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2007" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="四两千斤" />
+			<IconPath Value="xingtian_3" />
+		</data>
+		<data>
+			<Id Value="62" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Mech" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="16" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="巫·潘哒哒" />
+			<IconPath Value="pandada" />
+		</data>
+		<data>
+			<Id Value="63" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_04" />
+			<RewardItemId Value="2003" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="影幻重重" />
+			<IconPath Value="xiaozhuazi_3" />
+		</data>
+		<data>
+			<Id Value="64" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2019" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="游龙出渊" />
+			<IconPath Value="long_3" />
+		</data>
+		<data>
+			<Id Value="65" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2016" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="黄金熊猫" />
+			<IconPath Value="pandada_3" />
+		</data>
+		<data>
+			<Id Value="66" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Mech" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="12" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="光·道尔" />
+			<IconPath Value="daoer" />
+		</data>
+		<data>
+			<Id Value="67" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2012" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="电光火石" />
+			<IconPath Value="daoer_3" />
+		</data>
+		<data>
+			<Id Value="68" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Mech" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="20" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="光·影刃" />
+			<IconPath Value="yingren" />
+		</data>
+		<data>
+			<Id Value="69" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2020" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="如影随形" />
+			<IconPath Value="yingren_3" />
+		</data>
+		<data>
+			<Id Value="70" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Mech" />
+			<RewardItemLevel Value="wk_03" />
+			<RewardItemId Value="21" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="巫·霸王龙" />
+			<IconPath Value="konglong" />
+		</data>
+		<data>
+			<Id Value="71" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2021" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="百战霸王" />
+			<IconPath Value="konglong_3" />
+		</data>
+		<data>
+			<Id Value="72" />
+			<RewardType Value="ItemType" />
+			<RewardItemType Value="Skin" />
+			<RewardItemLevel Value="wk_05" />
+			<RewardItemId Value="2014" />
+			<RewardItemNum Value="1" />
+			<RewardDes Value="星光四射" />
+			<IconPath Value="buer_3" />
+		</data>
+		<data>
+			<Id Value="73" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Challenge" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="5" />
+			<RewardDes Value="每天可购买挑战次数增加至5次&amp;赏金任务增加至9次&amp;体力上限增加至65，活力上限增加至45&amp;开启扫荡1次功能" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="74" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="PhysicalStrength" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="5" />
+			<RewardDes Value="每天可购买挑战、体力次数增加至5次&amp;赏金任务增加至10次&amp;体力上限增加至70，活力上限增加至50" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="75" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Vitality" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="5" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至5次&amp;赏金任务增加至11次&amp;每天可兑换机甲碎片增加至180&amp;体力上限增加至75，活力上限增加至55&amp;开启扫荡10次功能" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="76" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Gold" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="5" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至5次&amp;每天可兑换星币次数增加至5次&amp;赏金任务增加至12次&amp;每天可兑换机甲碎片增加至180&amp;体力上限增加至80，活力上限增加至60" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="77" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Challenge" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="每天可购买挑战次数增加至10次&amp;每天可购买体力、活力次数增加至5次&amp;每天可兑换星币次数增加至5次&amp;赏金任务增加至13次&amp;每天可兑换机甲碎片增加至360&amp;体力上限增加至85，活力上限增加至65" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="78" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="PhysicalStrength" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="每天可购买挑战、体力次数增加至10次&amp;每天可购买活力次数增加至5次&amp;每天可兑换星币次数增加至5次&amp;赏金任务增加至14次&amp;每天可兑换机甲碎片增加至360&amp;体力上限增加至90，活力上限增加至70" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="79" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Vitality" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至10次&amp;每天可兑换星币次数增加至5次&amp;赏金任务增加至15次&amp;每天可兑换机甲碎片增加至540&amp;体力上限增加至95，活力上限增加至75" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="80" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Gold" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="10" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至10次&amp;每天可兑换星币次数增加至10次&amp;赏金任务增加至16次&amp;每天可兑换机甲碎片增加至540&amp;体力上限增加至100，活力上限增加至80" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="81" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Challenge" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="15" />
+			<RewardDes Value="每天可购买挑战次数增加至15次&amp;每天可购买体力、活力次数增加至10次&amp;每天可兑换星币次数增加至10次&amp;赏金任务增加至17次&amp;每天可兑换机甲碎片增加至720&amp;体力上限增加至105，活力上限增加至85" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="82" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="PhysicalStrength" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="15" />
+			<RewardDes Value="每天可购买挑战、体力次数增加至15次&amp;每天可购买活力次数增加至10次&amp;每天可兑换星币次数增加至10次&amp;赏金任务增加至18次&amp;每天可兑换机甲碎片增加至720&amp;体力上限增加至110，活力上限增加至90" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="83" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Vitality" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="15" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至15次&amp;每天可兑换星币次数增加至10次&amp;赏金任务增加至19次&amp;每天可兑换机甲碎片增加至900&amp;体力上限增加至115，活力上限增加至95" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="84" />
+			<RewardType Value="BuyType" />
+			<RewardItemType Value="Gold" />
+			<RewardItemLevel Value="" />
+			<RewardItemId Value="0" />
+			<RewardItemNum Value="15" />
+			<RewardDes Value="可购买挑战、体力、活力次数增加至15次&amp;每天可兑换星币次数增加至15次&amp;赏金任务增加至20次&amp;每天可兑换机甲碎片增加至900&amp;体力上限增加至120，活力上限增加至100" />
+			<IconPath Value="" />
+		</data>
+	</root>

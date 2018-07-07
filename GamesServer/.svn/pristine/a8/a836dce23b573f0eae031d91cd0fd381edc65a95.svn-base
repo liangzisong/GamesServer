@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<ArmyPost Value="士兵" />
+			<ArmyPay Value="10" />
+			<ArmyTurn Value="100" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<ArmyPost Value="士官" />
+			<ArmyPay Value="20" />
+			<ArmyTurn Value="500" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<ArmyPost Value="排级" />
+			<ArmyPay Value="40" />
+			<ArmyTurn Value="2000" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<ArmyPost Value="连级" />
+			<ArmyPay Value="60" />
+			<ArmyTurn Value="10000" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<ArmyPost Value="营级" />
+			<ArmyPay Value="80" />
+			<ArmyTurn Value="20000" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<ArmyPost Value="团级" />
+			<ArmyPay Value="100" />
+			<ArmyTurn Value="50000" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<ArmyPost Value="旅级" />
+			<ArmyPay Value="150" />
+			<ArmyTurn Value="100000" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<ArmyPost Value="师级" />
+			<ArmyPay Value="200" />
+			<ArmyTurn Value="0" />
+		</data>
+	</root>

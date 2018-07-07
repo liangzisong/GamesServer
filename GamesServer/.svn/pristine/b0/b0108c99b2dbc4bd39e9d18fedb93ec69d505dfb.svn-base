@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Span Value="300" />
+			<MaxLv Value="10" />
+			<Def Value="2000" />
+			<InitialHp Value="0" />
+			<LvlupHP Value="10000000" />
+			<HartId1 Value="1000" />
+			<HartId2 Value="1200" />
+			<HartId3 Value="1800" />
+			<HartId3 Value="0" />
+			<EndTime Value="10" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Span Value="420" />
+			<MaxLv Value="20" />
+			<Def Value="2100" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="1400" />
+			<HartId2 Value="1680" />
+			<HartId3 Value="2520" />
+			<HartId3 Value="0" />
+			<EndTime Value="20" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Span Value="540" />
+			<MaxLv Value="30" />
+			<Def Value="2200" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="1960" />
+			<HartId2 Value="2352" />
+			<HartId3 Value="3528" />
+			<HartId3 Value="0" />
+			<EndTime Value="30" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Span Value="660" />
+			<MaxLv Value="40" />
+			<Def Value="2300" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="2760" />
+			<HartId2 Value="3293" />
+			<HartId3 Value="4940" />
+			<HartId3 Value="0" />
+			<EndTime Value="40" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Span Value="780" />
+			<MaxLv Value="50" />
+			<Def Value="2400" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="3840" />
+			<HartId2 Value="4610" />
+			<HartId3 Value="6916" />
+			<HartId3 Value="0" />
+			<EndTime Value="50" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Span Value="900" />
+			<MaxLv Value="60" />
+			<Def Value="2500" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="5380" />
+			<HartId2 Value="6454" />
+			<HartId3 Value="9682" />
+			<HartId3 Value="0" />
+			<EndTime Value="60" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Span Value="900" />
+			<MaxLv Value="70" />
+			<Def Value="2600" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="7530" />
+			<HartId2 Value="9036" />
+			<HartId3 Value="13555" />
+			<HartId3 Value="0" />
+			<EndTime Value="70" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Span Value="900" />
+			<MaxLv Value="80" />
+			<Def Value="2700" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="10530" />
+			<HartId2 Value="12650" />
+			<HartId3 Value="18977" />
+			<HartId3 Value="0" />
+			<EndTime Value="80" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Span Value="900" />
+			<MaxLv Value="90" />
+			<Def Value="2800" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="14742" />
+			<HartId2 Value="17710" />
+			<HartId3 Value="26568" />
+			<HartId3 Value="0" />
+			<EndTime Value="90" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Span Value="900" />
+			<MaxLv Value="100" />
+			<Def Value="2900" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="20638" />
+			<HartId2 Value="24794" />
+			<HartId3 Value="37195" />
+			<HartId3 Value="24917" />
+			<EndTime Value="100" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Span Value="900" />
+			<MaxLv Value="110" />
+			<Def Value="3000" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="28896" />
+			<HartId2 Value="34712" />
+			<HartId3 Value="52073" />
+			<HartId3 Value="34835" />
+			<EndTime Value="110" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Span Value="900" />
+			<MaxLv Value="120" />
+			<Def Value="3100" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="40455" />
+			<HartId2 Value="48569" />
+			<HartId3 Value="72902" />
+			<HartId3 Value="48692" />
+			<EndTime Value="120" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Span Value="900" />
+			<MaxLv Value="130" />
+			<Def Value="3200" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="56637" />
+			<HartId2 Value="67996" />
+			<HartId3 Value="102620" />
+			<HartId3 Value="68119" />
+			<EndTime Value="130" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Span Value="900" />
+			<MaxLv Value="140" />
+			<Def Value="3300" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="79292" />
+			<HartId2 Value="95195" />
+			<HartId3 Value="143660" />
+			<HartId3 Value="95318" />
+			<EndTime Value="140" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Span Value="900" />
+			<MaxLv Value="10000" />
+			<Def Value="3400" />
+			<InitialHp Value="50000000" />
+			<LvlupHP Value="5000000" />
+			<HartId1 Value="111009" />
+			<HartId2 Value="133273" />
+			<HartId3 Value="201120" />
+			<HartId3 Value="133396" />
+			<EndTime Value="150" />
+		</data>
+	</root>

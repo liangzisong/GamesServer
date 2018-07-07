@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="101" />
+			<Name Value="红月绛影" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/101" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="102" />
+			<Name Value="投弹怪杰" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/102" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="103" />
+			<Name Value="风暴英豪" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/103" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="104" />
+			<Name Value="仁心圣手" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/104" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="105" />
+			<Name Value="暴走小妖" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/105" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="106" />
+			<Name Value="烈火冷刃" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/106" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="107" />
+			<Name Value="残钩魔屠" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/107" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="108" />
+			<Name Value="战斗狂魔" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/108" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="109" />
+			<Name Value="风翼魅魔" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/109" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="110" />
+			<Name Value="邪心魔影" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/110" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="111" />
+			<Name Value="紫发魔女" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/111" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="112" />
+			<Name Value="嗜剑狂神" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/112" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="113" />
+			<Name Value="铁血拳神" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/113" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="114" />
+			<Name Value="飞天战神" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/114" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="115" />
+			<Name Value="潇湘神女" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/115" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="116" />
+			<Name Value="霹雳雷神" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/116" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="117" />
+			<Name Value="神使先知" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/117" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="118" />
+			<Name Value="蜘蛛女王" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/118" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="119" />
+			<Name Value="剑齿象王" />
+			<Description Value="英雄碎片，达到一定数量可解锁相应英雄。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="head/119" />
+			<ItemType Value="FIGHTERPIECES" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="201" />
+			<Name Value="强化石" />
+			<Description Value="用于强化英雄天赋" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="guijing_03" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="202" />
+			<Name Value="技能点" />
+			<Description Value="用于增加英雄的技能经验" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_skillup" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="203" />
+			<Name Value="万能碎片" />
+			<Description Value="用于英雄升星" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_wupin" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="204" />
+			<Name Value="竞技币" />
+			<Description Value="竞技场中获得，可在竞技商城中兑换物品" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="jiangpai_sidou" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="205" />
+			<Name Value="水晶" />
+			<Description Value="赛季中获得，可在擂台商城中兑换物品" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_sj" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="206" />
+			<Name Value="宝石" />
+			<Description Value="试炼与狩猎中获得，可在材料商城中兑换物品" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="207" />
+			<Name Value="贡献值" />
+			<Description Value="军团中获得，可在军团商城中兑换物品" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="store6" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="208" />
+			<Name Value="星币" />
+			<Description Value="重要游戏货币，广泛运用于各个途径" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_coin" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="209" />
+			<Name Value="星钻" />
+			<Description Value="主要用于抽奖与购买高级道具" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_diamond" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="210" />
+			<Name Value="体力" />
+			<Description Value="用于战役中进入战斗" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_physical" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="211" />
+			<Name Value="活力" />
+			<Description Value="用于赛季中进入战斗" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="活力_01" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="212" />
+			<Name Value="精力" />
+			<Description Value="用于天梯中进入战斗" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="213" />
+			<Name Value="小体力瓶" />
+			<Description Value="增加5点体力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="5" />
+			<IconPath Value="体力_01" />
+			<ItemType Value="VIT" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="214" />
+			<Name Value="中体力瓶" />
+			<Description Value="增加25点体力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="25" />
+			<IconPath Value="体力_02" />
+			<ItemType Value="VIT" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="215" />
+			<Name Value="大体力瓶" />
+			<Description Value="增加125点体力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="125" />
+			<IconPath Value="体力_03" />
+			<ItemType Value="VIT" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="216" />
+			<Name Value="小活力瓶" />
+			<Description Value="增加6点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="6" />
+			<IconPath Value="活力_01" />
+			<ItemType Value="ENERGY" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="217" />
+			<Name Value="中活力瓶" />
+			<Description Value="增加30点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="30" />
+			<IconPath Value="活力_02" />
+			<ItemType Value="ENERGY" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="218" />
+			<Name Value="大活力瓶" />
+			<Description Value="增加150点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="150" />
+			<IconPath Value="活力_03" />
+			<ItemType Value="ENERGY" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="219" />
+			<Name Value="小精力瓶" />
+			<Description Value="增加6点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="6" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="220" />
+			<Name Value="中精力瓶" />
+			<Description Value="增加30点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="30" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="221" />
+			<Name Value="大精力瓶" />
+			<Description Value="增加150点精力值" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="150" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="222" />
+			<Name Value="小经验书" />
+			<Description Value="增加40点英雄经验" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="40" />
+			<IconPath Value="回忆录_士兵" />
+			<ItemType Value="EXPPOOL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="223" />
+			<Name Value="中经验书" />
+			<Description Value="增加200点英雄经验" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="200" />
+			<IconPath Value="回忆录_将军" />
+			<ItemType Value="EXPPOOL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="224" />
+			<Name Value="大经验书" />
+			<Description Value="增加1000点英雄经验" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="1000" />
+			<IconPath Value="回忆录_元帅" />
+			<ItemType Value="EXPPOOL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="225" />
+			<Name Value="小技能书" />
+			<Description Value="增加12点英雄技能点数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="12" />
+			<IconPath Value="jinengshu1" />
+			<ItemType Value="SKILL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="226" />
+			<Name Value="中技能书" />
+			<Description Value="增加60点英雄技能点数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="60" />
+			<IconPath Value="jinengshu2" />
+			<ItemType Value="SKILL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="227" />
+			<Name Value="大技能书" />
+			<Description Value="增加300点英雄技能点数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="300" />
+			<IconPath Value="jinengshu3" />
+			<ItemType Value="SKILL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="228" />
+			<Name Value="小战术书" />
+			<Description Value="增加1次战术刷新次数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="1" />
+			<IconPath Value="jinengshu" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="229" />
+			<Name Value="中战术书" />
+			<Description Value="增加5次战术刷新次数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="5" />
+			<IconPath Value="jinengshu" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="230" />
+			<Name Value="大战术书" />
+			<Description Value="增加25次战术刷新次数" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="25" />
+			<IconPath Value="jinengshu" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="231" />
+			<Name Value="玩家经验" />
+			<Description Value="用于提升玩家等级" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_exp_player" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="232" />
+			<Name Value="英雄经验" />
+			<Description Value="用于提升英雄等级" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_exp" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="233" />
+			<Name Value="耐力" />
+			<Description Value="烽火连天中玩家的生命力" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="corps_endurance" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="234" />
+			<Name Value="行动力" />
+			<Description Value="烽火连天中玩家的移动力" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cops_action" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="235" />
+			<Name Value="花束（评论）" />
+			<Description Value="" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="236" />
+			<Name Value="臭蛋（评论）" />
+			<Description Value="" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="241" />
+			<Name Value="铜钥匙" />
+			<Description Value="用于材料抽奖" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_key_cuprum" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="242" />
+			<Name Value="银钥匙" />
+			<Description Value="用于科技抽奖" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_key_gold" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="243" />
+			<Name Value="金钥匙" />
+			<Description Value="用于英雄抽奖" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="iktas_key_gold" />
+			<ItemType Value="GOODS" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="251" />
+			<Name Value="1级材料盒" />
+			<Description Value="随机获得一种白色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="252" />
+			<Name Value="2级材料盒" />
+			<Description Value="随机获得一种初级绿色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="253" />
+			<Name Value="3级材料盒" />
+			<Description Value="随机获得一种中级绿色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="254" />
+			<Name Value="4级材料盒" />
+			<Description Value="随机获得一种初级蓝色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="255" />
+			<Name Value="5级材料盒" />
+			<Description Value="随机获得一种中级蓝色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="256" />
+			<Name Value="6级材料盒" />
+			<Description Value="随机获得一种高级蓝色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="257" />
+			<Name Value="7级材料盒" />
+			<Description Value="随机获得一种初级紫色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="258" />
+			<Name Value="8级材料盒" />
+			<Description Value="随机获得一种中级紫色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="259" />
+			<Name Value="9级材料盒" />
+			<Description Value="随机获得一种高级紫色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="260" />
+			<Name Value="10级材料盒" />
+			<Description Value="随机获得一种顶级紫色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="261" />
+			<Name Value="11级材料盒" />
+			<Description Value="随机获得一种初级金色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="262" />
+			<Name Value="12级材料盒" />
+			<Description Value="随机获得一种中级金色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="263" />
+			<Name Value="13级材料盒" />
+			<Description Value="随机获得一种高级金色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="264" />
+			<Name Value="14级材料盒" />
+			<Description Value="随机获得一种顶级金色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="265" />
+			<Name Value="15级材料盒" />
+			<Description Value="随机获得一种超级金色材料" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cailiaohe" />
+			<ItemType Value="BOX" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="281" />
+			<Name Value="VIP0礼包" />
+			<Description Value="商城礼包，包含金钥匙X1、铜钥匙X1、紫发魔女碎片X1" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="0" />
+		</data>
+		<data>
+			<Id Value="282" />
+			<Name Value="VIP1礼包" />
+			<Description Value="1级会员商城礼包，包含金钥匙X2、铜钥匙X2、紫发魔女碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="283" />
+			<Name Value="VIP2礼包" />
+			<Description Value="2级会员商城礼包，包含金钥匙X2、铜钥匙X3、铁血拳神碎片X1" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="284" />
+			<Name Value="VIP3礼包" />
+			<Description Value="3级会员商城礼包，包含金钥匙X3、铜钥匙X3、铁血拳神碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="285" />
+			<Name Value="VIP4礼包" />
+			<Description Value="4级会员商城礼包，包含金钥匙X3、铜钥匙X3、暴走小妖碎片X1" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="286" />
+			<Name Value="VIP5礼包" />
+			<Description Value="5级会员商城礼包，包含金钥匙X3、铜钥匙X3、暴走小妖碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="287" />
+			<Name Value="VIP6礼包" />
+			<Description Value="6级会员商城礼包，包含金钥匙X4、铜钥匙X3、残钩魔屠碎片X1" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="288" />
+			<Name Value="VIP7礼包" />
+			<Description Value="7级会员商城礼包，包含金钥匙X4、铜钥匙X3、残钩魔屠碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="289" />
+			<Name Value="VIP8礼包" />
+			<Description Value="8级会员商城礼包，包含金钥匙X4、铜钥匙X3、残钩魔屠碎片X3" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="290" />
+			<Name Value="VIP9礼包" />
+			<Description Value="9级会员商城礼包，包含金钥匙X5、铜钥匙X3、潇湘神女碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="291" />
+			<Name Value="VIP10礼包" />
+			<Description Value="10级会员商城礼包，包含金钥匙X5、铜钥匙X3、潇湘神女碎片X3" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="292" />
+			<Name Value="VIP11礼包" />
+			<Description Value="11级会员商城礼包，包含金钥匙X5、铜钥匙X3、飞天战神碎片X2" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="293" />
+			<Name Value="VIP12礼包" />
+			<Description Value="12级会员商城礼包，包含金钥匙X5、铜钥匙X3、飞天战神碎片X3" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="huiyuanlibao" />
+			<ItemType Value="VipBox" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="301" />
+			<Name Value="量子芯片" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="302" />
+			<Name Value="超导传输器" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="303" />
+			<Name Value="纳米核心" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="304" />
+			<Name Value="能量晶体" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="305" />
+			<Name Value="神经传导器" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="306" />
+			<Name Value="质子反应堆" />
+			<Description Value="白色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxwhite" />
+			<Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="307" />
+			<Name Value="量子芯片" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="308" />
+			<Name Value="超导传输器" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="309" />
+			<Name Value="纳米核心" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="310" />
+			<Name Value="能量晶体" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="311" />
+			<Name Value="神经传导器" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="312" />
+			<Name Value="质子反应堆" />
+			<Description Value="初级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="313" />
+			<Name Value="量子芯片" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="314" />
+			<Name Value="超导传输器" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="315" />
+			<Name Value="纳米核心" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="316" />
+			<Name Value="能量晶体" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="317" />
+			<Name Value="神经传导器" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="318" />
+			<Name Value="质子反应堆" />
+			<Description Value="中级绿色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgreen" />
+			<Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="319" />
+			<Name Value="量子芯片" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="320" />
+			<Name Value="超导传输器" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="321" />
+			<Name Value="纳米核心" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="322" />
+			<Name Value="能量晶体" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="323" />
+			<Name Value="神经传导器" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="324" />
+			<Name Value="质子反应堆" />
+			<Description Value="初级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="325" />
+			<Name Value="量子芯片" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="326" />
+			<Name Value="超导传输器" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="327" />
+			<Name Value="纳米核心" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="328" />
+			<Name Value="能量晶体" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="329" />
+			<Name Value="神经传导器" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="330" />
+			<Name Value="质子反应堆" />
+			<Description Value="中级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="331" />
+			<Name Value="量子芯片" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="332" />
+			<Name Value="超导传输器" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="333" />
+			<Name Value="纳米核心" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="334" />
+			<Name Value="能量晶体" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="335" />
+			<Name Value="神经传导器" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="336" />
+			<Name Value="质子反应堆" />
+			<Description Value="高级蓝色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxblue" />
+			<Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="337" />
+			<Name Value="量子芯片" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="338" />
+			<Name Value="超导传输器" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="339" />
+			<Name Value="纳米核心" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="340" />
+			<Name Value="能量晶体" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="341" />
+			<Name Value="神经传导器" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="342" />
+			<Name Value="质子反应堆" />
+			<Description Value="初级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="343" />
+			<Name Value="量子芯片" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="344" />
+			<Name Value="超导传输器" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="345" />
+			<Name Value="纳米核心" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="346" />
+			<Name Value="能量晶体" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="347" />
+			<Name Value="神经传导器" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="348" />
+			<Name Value="质子反应堆" />
+			<Description Value="中级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="349" />
+			<Name Value="量子芯片" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="350" />
+			<Name Value="超导传输器" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="351" />
+			<Name Value="纳米核心" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="352" />
+			<Name Value="能量晶体" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="353" />
+			<Name Value="神经传导器" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="354" />
+			<Name Value="质子反应堆" />
+			<Description Value="高级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="355" />
+			<Name Value="量子芯片" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="356" />
+			<Name Value="超导传输器" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="357" />
+			<Name Value="纳米核心" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="358" />
+			<Name Value="能量晶体" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="359" />
+			<Name Value="神经传导器" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="360" />
+			<Name Value="质子反应堆" />
+			<Description Value="顶级紫色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="361" />
+			<Name Value="量子芯片" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxPurple" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="362" />
+			<Name Value="超导传输器" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="363" />
+			<Name Value="纳米核心" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="364" />
+			<Name Value="能量晶体" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="365" />
+			<Name Value="神经传导器" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="366" />
+			<Name Value="质子反应堆" />
+			<Description Value="初级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="367" />
+			<Name Value="量子芯片" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="368" />
+			<Name Value="超导传输器" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="369" />
+			<Name Value="纳米核心" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="370" />
+			<Name Value="能量晶体" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="371" />
+			<Name Value="神经传导器" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="372" />
+			<Name Value="质子反应堆" />
+			<Description Value="中级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="373" />
+			<Name Value="量子芯片" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="374" />
+			<Name Value="超导传输器" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="375" />
+			<Name Value="纳米核心" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="376" />
+			<Name Value="能量晶体" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="377" />
+			<Name Value="神经传导器" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="378" />
+			<Name Value="质子反应堆" />
+			<Description Value="高级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="379" />
+			<Name Value="量子芯片" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="380" />
+			<Name Value="超导传输器" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="381" />
+			<Name Value="纳米核心" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="382" />
+			<Name Value="能量晶体" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="383" />
+			<Name Value="神经传导器" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="384" />
+			<Name Value="质子反应堆" />
+			<Description Value="顶级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="385" />
+			<Name Value="量子芯片" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="chip" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="386" />
+			<Name Value="超导传输器" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="connector" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="387" />
+			<Name Value="纳米核心" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="core" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="388" />
+			<Name Value="能量晶体" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="cube" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="389" />
+			<Name Value="神经传导器" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="inductorium" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="390" />
+			<Name Value="质子反应堆" />
+			<Description Value="超级金色材料，用于装备强化。" />
+			<SellPrice Value="" />
+			<UseItAddNum Value="" />
+			<IconPath Value="Reactor" />
+			<ItemType Value="MATERIAL" />
+			<BoxPath Value="boxgold" />
+			<Lv Value="15" />
+		</data>
+	</root>

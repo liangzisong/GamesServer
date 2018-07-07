@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Name Value="应名点卯" />
+			<Dot Value="10" />
+			<Description Value="进行一次每日签到" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<RewardExp Value="1" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Name Value="用我必胜" />
+			<Dot Value="15" />
+			<Description Value="3次成功闯关" />
+			<TaskCount Value="3" />
+			<RewardStone Value="5" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Name Value="横扫千军" />
+			<Dot Value="15" />
+			<Description Value="进行10次扫荡" />
+			<TaskCount Value="10" />
+			<RewardStone Value="5" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Name Value="自强不息" />
+			<Dot Value="15" />
+			<Description Value="成功进行3次训练（单路推塔）" />
+			<TaskCount Value="3" />
+			<RewardStone Value="5" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Name Value="六爻八卦" />
+			<Dot Value="15" />
+			<Description Value="抽取星石1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Name Value="点石成金" />
+			<Dot Value="10" />
+			<Description Value="成功合成1次星石" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Name Value="极限挑战" />
+			<Dot Value="10" />
+			<Description Value="进行5次斗牛挑战" />
+			<TaskCount Value="5" />
+			<RewardStone Value="5" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Name Value="闻鸡起舞" />
+			<Dot Value="5" />
+			<Description Value="成功进行2次特训（双路推塔）" />
+			<TaskCount Value="2" />
+			<RewardStone Value="5" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Name Value="紫微流年" />
+			<Dot Value="5" />
+			<Description Value="抽取机甲1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Name Value="塔罗占卜" />
+			<Dot Value="5" />
+			<Description Value="抽取星核1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Name Value="节节高升" />
+			<Dot Value="5" />
+			<Description Value="星核强化升1级" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Name Value="无中生有" />
+			<Dot Value="5" />
+			<Description Value="成功合成1次星核" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Name Value="好玩分享" />
+			<Dot Value="5" />
+			<Description Value="分享游戏到朋友圈" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<RewardExp Value="1" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Name Value="熟能生巧" />
+			<Dot Value="5" />
+			<Description Value="英雄技能成功升级1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Name Value="30点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到20点数" />
+			<TaskCount Value="20" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<Name Value="60点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到50点数" />
+			<TaskCount Value="50" />
+			<RewardStone Value="30" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<Name Value="80点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到80点数" />
+			<TaskCount Value="80" />
+			<RewardStone Value="60" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<Name Value="幸运一周" />
+			<Dot Value="5" />
+			<Description Value="领取周卡星钻" />
+			<TaskCount Value="0" />
+			<RewardStone Value="100" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<Name Value="月度福利" />
+			<Dot Value="10" />
+			<Description Value="领取月卡星钻" />
+			<TaskCount Value="0" />
+			<RewardStone Value="100" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<Name Value="尊享荣耀" />
+			<Dot Value="15" />
+			<Description Value="领取金卡星钻" />
+			<TaskCount Value="0" />
+			<RewardStone Value="100" />
+			<RewardGold Value="0" />
+			<RewardExp Value="0" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<Name Value="行伍之耀" />
+			<Dot Value="10" />
+			<Description Value="获得1枚肩章" />
+			<TaskCount Value="1" />
+			<RewardStone Value="15" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<Name Value="三教九流" />
+			<Dot Value="5" />
+			<Description Value="进行1次帮派任务" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="1" />
+			<RewardExp Value="1" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<Name Value="生死时速" />
+			<Dot Value="10" />
+			<Description Value="进行3次死斗挑战" />
+			<TaskCount Value="3" />
+			<RewardStone Value="10" />
+			<RewardGold Value="3" />
+			<RewardExp Value="3" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<Name Value="上古遗迹" />
+			<Dot Value="10" />
+			<Description Value="进行探索1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<Name Value="珠丝马迹" />
+			<Dot Value="5" />
+			<Description Value="进行探查1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="2" />
+			<RewardExp Value="2" />
+		</data>
+	</root>

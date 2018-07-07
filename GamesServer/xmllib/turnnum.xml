@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<TurnType Value="Gold" />
+			<TurnNum Value="1000" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<TurnType Value="Gold" />
+			<TurnNum Value="2000" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<TurnType Value="Gold" />
+			<TurnNum Value="5000" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="5" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="10" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="20" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="50" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="100" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="200" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="300" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="400" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="500" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="600" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="800" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<TurnType Value="Stone" />
+			<TurnNum Value="1000" />
+		</data>
+	</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Rmb Value="8" />
+			<GetStone Value="20" />
+			<GetGold Value="5000" />
+			<ChipId Value="50" />
+			<GemId Value="33" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjczDesc Value="[EFBEAB]活动时间：2017年8月9日 ---- 2017年8月17日&#xA;活动内容：&#xA;    活动期间，累计充值[FFD658]8元[-]人民币，可获得[FEF7D1]20星钻[-]、[FEF7D1]5000星币[-]、星核[FEF7D1]雅猫图腾[-]，星石[FEF7D1]凌波微步[-]。&#xA;    累计充值[FFD658]80元[-]人民币，可获得[FEF7D1]200星钻[-]、[FEF7D1]50000星币[-]、星核[FEF7D1]幻化之眼[-]，星石[FEF7D1]悬若日月[-]。&#xA;    累计充值[FFD658]180元[-]人民币，可获得[FEF7D1]300星钻[-]、[FEF7D1]120000星币[-]、星核[FEF7D1]轻云剪[-]，星石[FEF7D1]固若金汤[-]。&#xA;    累计充值[FFD658]380元[-]人民币，可获得[FEF7D1]500星钻[-]、[FEF7D1]260000星币[-]、星核[FEF7D1]光明之源[-]，星石[FEF7D1]钢筋铁骨[-]。&#xA;    累计充值[FFD658]680元[-]人民币，可获得[FEF7D1]800星钻[-]、[FEF7D1]500000星币[-]、星核[FEF7D1]混沌之源[-]，星石[FEF7D1]兵不血刃[-]。[-]" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Rmb Value="80" />
+			<GetStone Value="200" />
+			<GetGold Value="50000" />
+			<ChipId Value="209" />
+			<GemId Value="74" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjczDesc Value="" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Rmb Value="180" />
+			<GetStone Value="300" />
+			<GetGold Value="120000" />
+			<ChipId Value="95" />
+			<GemId Value="45" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjczDesc Value="" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Rmb Value="380" />
+			<GetStone Value="500" />
+			<GetGold Value="260000" />
+			<ChipId Value="119" />
+			<GemId Value="40" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjczDesc Value="" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Rmb Value="680" />
+			<GetStone Value="800" />
+			<GetGold Value="500000" />
+			<ChipId Value="120" />
+			<GemId Value="30" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjczDesc Value="" />
+		</data>
+	</root>

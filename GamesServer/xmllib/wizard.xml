@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第1天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="10" />
+			<RewardGold Value="1000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="5" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第2天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="15" />
+			<RewardGold Value="1500" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="10" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第3天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="20" />
+			<RewardGold Value="2000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="15" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第4天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="25" />
+			<RewardGold Value="2500" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="20" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第5天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="25" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第6天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="35" />
+			<RewardGold Value="3500" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="30" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第7天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="40" />
+			<RewardGold Value="4000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="35" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第8天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="45" />
+			<RewardGold Value="4500" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="40" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Use Value="1" />
+			<Type Value="1" />
+			<Description Value="活动第9天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="45" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Use Value="0" />
+			<Type Value="1" />
+			<Description Value="活动第10天登录" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="55" />
+			<RewardGold Value="5500" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="50" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Use Value="0" />
+			<Type Value="2" />
+			<Description Value="活动期间成功闯关25次" />
+			<TaskCount Value="25" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="46" />
+			<RewardItemNum Value="10" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Use Value="0" />
+			<Type Value="3" />
+			<Description Value="活动期间成功完成25次训练（单路推塔）" />
+			<TaskCount Value="25" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="47" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Use Value="1" />
+			<Type Value="4" />
+			<Description Value="活动期间成功完成10次特训（双路推塔）" />
+			<TaskCount Value="10" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="47" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Use Value="0" />
+			<Type Value="5" />
+			<Description Value="活动期间出售1次物品" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="20" />
+			<RewardGold Value="2000" />
+			<RewardItem Value="46" />
+			<RewardItemNum Value="3" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Use Value="1" />
+			<Type Value="6" />
+			<Description Value="活动期间进行5次星石单抽" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="15" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<Use Value="0" />
+			<Type Value="7" />
+			<Description Value="活动期间进行5次机甲单抽" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="15" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<Use Value="0" />
+			<Type Value="8" />
+			<Description Value="活动期间进行5次星核单抽" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="15" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<Use Value="1" />
+			<Type Value="9" />
+			<Description Value="活动期间成功合成1次星核" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<Use Value="0" />
+			<Type Value="10" />
+			<Description Value="活动期间成功合成1次星石" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<Use Value="0" />
+			<Type Value="11" />
+			<Description Value="活动期间成功合成1次硅晶" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<Use Value="1" />
+			<Type Value="12" />
+			<Description Value="活动期间成功强化星核1次" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="30" />
+			<RewardGold Value="3000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<Use Value="1" />
+			<Type Value="13" />
+			<Description Value="活动期间机甲技能升级30次" />
+			<TaskCount Value="30" />
+			<RewardCurrency Value="40" />
+			<RewardGold Value="4000" />
+			<RewardItem Value="46" />
+			<RewardItemNum Value="10" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<Use Value="0" />
+			<Type Value="14" />
+			<Description Value="活动期间进行50次竞技场挑战" />
+			<TaskCount Value="50" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="47" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<Use Value="1" />
+			<Type Value="15" />
+			<Description Value="活动期间机甲升星3次" />
+			<TaskCount Value="3" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="30" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<Use Value="1" />
+			<Type Value="16" />
+			<Description Value="活动期间进行5次狩猎" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="47" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<Use Value="1" />
+			<Type Value="17" />
+			<Description Value="活动期间进行5次试炼" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="47" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<Use Value="0" />
+			<Type Value="18" />
+			<Description Value="活动期间成上功缴物品50次" />
+			<TaskCount Value="50" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="62" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<Use Value="1" />
+			<Type Value="19" />
+			<Description Value="活动期间购买5次会员礼包" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<Use Value="1" />
+			<Type Value="20" />
+			<Description Value="活动期间购买1次闯关礼包" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<Use Value="0" />
+			<Type Value="21" />
+			<Description Value="活动期间购买1次挑战礼包" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<Use Value="0" />
+			<Type Value="22" />
+			<Description Value="活动期间购买1次战斗礼包" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="4" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<Use Value="1" />
+			<Type Value="23" />
+			<Description Value="活动期间进行一次机甲十连抽" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="30" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<Use Value="0" />
+			<Type Value="24" />
+			<Description Value="活动期间进行一次星核十连抽" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="30" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<Use Value="0" />
+			<Type Value="25" />
+			<Description Value="活动期间进行一次星石十连抽" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="1" />
+			<RewardItemNum Value="30" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<Use Value="1" />
+			<Type Value="26" />
+			<Description Value="活动期间进行30次扫荡" />
+			<TaskCount Value="30" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="62" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<Use Value="1" />
+			<Type Value="27" />
+			<Description Value="活动期间领取一次周卡星钻" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="48" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<Use Value="1" />
+			<Type Value="28" />
+			<Description Value="活动期间领取一次月卡星钻" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="48" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<Use Value="1" />
+			<Type Value="29" />
+			<Description Value="活动期间领取一次金卡星钻" />
+			<TaskCount Value="1" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="5000" />
+			<RewardItem Value="48" />
+			<RewardItemNum Value="1" />
+		</data>
+		<data>
+			<Id Value="39" />
+			<Use Value="1" />
+			<Type Value="100" />
+			<Description Value="活动期间累积到5点数获得50刀币" />
+			<TaskCount Value="5" />
+			<RewardCurrency Value="50" />
+			<RewardGold Value="0" />
+			<RewardItem Value="0" />
+			<RewardItemNum Value="0" />
+		</data>
+		<data>
+			<Id Value="40" />
+			<Use Value="1" />
+			<Type Value="100" />
+			<Description Value="活动期间累积到10点数获得150刀币" />
+			<TaskCount Value="10" />
+			<RewardCurrency Value="150" />
+			<RewardGold Value="0" />
+			<RewardItem Value="0" />
+			<RewardItemNum Value="0" />
+		</data>
+		<data>
+			<Id Value="41" />
+			<Use Value="1" />
+			<Type Value="100" />
+			<Description Value="活动期间累积到15点数获得300刀币" />
+			<TaskCount Value="15" />
+			<RewardCurrency Value="300" />
+			<RewardGold Value="0" />
+			<RewardItem Value="0" />
+			<RewardItemNum Value="0" />
+		</data>
+		<data>
+			<Id Value="42" />
+			<Use Value="1" />
+			<Type Value="100" />
+			<Description Value="活动期间累积到20点数获得450刀币" />
+			<TaskCount Value="20" />
+			<RewardCurrency Value="450" />
+			<RewardGold Value="0" />
+			<RewardItem Value="0" />
+			<RewardItemNum Value="0" />
+		</data>
+	</root>

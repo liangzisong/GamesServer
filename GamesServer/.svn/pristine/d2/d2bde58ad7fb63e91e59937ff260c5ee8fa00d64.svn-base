@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<GangLv Value="1" />
+			<GangExp Value="10000" />
+			<GangCount Value="30" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<GangLv Value="2" />
+			<GangExp Value="50000" />
+			<GangCount Value="35" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<GangLv Value="3" />
+			<GangExp Value="200000" />
+			<GangCount Value="40" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<GangLv Value="4" />
+			<GangExp Value="500000" />
+			<GangCount Value="45" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<GangLv Value="5" />
+			<GangExp Value="0" />
+			<GangCount Value="50" />
+		</data>
+	</root>

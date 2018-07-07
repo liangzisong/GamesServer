@@ -1,0 +1,6359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="31" />
+			<ItemId Value="301" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="81" />
+			<ItemId Value="307" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="131" />
+			<ItemId Value="313" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="181" />
+			<ItemId Value="319" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="231" />
+			<ItemId Value="325" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="281" />
+			<ItemId Value="331" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="331" />
+			<ItemId Value="337" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="381" />
+			<ItemId Value="343" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="431" />
+			<ItemId Value="349" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="481" />
+			<ItemId Value="355" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="531" />
+			<ItemId Value="361" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="581" />
+			<ItemId Value="367" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="631" />
+			<ItemId Value="373" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="681" />
+			<ItemId Value="373" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="731" />
+			<ItemId Value="379" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="781" />
+			<ItemId Value="379" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="831" />
+			<ItemId Value="379" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="881" />
+			<ItemId Value="385" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="931" />
+			<ItemId Value="385" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="981" />
+			<ItemId Value="385" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<ItemId Value="302" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="82" />
+			<ItemId Value="308" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="132" />
+			<ItemId Value="314" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="182" />
+			<ItemId Value="320" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="232" />
+			<ItemId Value="326" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="282" />
+			<ItemId Value="332" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="332" />
+			<ItemId Value="338" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="382" />
+			<ItemId Value="344" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="432" />
+			<ItemId Value="350" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="482" />
+			<ItemId Value="356" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="532" />
+			<ItemId Value="362" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="582" />
+			<ItemId Value="368" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="632" />
+			<ItemId Value="374" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="682" />
+			<ItemId Value="374" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="732" />
+			<ItemId Value="380" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="782" />
+			<ItemId Value="380" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="832" />
+			<ItemId Value="380" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="882" />
+			<ItemId Value="386" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="932" />
+			<ItemId Value="386" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="982" />
+			<ItemId Value="386" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<ItemId Value="303" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="83" />
+			<ItemId Value="309" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="133" />
+			<ItemId Value="315" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="183" />
+			<ItemId Value="321" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="233" />
+			<ItemId Value="327" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="283" />
+			<ItemId Value="333" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="333" />
+			<ItemId Value="339" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="383" />
+			<ItemId Value="345" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="433" />
+			<ItemId Value="351" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="483" />
+			<ItemId Value="357" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="533" />
+			<ItemId Value="363" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="583" />
+			<ItemId Value="369" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="633" />
+			<ItemId Value="375" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="683" />
+			<ItemId Value="375" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="733" />
+			<ItemId Value="381" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="783" />
+			<ItemId Value="381" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="833" />
+			<ItemId Value="381" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="883" />
+			<ItemId Value="387" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="933" />
+			<ItemId Value="387" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="983" />
+			<ItemId Value="387" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<ItemId Value="304" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="84" />
+			<ItemId Value="310" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="134" />
+			<ItemId Value="316" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="184" />
+			<ItemId Value="322" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="234" />
+			<ItemId Value="328" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="284" />
+			<ItemId Value="334" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="334" />
+			<ItemId Value="340" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="384" />
+			<ItemId Value="346" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="434" />
+			<ItemId Value="352" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="484" />
+			<ItemId Value="358" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="534" />
+			<ItemId Value="364" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="584" />
+			<ItemId Value="370" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="634" />
+			<ItemId Value="376" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="684" />
+			<ItemId Value="376" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="734" />
+			<ItemId Value="382" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="784" />
+			<ItemId Value="382" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="834" />
+			<ItemId Value="382" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="884" />
+			<ItemId Value="388" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="934" />
+			<ItemId Value="388" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="984" />
+			<ItemId Value="388" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<ItemId Value="305" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="85" />
+			<ItemId Value="311" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="135" />
+			<ItemId Value="317" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="185" />
+			<ItemId Value="323" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="235" />
+			<ItemId Value="329" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="285" />
+			<ItemId Value="335" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="335" />
+			<ItemId Value="341" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="385" />
+			<ItemId Value="347" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="435" />
+			<ItemId Value="353" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="485" />
+			<ItemId Value="359" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="535" />
+			<ItemId Value="365" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="585" />
+			<ItemId Value="371" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="635" />
+			<ItemId Value="377" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="685" />
+			<ItemId Value="377" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="735" />
+			<ItemId Value="383" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="785" />
+			<ItemId Value="383" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="835" />
+			<ItemId Value="383" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="885" />
+			<ItemId Value="389" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="935" />
+			<ItemId Value="389" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="985" />
+			<ItemId Value="389" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<ItemId Value="306" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="18000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="86" />
+			<ItemId Value="312" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="36000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="136" />
+			<ItemId Value="318" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="54000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="186" />
+			<ItemId Value="324" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="72000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="236" />
+			<ItemId Value="330" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="90000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="286" />
+			<ItemId Value="336" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="108000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="336" />
+			<ItemId Value="342" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="126000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="386" />
+			<ItemId Value="348" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="144000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="436" />
+			<ItemId Value="354" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="162000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="486" />
+			<ItemId Value="360" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="536" />
+			<ItemId Value="366" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="198000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="586" />
+			<ItemId Value="372" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="216000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="636" />
+			<ItemId Value="378" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="686" />
+			<ItemId Value="378" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="234000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="736" />
+			<ItemId Value="384" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="786" />
+			<ItemId Value="384" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="836" />
+			<ItemId Value="384" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="252000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="886" />
+			<ItemId Value="390" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="936" />
+			<ItemId Value="390" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="986" />
+			<ItemId Value="390" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="270000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<ItemId Value="251" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="20000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="87" />
+			<ItemId Value="252" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="40000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="137" />
+			<ItemId Value="253" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="60000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="187" />
+			<ItemId Value="254" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="80000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="237" />
+			<ItemId Value="255" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="100000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="287" />
+			<ItemId Value="256" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="120000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="337" />
+			<ItemId Value="257" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="140000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="387" />
+			<ItemId Value="258" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="160000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="437" />
+			<ItemId Value="259" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="487" />
+			<ItemId Value="260" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="200000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="537" />
+			<ItemId Value="261" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="220000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="587" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="240000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="637" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="240000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="687" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="260000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="737" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="260000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="787" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="260000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="837" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="887" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="937" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="987" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<ItemId Value="252" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="40000" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="88" />
+			<ItemId Value="253" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="60000" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="138" />
+			<ItemId Value="254" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="80000" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="188" />
+			<ItemId Value="255" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="100000" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="238" />
+			<ItemId Value="256" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="120000" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="288" />
+			<ItemId Value="257" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="140000" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="338" />
+			<ItemId Value="258" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="160000" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="388" />
+			<ItemId Value="259" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="180000" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="438" />
+			<ItemId Value="260" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="200000" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="488" />
+			<ItemId Value="261" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="220000" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="538" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="240000" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="588" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="260000" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="638" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="260000" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="688" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="738" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="788" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="280000" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="838" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="300000" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="888" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="300000" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="938" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="300000" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="988" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="1" />
+			<NeedGold Value="300000" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1011" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="150000" />
+			<MinLv Value="0" />
+			<MaxLv Value="0" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1111" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="150000" />
+			<MinLv Value="1" />
+			<MaxLv Value="1" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1211" />
+			<ItemId Value="243" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="300000" />
+			<MinLv Value="2" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1311" />
+			<ItemId Value="243" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="300000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1411" />
+			<ItemId Value="243" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="450000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1511" />
+			<ItemId Value="243" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="450000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1012" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="50000" />
+			<MinLv Value="0" />
+			<MaxLv Value="0" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1112" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="50000" />
+			<MinLv Value="1" />
+			<MaxLv Value="1" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1212" />
+			<ItemId Value="203" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="100000" />
+			<MinLv Value="2" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1312" />
+			<ItemId Value="203" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="100000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1412" />
+			<ItemId Value="203" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="150000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1512" />
+			<ItemId Value="203" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="150000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1013" />
+			<ItemId Value="111" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="34000" />
+			<MinLv Value="0" />
+			<MaxLv Value="0" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1113" />
+			<ItemId Value="111" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="34000" />
+			<MinLv Value="1" />
+			<MaxLv Value="1" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1213" />
+			<ItemId Value="111" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="68000" />
+			<MinLv Value="2" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1313" />
+			<ItemId Value="111" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="68000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1413" />
+			<ItemId Value="111" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="102000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1513" />
+			<ItemId Value="111" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="102000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1114" />
+			<ItemId Value="113" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="49000" />
+			<MinLv Value="1" />
+			<MaxLv Value="1" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1214" />
+			<ItemId Value="113" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="49000" />
+			<MinLv Value="2" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1314" />
+			<ItemId Value="113" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="98000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1414" />
+			<ItemId Value="113" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="98000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1514" />
+			<ItemId Value="113" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="147000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1215" />
+			<ItemId Value="105" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="64000" />
+			<MinLv Value="2" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1315" />
+			<ItemId Value="105" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="64000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1415" />
+			<ItemId Value="105" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="128000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1515" />
+			<ItemId Value="105" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="192000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1316" />
+			<ItemId Value="107" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="79000" />
+			<MinLv Value="3" />
+			<MaxLv Value="3" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1416" />
+			<ItemId Value="107" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="158000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1516" />
+			<ItemId Value="107" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="237000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1417" />
+			<ItemId Value="115" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="188000" />
+			<MinLv Value="4" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1517" />
+			<ItemId Value="115" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="282000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="1518" />
+			<ItemId Value="114" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="2" />
+			<NeedGold Value="327000" />
+			<MinLv Value="5" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2031" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2081" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2131" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2181" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2231" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2281" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2331" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2381" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2431" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2481" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2531" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2581" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2631" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2681" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2731" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2781" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2831" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2881" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2931" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2981" />
+			<ItemId Value="101" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2032" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2082" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2132" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2182" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2232" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2282" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2332" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2382" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2432" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2482" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2532" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2582" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2632" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2682" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2732" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2782" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2832" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2882" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2932" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2982" />
+			<ItemId Value="102" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2033" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2083" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2133" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2183" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2233" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2283" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2333" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2383" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2433" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2483" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2533" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2583" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2633" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2683" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2733" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2783" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2833" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2883" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2933" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2983" />
+			<ItemId Value="103" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="84" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2034" />
+			<ItemId Value="222" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="8" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2084" />
+			<ItemId Value="222" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="8" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2134" />
+			<ItemId Value="222" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="24" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2184" />
+			<ItemId Value="222" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="24" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2234" />
+			<ItemId Value="222" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="32" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2284" />
+			<ItemId Value="222" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="32" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2334" />
+			<ItemId Value="223" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="40" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2384" />
+			<ItemId Value="223" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="80" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2434" />
+			<ItemId Value="223" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="80" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2484" />
+			<ItemId Value="223" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2534" />
+			<ItemId Value="223" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2584" />
+			<ItemId Value="223" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="160" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2634" />
+			<ItemId Value="223" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="160" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2684" />
+			<ItemId Value="224" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="200" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2734" />
+			<ItemId Value="224" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="200" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2784" />
+			<ItemId Value="224" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="400" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2834" />
+			<ItemId Value="224" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="400" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2884" />
+			<ItemId Value="224" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="600" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2934" />
+			<ItemId Value="224" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="600" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2984" />
+			<ItemId Value="224" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="800" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2035" />
+			<ItemId Value="225" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="12" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2085" />
+			<ItemId Value="225" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="24" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2135" />
+			<ItemId Value="225" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="36" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2185" />
+			<ItemId Value="225" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="36" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2235" />
+			<ItemId Value="225" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="48" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2285" />
+			<ItemId Value="225" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="48" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2335" />
+			<ItemId Value="226" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="60" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2385" />
+			<ItemId Value="226" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2435" />
+			<ItemId Value="226" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2485" />
+			<ItemId Value="226" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="180" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2535" />
+			<ItemId Value="226" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="180" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2585" />
+			<ItemId Value="226" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="240" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2635" />
+			<ItemId Value="226" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="240" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2685" />
+			<ItemId Value="227" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="300" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2735" />
+			<ItemId Value="227" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="300" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2785" />
+			<ItemId Value="227" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="600" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2835" />
+			<ItemId Value="227" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="600" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2885" />
+			<ItemId Value="227" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="900" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2935" />
+			<ItemId Value="227" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="900" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2985" />
+			<ItemId Value="227" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="1200" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2036" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2086" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2136" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2186" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2236" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2286" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2336" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2386" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2436" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2486" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2536" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2586" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2636" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2686" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2736" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2786" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2836" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2886" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2936" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2986" />
+			<ItemId Value="241" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2037" />
+			<ItemId Value="251" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="10" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2087" />
+			<ItemId Value="252" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="20" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2137" />
+			<ItemId Value="253" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="30" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2187" />
+			<ItemId Value="254" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="40" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2237" />
+			<ItemId Value="255" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="50" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2287" />
+			<ItemId Value="256" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="60" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2337" />
+			<ItemId Value="257" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="70" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2387" />
+			<ItemId Value="258" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="80" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2437" />
+			<ItemId Value="259" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="90" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2487" />
+			<ItemId Value="260" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="100" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2537" />
+			<ItemId Value="261" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="110" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2587" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2637" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2687" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="130" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2737" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="130" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2787" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="130" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2837" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2887" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2937" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2987" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2038" />
+			<ItemId Value="252" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="20" />
+			<MinLv Value="1" />
+			<MaxLv Value="5" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2088" />
+			<ItemId Value="253" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="30" />
+			<MinLv Value="6" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2138" />
+			<ItemId Value="254" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="40" />
+			<MinLv Value="11" />
+			<MaxLv Value="15" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2188" />
+			<ItemId Value="255" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="50" />
+			<MinLv Value="16" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2238" />
+			<ItemId Value="256" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="60" />
+			<MinLv Value="21" />
+			<MaxLv Value="25" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2288" />
+			<ItemId Value="257" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="70" />
+			<MinLv Value="26" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2338" />
+			<ItemId Value="258" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="80" />
+			<MinLv Value="31" />
+			<MaxLv Value="35" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2388" />
+			<ItemId Value="259" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="90" />
+			<MinLv Value="36" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2438" />
+			<ItemId Value="260" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="100" />
+			<MinLv Value="41" />
+			<MaxLv Value="45" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2488" />
+			<ItemId Value="261" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="110" />
+			<MinLv Value="46" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2538" />
+			<ItemId Value="262" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="120" />
+			<MinLv Value="51" />
+			<MaxLv Value="55" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2588" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="130" />
+			<MinLv Value="56" />
+			<MaxLv Value="60" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2638" />
+			<ItemId Value="263" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="130" />
+			<MinLv Value="61" />
+			<MaxLv Value="65" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2688" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="66" />
+			<MaxLv Value="70" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2738" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="71" />
+			<MaxLv Value="75" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2788" />
+			<ItemId Value="264" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="140" />
+			<MinLv Value="76" />
+			<MaxLv Value="80" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2838" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="81" />
+			<MaxLv Value="85" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2888" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="86" />
+			<MaxLv Value="90" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2938" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="91" />
+			<MaxLv Value="95" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="2988" />
+			<ItemId Value="265" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="3" />
+			<NeedGold Value="150" />
+			<MinLv Value="96" />
+			<MaxLv Value="100" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3011" />
+			<ItemId Value="222" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="4" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3111" />
+			<ItemId Value="222" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="4" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3211" />
+			<ItemId Value="223" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="20" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3311" />
+			<ItemId Value="223" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="20" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3411" />
+			<ItemId Value="224" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="60" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3511" />
+			<ItemId Value="224" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="60" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3012" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="5" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3112" />
+			<ItemId Value="201" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="10" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3212" />
+			<ItemId Value="201" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="15" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3312" />
+			<ItemId Value="201" />
+			<Quantity Value="4" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="20" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3412" />
+			<ItemId Value="201" />
+			<Quantity Value="5" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="25" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3512" />
+			<ItemId Value="201" />
+			<Quantity Value="6" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="30" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3013" />
+			<ItemId Value="104" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3113" />
+			<ItemId Value="104" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3213" />
+			<ItemId Value="104" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3313" />
+			<ItemId Value="104" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3413" />
+			<ItemId Value="104" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3513" />
+			<ItemId Value="104" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3014" />
+			<ItemId Value="106" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3114" />
+			<ItemId Value="106" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3214" />
+			<ItemId Value="106" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3314" />
+			<ItemId Value="106" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3414" />
+			<ItemId Value="106" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3514" />
+			<ItemId Value="106" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3015" />
+			<ItemId Value="108" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3115" />
+			<ItemId Value="108" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3215" />
+			<ItemId Value="108" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3315" />
+			<ItemId Value="108" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3415" />
+			<ItemId Value="108" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3515" />
+			<ItemId Value="108" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3016" />
+			<ItemId Value="110" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3116" />
+			<ItemId Value="110" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3216" />
+			<ItemId Value="110" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3316" />
+			<ItemId Value="110" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3416" />
+			<ItemId Value="110" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3516" />
+			<ItemId Value="110" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3017" />
+			<ItemId Value="112" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3117" />
+			<ItemId Value="112" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3217" />
+			<ItemId Value="112" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3317" />
+			<ItemId Value="112" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3417" />
+			<ItemId Value="112" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3517" />
+			<ItemId Value="112" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3018" />
+			<ItemId Value="116" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="1" />
+			<MaxLv Value="2" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3118" />
+			<ItemId Value="116" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="3" />
+			<MaxLv Value="4" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3218" />
+			<ItemId Value="116" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="5" />
+			<MaxLv Value="6" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3318" />
+			<ItemId Value="116" />
+			<Quantity Value="2" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="7" />
+			<MaxLv Value="8" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3418" />
+			<ItemId Value="116" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="9" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="3518" />
+			<ItemId Value="116" />
+			<Quantity Value="3" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="4" />
+			<NeedGold Value="19" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4001" />
+			<ItemId Value="281" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="180" />
+			<MinLv Value="0" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4011" />
+			<ItemId Value="282" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="360" />
+			<MinLv Value="1" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4021" />
+			<ItemId Value="283" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="228" />
+			<MinLv Value="2" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4031" />
+			<ItemId Value="284" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="398" />
+			<MinLv Value="3" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4041" />
+			<ItemId Value="285" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="278" />
+			<MinLv Value="4" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4051" />
+			<ItemId Value="286" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="418" />
+			<MinLv Value="5" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4061" />
+			<ItemId Value="287" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="328" />
+			<MinLv Value="6" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4071" />
+			<ItemId Value="288" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="468" />
+			<MinLv Value="7" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4081" />
+			<ItemId Value="289" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="618" />
+			<MinLv Value="8" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4091" />
+			<ItemId Value="290" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="528" />
+			<MinLv Value="9" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4101" />
+			<ItemId Value="291" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="668" />
+			<MinLv Value="10" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4111" />
+			<ItemId Value="292" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="538" />
+			<MinLv Value="11" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="4121" />
+			<ItemId Value="293" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="5" />
+			<NeedGold Value="688" />
+			<MinLv Value="12" />
+			<MaxLv Value="12" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5011" />
+			<ItemId Value="109" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5111" />
+			<ItemId Value="109" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5211" />
+			<ItemId Value="109" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5311" />
+			<ItemId Value="109" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5411" />
+			<ItemId Value="109" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5012" />
+			<ItemId Value="117" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5112" />
+			<ItemId Value="117" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5212" />
+			<ItemId Value="117" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5312" />
+			<ItemId Value="117" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5412" />
+			<ItemId Value="117" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="2800" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5013" />
+			<ItemId Value="241" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5113" />
+			<ItemId Value="241" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5213" />
+			<ItemId Value="241" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5313" />
+			<ItemId Value="241" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5413" />
+			<ItemId Value="241" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5014" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5114" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5214" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5314" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5414" />
+			<ItemId Value="243" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5015" />
+			<ItemId Value="213" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="3000" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5115" />
+			<ItemId Value="214" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="15000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5215" />
+			<ItemId Value="214" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="15000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5315" />
+			<ItemId Value="215" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="75000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5415" />
+			<ItemId Value="215" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="75000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5016" />
+			<ItemId Value="225" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1200" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5116" />
+			<ItemId Value="226" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="6000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5216" />
+			<ItemId Value="226" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="6000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5316" />
+			<ItemId Value="227" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5416" />
+			<ItemId Value="227" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="30000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5017" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="10000" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5117" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="10000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5217" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="10000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5317" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="10000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5417" />
+			<ItemId Value="203" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="10000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5018" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1000" />
+			<MinLv Value="1" />
+			<MaxLv Value="10" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5118" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1000" />
+			<MinLv Value="11" />
+			<MaxLv Value="20" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5218" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1000" />
+			<MinLv Value="21" />
+			<MaxLv Value="30" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5318" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1000" />
+			<MinLv Value="31" />
+			<MaxLv Value="40" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+		<data>
+			<Id Value="5418" />
+			<ItemId Value="201" />
+			<Quantity Value="1" />
+			<ExchangeNum Value="1" />
+			<ShopType Value="6" />
+			<NeedGold Value="1000" />
+			<MinLv Value="41" />
+			<MaxLv Value="50" />
+			<IconPath Value="" />
+			<StartDate Value="2017-07-12 00:00:00" />
+			<EndDate Value="2030-07-20 23:59:59" />
+			<ItemType Value="GOODS" />
+		</data>
+	</root>

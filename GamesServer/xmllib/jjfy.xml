@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Group Value="0" />
+			<GetRank Value="3000" />
+			<GetGold Value="5000" />
+			<GetStore Value="20" />
+			<ItemId Value="4" />
+			<ItemNum Value="1" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Group Value="0" />
+			<GetRank Value="500" />
+			<GetGold Value="10000" />
+			<GetStore Value="40" />
+			<ItemId Value="4" />
+			<ItemNum Value="1" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Group Value="0" />
+			<GetRank Value="150" />
+			<GetGold Value="15000" />
+			<GetStore Value="60" />
+			<ItemId Value="4" />
+			<ItemNum Value="2" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Group Value="1" />
+			<GetRank Value="500" />
+			<GetGold Value="20000" />
+			<GetStore Value="80" />
+			<ItemId Value="4" />
+			<ItemNum Value="2" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Group Value="1" />
+			<GetRank Value="200" />
+			<GetGold Value="25000" />
+			<GetStore Value="100" />
+			<ItemId Value="4" />
+			<ItemNum Value="3" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Group Value="1" />
+			<GetRank Value="100" />
+			<GetGold Value="30000" />
+			<GetStore Value="120" />
+			<ItemId Value="4" />
+			<ItemNum Value="3" />
+			<IconPath Value="铜硅石" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Group Value="2" />
+			<GetRank Value="350" />
+			<GetGold Value="35000" />
+			<GetStore Value="140" />
+			<ItemId Value="3" />
+			<ItemNum Value="1" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Group Value="2" />
+			<GetRank Value="100" />
+			<GetGold Value="40000" />
+			<GetStore Value="160" />
+			<ItemId Value="3" />
+			<ItemNum Value="1" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Group Value="2" />
+			<GetRank Value="20" />
+			<GetGold Value="45000" />
+			<GetStore Value="180" />
+			<ItemId Value="3" />
+			<ItemNum Value="2" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Group Value="3" />
+			<GetRank Value="150" />
+			<GetGold Value="50000" />
+			<GetStore Value="200" />
+			<ItemId Value="3" />
+			<ItemNum Value="2" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Group Value="3" />
+			<GetRank Value="50" />
+			<GetGold Value="55000" />
+			<GetStore Value="220" />
+			<ItemId Value="3" />
+			<ItemNum Value="3" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Group Value="3" />
+			<GetRank Value="10" />
+			<GetGold Value="60000" />
+			<GetStore Value="240" />
+			<ItemId Value="3" />
+			<ItemNum Value="3" />
+			<IconPath Value="银硅石" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Group Value="4" />
+			<GetRank Value="50" />
+			<GetGold Value="65000" />
+			<GetStore Value="260" />
+			<ItemId Value="2" />
+			<ItemNum Value="1" />
+			<IconPath Value="金硅石" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Group Value="4" />
+			<GetRank Value="25" />
+			<GetGold Value="70000" />
+			<GetStore Value="280" />
+			<ItemId Value="2" />
+			<ItemNum Value="1" />
+			<IconPath Value="金硅石" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Group Value="4" />
+			<GetRank Value="5" />
+			<GetGold Value="75000" />
+			<GetStore Value="300" />
+			<ItemId Value="2" />
+			<ItemNum Value="2" />
+			<IconPath Value="金硅石" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<Group Value="5" />
+			<GetRank Value="10" />
+			<GetGold Value="80000" />
+			<GetStore Value="320" />
+			<ItemId Value="2" />
+			<ItemNum Value="2" />
+			<IconPath Value="金硅石" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<Group Value="5" />
+			<GetRank Value="3" />
+			<GetGold Value="85000" />
+			<GetStore Value="340" />
+			<ItemId Value="2" />
+			<ItemNum Value="3" />
+			<IconPath Value="金硅石" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<Group Value="5" />
+			<GetRank Value="1" />
+			<GetGold Value="90000" />
+			<GetStore Value="360" />
+			<ItemId Value="2" />
+			<ItemNum Value="3" />
+			<IconPath Value="金硅石" />
+		</data>
+	</root>

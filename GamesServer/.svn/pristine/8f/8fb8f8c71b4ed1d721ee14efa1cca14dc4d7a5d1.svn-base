@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<BuffName Value="疗伤" />
+			<BuffDescription Value="持续恢复己方生命" />
+			<AttName Value="生命恢复" />
+			<BuffAddAtrribute Value="RecoverySpeed" />
+			<AddBuffPro Value="10" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<BuffName Value="加固１" />
+			<BuffDescription Value="我方增加物理防御力" />
+			<AttName Value="物攻" />
+			<BuffAddAtrribute Value="PhyAttack" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<BuffName Value="加固２" />
+			<BuffDescription Value="我方增加能量防御力" />
+			<AttName Value="电攻" />
+			<BuffAddAtrribute Value="EleAttack" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<BuffName Value="强化1" />
+			<BuffDescription Value="我方加物理攻击" />
+			<AttName Value="物防" />
+			<BuffAddAtrribute Value="PhyDefence" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<BuffName Value="强化2" />
+			<BuffDescription Value="我方加能量攻击" />
+			<AttName Value="电防" />
+			<BuffAddAtrribute Value="EleDefence" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<BuffName Value="吸能１" />
+			<BuffDescription Value="我方加物理吸血" />
+			<AttName Value="物吸" />
+			<BuffAddAtrribute Value="PhySuckBlood" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<BuffName Value="吸能２" />
+			<BuffDescription Value="我方加能量吸血" />
+			<AttName Value="电吸" />
+			<BuffAddAtrribute Value="EleSuckBlood" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<BuffName Value="坚韧１" />
+			<BuffDescription Value="我方加物理反弹" />
+			<AttName Value="物反" />
+			<BuffAddAtrribute Value="PhyRebound" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<BuffName Value="坚韧２" />
+			<BuffDescription Value="我方加能量反弹" />
+			<AttName Value="电反" />
+			<BuffAddAtrribute Value="EleRebound" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<BuffName Value="勇猛" />
+			<BuffDescription Value="我方加暴击率" />
+			<AttName Value="暴击" />
+			<BuffAddAtrribute Value="CriticalHitPro" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<BuffName Value="狂暴" />
+			<BuffDescription Value="我方增加暴击伤害" />
+			<AttName Value="暴伤" />
+			<BuffAddAtrribute Value="CriticalHitHurtPer" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<BuffName Value="抵抗" />
+			<BuffDescription Value="我方加免暴" />
+			<AttName Value="免暴" />
+			<BuffAddAtrribute Value="CriticalHitProDef" />
+			<AddBuffPro Value="0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<BuffName Value="狂暴" />
+			<BuffDescription Value="我方加攻速" />
+			<AttName Value="攻速" />
+			<BuffAddAtrribute Value="AttackSpeed" />
+			<AddBuffPro Value="0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<BuffName Value="奔跑" />
+			<BuffDescription Value="我方加移速" />
+			<AttName Value="移速" />
+			<BuffAddAtrribute Value="MoveSpeed" />
+			<AddBuffPro Value="0.2" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<BuffName Value="加快" />
+			<BuffDescription Value="我方CD冷却时间加速" />
+			<AttName Value="CD" />
+			<BuffAddAtrribute Value="CD" />
+			<AddBuffPro Value="-0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<BuffName Value="点燃" />
+			<BuffDescription Value="持续消耗对方生命" />
+			<AttName Value="生命" />
+			<BuffAddAtrribute Value="HP" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="-0.02" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<BuffName Value="弱化１" />
+			<BuffDescription Value="对方减物理攻击" />
+			<AttName Value="物攻" />
+			<BuffAddAtrribute Value="PhyAttack" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.5" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<BuffName Value="弱化２" />
+			<BuffDescription Value="对方减能量攻击" />
+			<AttName Value="电攻" />
+			<BuffAddAtrribute Value="EleAttack" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.5" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<BuffName Value="腐蚀１" />
+			<BuffDescription Value="对方减少物理防御" />
+			<AttName Value="物防" />
+			<BuffAddAtrribute Value="PhyDefence" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.5" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<BuffName Value="腐蚀２" />
+			<BuffDescription Value="对方减少电磁防御" />
+			<AttName Value="电防" />
+			<BuffAddAtrribute Value="EleDefence" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.5" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<BuffName Value="钝化１" />
+			<BuffDescription Value="对方减物理穿透" />
+			<AttName Value="物穿" />
+			<BuffAddAtrribute Value="PhyPenetrate" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<BuffName Value="钝化２" />
+			<BuffDescription Value="对方减能量穿透" />
+			<AttName Value="电穿" />
+			<BuffAddAtrribute Value="ElePenetrate" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<BuffName Value="固化１" />
+			<BuffDescription Value="对方减少物理吸血" />
+			<AttName Value="物吸" />
+			<BuffAddAtrribute Value="PhySuckBlood" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<BuffName Value="固化２" />
+			<BuffDescription Value="对方减少能量吸血" />
+			<AttName Value="电吸" />
+			<BuffAddAtrribute Value="EleSuckBlood" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<BuffName Value="软化１" />
+			<BuffDescription Value="对文减少物理反弹" />
+			<AttName Value="物反" />
+			<BuffAddAtrribute Value="PhyRebound" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<BuffName Value="软化２" />
+			<BuffDescription Value="对方减少能量反弹" />
+			<AttName Value="电反" />
+			<BuffAddAtrribute Value="EleRebound" />
+			<AddBuffPro Value="-0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<BuffName Value="胆怯" />
+			<BuffDescription Value="降低对方暴击率" />
+			<AttName Value="暴击" />
+			<BuffAddAtrribute Value="CriticalHitPro" />
+			<AddBuffPro Value="-0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<BuffName Value="削弱" />
+			<BuffDescription Value="降低对方暴击伤害" />
+			<AttName Value="暴伤" />
+			<BuffAddAtrribute Value="CriticalHitHurtPer" />
+			<AddBuffPro Value="-0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<BuffName Value="慌乱" />
+			<BuffDescription Value="对方减免暴" />
+			<AttName Value="免暴" />
+			<BuffAddAtrribute Value="CriticalHitProDef" />
+			<AddBuffPro Value="-0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<BuffName Value="混乱" />
+			<BuffDescription Value="对方减攻速" />
+			<AttName Value="攻速" />
+			<BuffAddAtrribute Value="AttackSpeed" />
+			<AddBuffPro Value="-0.5" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<BuffName Value="寒冰" />
+			<BuffDescription Value="对方减移速" />
+			<AttName Value="移速" />
+			<BuffAddAtrribute Value="MoveSpeed" />
+			<AddBuffPro Value="-0.2" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<BuffName Value="衰减" />
+			<BuffDescription Value="对方CD冷却时间减速" />
+			<AttName Value="CD" />
+			<BuffAddAtrribute Value="CD" />
+			<AddBuffPro Value="1" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<BuffName Value="变大" />
+			<BuffDescription Value="我方变大" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="变形类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<BuffName Value="嘲讽" />
+			<BuffDescription Value="我方仇恨值升到最高" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="嘲讽类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<BuffName Value="封技" />
+			<BuffDescription Value="对方无法使用技能" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="限制状态类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<BuffName Value="麻痹" />
+			<BuffDescription Value="对方无法普击" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="限制状态类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<BuffName Value="石化" />
+			<BuffDescription Value="对方无法移动" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="限制状态类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<BuffName Value="免伤" />
+			<BuffDescription Value="我方不会受到伤害" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="39" />
+			<BuffName Value="圣洁" />
+			<BuffDescription Value="我方免疫所有负面状态" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="40" />
+			<BuffName Value="免疫" />
+			<BuffDescription Value="我方免疫所有状态" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="41" />
+			<BuffName Value="眩晕" />
+			<BuffDescription Value="对方被击晕" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="3" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="限制状态类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="42" />
+			<BuffName Value="无敌" />
+			<BuffDescription Value="免疫所有负面状态与伤害" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="43" />
+			<BuffName Value="圣盾" />
+			<BuffDescription Value="免疫所有状态与伤害" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="88" />
+			<BuffName Value="闪耀" />
+			<BuffDescription Value="我方视野变大" />
+			<AttName Value="视野" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="89" />
+			<BuffName Value="躲闪" />
+			<BuffDescription Value="增加免疫伤害机率" />
+			<AttName Value="免伤机率" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="0.4" />
+			<ChangePro Value="1" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="90" />
+			<BuffName Value="护盾" />
+			<BuffDescription Value="我方减少敌方带来的伤害" />
+			<AttName Value="被伤害" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.5" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="91" />
+			<BuffName Value="标记" />
+			<BuffDescription Value="给一个敌人种下一个标记" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="嘲讽类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="92" />
+			<BuffName Value="伪装" />
+			<BuffDescription Value="伪装成同组上阵机甲，施放技能时恢复。" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="变形类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="93" />
+			<BuffName Value="失明" />
+			<BuffDescription Value="对方视野变小" />
+			<AttName Value="视野" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="0.7" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="94" />
+			<BuffName Value="迟钝" />
+			<BuffDescription Value="使对方遭受到的伤害增加" />
+			<AttName Value="被伤害" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="0" />
+			<ChangePro Value="2" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="增加属性类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="95" />
+			<BuffName Value="免疫失明" />
+			<BuffDescription Value="我方不会被减视野" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="42" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="96" />
+			<BuffName Value="免疫迟钝" />
+			<BuffDescription Value="我方不会增加受到伤害比率" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="43" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="97" />
+			<BuffName Value="变小" />
+			<BuffDescription Value="对方变小" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="变形类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="98" />
+			<BuffName Value="免疫变小" />
+			<BuffDescription Value="我方不会被变小" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="45" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="99" />
+			<BuffName Value="黑化" />
+			<BuffDescription Value="对方免疫所有正面状态" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="100" />
+			<BuffName Value="隔离" />
+			<BuffDescription Value="对方免疫所有状态" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="101" />
+			<BuffName Value="免疫弱化１" />
+			<BuffDescription Value="我方不会被减物理攻击" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="26" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="102" />
+			<BuffName Value="免疫弱化２" />
+			<BuffDescription Value="我方不会被减电磁攻击" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="27" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="103" />
+			<BuffName Value="免疫腐蚀１" />
+			<BuffDescription Value="我方不会被减物理防御" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="28" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="104" />
+			<BuffName Value="免疫腐蚀２" />
+			<BuffDescription Value="我方不会被减电磁防御" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="29" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="105" />
+			<BuffName Value="免疫固化１" />
+			<BuffDescription Value="我方不会被减物理吸血" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="32" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="106" />
+			<BuffName Value="免疫固化２" />
+			<BuffDescription Value="我方不会被减电磁吸血" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="33" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="107" />
+			<BuffName Value="免疫软化１" />
+			<BuffDescription Value="我方不会被减物理反弹" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="34" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="108" />
+			<BuffName Value="免疫软化２" />
+			<BuffDescription Value="我方不会被减电磁反弹" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="35" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="109" />
+			<BuffName Value="免疫胆怯" />
+			<BuffDescription Value="我方不会被减暴击率" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="36" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="110" />
+			<BuffName Value="免疫削弱" />
+			<BuffDescription Value="我方不会被减暴击伤害" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="37" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="111" />
+			<BuffName Value="免疫慌乱" />
+			<BuffDescription Value="我方不会被减免暴率" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="38" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="112" />
+			<BuffName Value="免疫混乱" />
+			<BuffDescription Value="我方不会被减攻速" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="39" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="113" />
+			<BuffName Value="免疫寒冰" />
+			<BuffDescription Value="我方不会被减移速" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="40" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="114" />
+			<BuffName Value="免疫衰减" />
+			<BuffDescription Value="我方不会被减速CD冷却时间" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="41" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="115" />
+			<BuffName Value="免疫点燃" />
+			<BuffDescription Value="我方不会被点燃" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="23" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="116" />
+			<BuffName Value="免疫封技" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="49" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="117" />
+			<BuffName Value="免疫麻痹" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="50" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="118" />
+			<BuffName Value="免疫石化" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="51" />
+			<ChangeState Value="" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="119" />
+			<BuffName Value="免疫击飞" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="87" />
+			<ChangeState Value="击飞" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="120" />
+			<BuffName Value="免疫击退" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="86" />
+			<ChangeState Value="击退" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+		<data>
+			<Id Value="121" />
+			<BuffName Value="免疫眩晕" />
+			<BuffDescription Value="" />
+			<AttName Value="" />
+			<BuffAddAtrribute Value="" />
+			<AddBuffPro Value="" />
+			<ChangePro Value="" />
+			<BuffTime Value="5" />
+			<ImmuneId Value="85" />
+			<ChangeState Value="眩晕" />
+			<BuffType Value="免疫类" />
+			<IconPath Value="" />
+		</data>
+	</root>

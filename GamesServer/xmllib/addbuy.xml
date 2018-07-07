@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Diamons Value="100" />
+			<GetGold Value="3000" />
+			<ChipId Value="49" />
+			<GemId Value="28" />
+			<FighterId Value="0" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjxfDesc Value="[EFBEAB]活动时间：2017年8月9日 ---- 2017年8月17日&#xA;活动内容：&#xA;    活动期间，累计消费达到[FFD658]100星钻[-]，可获得[FEF7D1]3000星币[-]，星核[FEF7D1]狡狐图腾[-]，星石[FEF7D1]吹毛利刃[-]。&#xA;    累计消费达到[FFD658]1000星钻[-]，可获得[FEF7D1]30000星币[-]，星核[FEF7D1]光明之眼[-]，星石[FEF7D1]风驰电掣[-]。&#xA;    累计消费达到[FFD658]3000星钻[-]，可获得[FEF7D1]60000星币[-]，星核[FEF7D1]悲伤之眼[-]，星石[FEF7D1]勇冠群雄[-]。&#xA;    累计消费达到[FFD658]10000星钻[-]，可获得[FEF7D1]90000星币[-]，星核[FEF7D1]光无影[-]，星石[FEF7D1]攻无不克[-]。&#xA;    累计消费达到[FFD658]30000星钻[-]，可获得[FEF7D1]120000星币[-]，星核[FEF7D1]力量之源[-]，星石[FEF7D1]亘古不灭[-]，11星机甲[FEF7D1]光·巴尔[-]。[-]" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Diamons Value="1000" />
+			<GetGold Value="30000" />
+			<ChipId Value="65" />
+			<GemId Value="34" />
+			<FighterId Value="0" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjxfDesc Value="" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Diamons Value="3000" />
+			<GetGold Value="60000" />
+			<ChipId Value="66" />
+			<GemId Value="20" />
+			<FighterId Value="0" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjxfDesc Value="" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Diamons Value="10000" />
+			<GetGold Value="90000" />
+			<ChipId Value="214" />
+			<GemId Value="25" />
+			<FighterId Value="0" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjxfDesc Value="" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Diamons Value="30000" />
+			<GetGold Value="120000" />
+			<ChipId Value="106" />
+			<GemId Value="75" />
+			<FighterId Value="13" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<LjxfDesc Value="" />
+		</data>
+	</root>

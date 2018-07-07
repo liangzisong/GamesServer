@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="13" />
+			<Name Value="BOSS2" />
+			<Type1 Value="Range" />
+			<Type2 Value="None" />
+			<InitialHP Value="2000" />
+			<InitialHurt1 Value="30" />
+			<InitialHurt2 Value="30" />
+			<InitialHurt3 Value="40" />
+			<LvlupHP Value="2000" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="25" />
+			<LvlupEleAtt Value="25" />
+			<LvlupEleDef Value="50" />
+			<LvlupHart Value="100" />
+			<SkillId1 Value="37" />
+			<SkillId2 Value="38" />
+			<SkillId3 Value="39" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Name Value="BOSS3" />
+			<Type1 Value="Range" />
+			<Type2 Value="None" />
+			<InitialHP Value="2000" />
+			<InitialHurt1 Value="24" />
+			<InitialHurt2 Value="30" />
+			<InitialHurt3 Value="46" />
+			<LvlupHP Value="2000" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="25" />
+			<LvlupEleAtt Value="25" />
+			<LvlupEleDef Value="50" />
+			<LvlupHart Value="100" />
+			<SkillId1 Value="40" />
+			<SkillId2 Value="41" />
+			<SkillId3 Value="42" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Name Value="BOSS1" />
+			<Type1 Value="CloseCombat" />
+			<Type2 Value="None" />
+			<InitialHP Value="3000" />
+			<InitialHurt1 Value="24" />
+			<InitialHurt2 Value="30" />
+			<InitialHurt3 Value="40" />
+			<LvlupHP Value="3000" />
+			<LvlupPhyAtt Value="20" />
+			<LvlupPhyDef Value="60" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="60" />
+			<LvlupHart Value="94" />
+			<SkillId1 Value="43" />
+			<SkillId2 Value="44" />
+			<SkillId3 Value="45" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<Name Value="光·道尔" />
+			<Type1 Value="CloseCombat" />
+			<Type2 Value="None" />
+			<InitialHP Value="1800" />
+			<InitialHurt1 Value="25" />
+			<InitialHurt2 Value="35" />
+			<InitialHurt3 Value="50" />
+			<LvlupHP Value="1800" />
+			<LvlupPhyAtt Value="60" />
+			<LvlupPhyDef Value="40" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="30" />
+			<LvlupHart Value="110" />
+			<SkillId1 Value="34" />
+			<SkillId2 Value="35" />
+			<SkillId3 Value="36" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<Name Value="巫·潘哒哒" />
+			<Type1 Value="Tank" />
+			<Type2 Value="None" />
+			<InitialHP Value="2100" />
+			<InitialHurt1 Value="25" />
+			<InitialHurt2 Value="30" />
+			<InitialHurt3 Value="40" />
+			<LvlupHP Value="2100" />
+			<LvlupPhyAtt Value="35" />
+			<LvlupPhyDef Value="60" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="60" />
+			<LvlupHart Value="95" />
+			<SkillId1 Value="46" />
+			<SkillId2 Value="47" />
+			<SkillId3 Value="48" />
+		</data>
+		<data>
+			<Id Value="1001" />
+			<Name Value="火焰兵" />
+			<Type1 Value="CloseCombat" />
+			<Type2 Value="None" />
+			<InitialHP Value="80" />
+			<InitialHurt1 Value="10" />
+			<InitialHurt2 Value="10" />
+			<InitialHurt3 Value="10" />
+			<LvlupHP Value="80" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="15" />
+			<LvlupEleAtt Value="20" />
+			<LvlupEleDef Value="15" />
+			<LvlupHart Value="30" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1002" />
+			<Name Value="机枪兵" />
+			<Type1 Value="Range" />
+			<Type2 Value="None" />
+			<InitialHP Value="50" />
+			<InitialHurt1 Value="15" />
+			<InitialHurt2 Value="15" />
+			<InitialHurt3 Value="15" />
+			<LvlupHP Value="50" />
+			<LvlupPhyAtt Value="20" />
+			<LvlupPhyDef Value="15" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="15" />
+			<LvlupHart Value="45" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1003" />
+			<Name Value="医疗兵" />
+			<Type1 Value="Assist" />
+			<Type2 Value="None" />
+			<InitialHP Value="60" />
+			<InitialHurt1 Value="0" />
+			<InitialHurt2 Value="0" />
+			<InitialHurt3 Value="0" />
+			<LvlupHP Value="60" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="20" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="20" />
+			<LvlupHart Value="0" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1004" />
+			<Name Value="小巴尔" />
+			<Type1 Value="CloseCombat" />
+			<Type2 Value="None" />
+			<InitialHP Value="80" />
+			<InitialHurt1 Value="10" />
+			<InitialHurt2 Value="10" />
+			<InitialHurt3 Value="10" />
+			<LvlupHP Value="80" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="15" />
+			<LvlupEleAtt Value="20" />
+			<LvlupEleDef Value="15" />
+			<LvlupHart Value="30" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1005" />
+			<Name Value="小布尔" />
+			<Type1 Value="CloseCombat" />
+			<Type2 Value="None" />
+			<InitialHP Value="70" />
+			<InitialHurt1 Value="10" />
+			<InitialHurt2 Value="10" />
+			<InitialHurt3 Value="10" />
+			<LvlupHP Value="70" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="15" />
+			<LvlupEleAtt Value="20" />
+			<LvlupEleDef Value="15" />
+			<LvlupHart Value="30" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1006" />
+			<Name Value="小卡尔" />
+			<Type1 Value="Range" />
+			<Type2 Value="None" />
+			<InitialHP Value="60" />
+			<InitialHurt1 Value="15" />
+			<InitialHurt2 Value="15" />
+			<InitialHurt3 Value="15" />
+			<LvlupHP Value="60" />
+			<LvlupPhyAtt Value="20" />
+			<LvlupPhyDef Value="15" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="15" />
+			<LvlupHart Value="45" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1011" />
+			<Name Value="防御塔" />
+			<Type1 Value="Build" />
+			<Type2 Value="None" />
+			<InitialHP Value="600" />
+			<InitialHurt1 Value="20" />
+			<InitialHurt2 Value="20" />
+			<InitialHurt3 Value="20" />
+			<LvlupHP Value="600" />
+			<LvlupPhyAtt Value="20" />
+			<LvlupPhyDef Value="20" />
+			<LvlupEleAtt Value="20" />
+			<LvlupEleDef Value="20" />
+			<LvlupHart Value="60" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+		<data>
+			<Id Value="1012" />
+			<Name Value="基地" />
+			<Type1 Value="Build" />
+			<Type2 Value="None" />
+			<InitialHP Value="1000" />
+			<InitialHurt1 Value="0" />
+			<InitialHurt2 Value="0" />
+			<InitialHurt3 Value="0" />
+			<LvlupHP Value="1000" />
+			<LvlupPhyAtt Value="0" />
+			<LvlupPhyDef Value="50" />
+			<LvlupEleAtt Value="0" />
+			<LvlupEleDef Value="50" />
+			<LvlupHart Value="0" />
+			<SkillId1 Value="0" />
+			<SkillId2 Value="0" />
+			<SkillId3 Value="0" />
+		</data>
+	</root>

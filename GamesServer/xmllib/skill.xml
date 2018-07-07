@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<MechId Value="2" />
+			<SkillName Value="疯狂木马" />
+			<Description Value="机甲快速旋转，利用离心力造成强力伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="5" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.12" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<MechId Value="2" />
+			<SkillName Value="组合拳" />
+			<Description Value="不间断地快速连续用拳头打击敌人，造成强力伤害，同时造成眩晕。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="20" />
+			<LvlupAddProbability Value="0.001" />
+			<InitialProbability Value="0.06" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<MechId Value="2" />
+			<SkillName Value="祝福" />
+			<Description Value="增加大光圈内己方的攻击力与攻击速度。每增加一级攻击力与攻击速度增加。" />
+			<LvlupAddAtt Value="Attack" />
+			<BuffTime Value="5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.2" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<MechId Value="1" />
+			<SkillName Value="奋力一击" />
+			<Description Value="跳起后奋力砸向敌人，对敌人造成巨大伤害，同时造成眩晕。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="13" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<MechId Value="1" />
+			<SkillName Value="超频" />
+			<Description Value="降低大光圈内敌人的移动速度与攻击速度。每增加一级移动速度与攻击速度增加。" />
+			<LvlupAddAtt Value="Speed" />
+			<BuffTime Value="5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.3" />
+			<CD Value="11" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<MechId Value="1" />
+			<SkillName Value="飞轮" />
+			<Description Value="丢出一个飞轮，对飞轮周围的敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="6" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.12" />
+			<CD Value="5" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<MechId Value="4" />
+			<SkillName Value="等离子炮" />
+			<Description Value="放出两道等离子光线，同时向后滑出一段距离。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.006" />
+			<InitialProbability Value="0.4" />
+			<CD Value="7" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<MechId Value="4" />
+			<SkillName Value="喀秋莎" />
+			<Description Value="向正前方放出一连串的火箭炮，对敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="75" />
+			<LvlupAddProbability Value="0" />
+			<InitialProbability Value="0.006" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<MechId Value="4" />
+			<SkillName Value="电磁弹射" />
+			<Description Value="向前方发射出一枚电磁暴弹，对敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.008" />
+			<InitialProbability Value="0.6" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<MechId Value="3" />
+			<SkillName Value="震荡波" />
+			<Description Value="以自己为中心开始地震，将周围机甲全部震飞，对敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="3" />
+			<LvlupAddProbability Value="0.004" />
+			<InitialProbability Value="0.4" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<MechId Value="3" />
+			<SkillName Value="激光炮" />
+			<Description Value="向正前方发射出一道光柱，对一条线上的敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.006" />
+			<InitialProbability Value="0.6" />
+			<CD Value="7" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<MechId Value="3" />
+			<SkillName Value="电磁射线" />
+			<Description Value="正前方放起一股电磁波，对一条线上的敌人造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.008" />
+			<InitialProbability Value="0.8" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<MechId Value="6" />
+			<SkillName Value="甘霖" />
+			<Description Value="恢复大圆范围内所有己方机甲一定的生命。每增加一级恢复生命值比例增加。" />
+			<LvlupAddAtt Value="HpPer" />
+			<BuffTime Value="0.5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.2" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<MechId Value="6" />
+			<SkillName Value="领域" />
+			<Description Value="领域时间内，敌人速度减慢80%，并受到大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.016" />
+			<InitialProbability Value="0.7" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<MechId Value="6" />
+			<SkillName Value="复仇" />
+			<Description Value="把80%的防御力转化为攻击力。每增加一级转化的倍率增加" />
+			<LvlupAddAtt Value="Change" />
+			<BuffTime Value="5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.1" />
+			<InitialProbability Value="2" />
+			<CD Value="13" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<MechId Value="8" />
+			<SkillName Value="牺牲" />
+			<Description Value="发出一道光柱，把自己生命的一半转嫁到同伴身上。每增加一级转嫁的扩大倍率增加。" />
+			<LvlupAddAtt Value="HpAtt" />
+			<BuffTime Value="0.5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.005" />
+			<InitialProbability Value="0.5" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<MechId Value="8" />
+			<SkillName Value="转化" />
+			<Description Value="自己的攻击力减为零，做为防御力加到同伴身上。每增加一级转化的倍率增加。" />
+			<LvlupAddAtt Value="Translate" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.5" />
+			<CD Value="6" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<MechId Value="8" />
+			<SkillName Value="吸能" />
+			<Description Value="放出一道射线，吸取敌方生命转化为自己的生命。（站立不动且有距离限制）每增加一级技能范围增加。" />
+			<LvlupAddAtt Value="Range" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.015" />
+			<InitialProbability Value="1.5" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<MechId Value="7" />
+			<SkillName Value="金身" />
+			<Description Value="塑造无敌金身，技能效果时间内免疫所有负面状态且不掉血。每增加一级CD的时间缩短。" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="11" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<MechId Value="7" />
+			<SkillName Value="牵引" />
+			<Description Value="将所有中圆范围内的敌方机甲快速吸至身旁，同时造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.006" />
+			<InitialProbability Value="0.6" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<MechId Value="7" />
+			<SkillName Value="狂野" />
+			<Description Value="身材涨大，攻击防御全面提升，开启嘲讽状态。每增加一级攻击防御的提升比例增加。" />
+			<LvlupAddAtt Value="Up" />
+			<BuffTime Value="5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.05" />
+			<InitialProbability Value="0.5" />
+			<CD Value="7" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<MechId Value="5" />
+			<SkillName Value="火环" />
+			<Description Value="全身围绕一个大火环，敌人遇到后减血。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="9" />
+			<LvlupAddProbability Value="0.001" />
+			<InitialProbability Value="0.06" />
+			<CD Value="11" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<MechId Value="5" />
+			<SkillName Value="冲撞" />
+			<Description Value="快速向前冲锋，将敌人全部击飞。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.014" />
+			<InitialProbability Value="0.14" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<MechId Value="5" />
+			<SkillName Value="昂扬" />
+			<Description Value="免疫所有负面状态，开启嘲讽状态。" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<MechId Value="9" />
+			<SkillName Value="圣盾" />
+			<Description Value="物理反弹与电磁反弹增加，持续3秒钟。" />
+			<LvlupAddAtt Value="Rebound" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.3" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<MechId Value="9" />
+			<SkillName Value="冲锋" />
+			<Description Value="向前冲锋一段距离，对路径上的敌方单位造成伤害和2秒眩晕。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<MechId Value="9" />
+			<SkillName Value="星落" />
+			<Description Value="向上打出枪影，使前方区域敌人受到伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="13" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<MechId Value="10" />
+			<SkillName Value="啸月" />
+			<Description Value="抬头怒吼，进入愤怒状态，增加移动速度、攻击速度与伤害。每增加一级移动速度、攻击速度与伤害值增加。" />
+			<LvlupAddAtt Value="HurtSpeed" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.3" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<MechId Value="10" />
+			<SkillName Value="扑击" />
+			<Description Value="扑向敌人，造成强力的物理伤害，同时造成眩晕。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="11" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<MechId Value="10" />
+			<SkillName Value="撕裂" />
+			<Description Value="反身飞踢敌人，造成强力的物理伤害，同时击退敌人。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<MechId Value="11" />
+			<SkillName Value="力劈" />
+			<Description Value="跳起后双斧同时向下劈出，造成强力的物理伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<MechId Value="11" />
+			<SkillName Value="横斩" />
+			<Description Value="双手横握战斧，自身旋转一周，将周围敌人击飞，同时造成大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<MechId Value="11" />
+			<SkillName Value="发狂" />
+			<Description Value="仰头长啸，免疫所有负面状态，暴击率达到最大值。每增加一级技能冷却时间减少。" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<MechId Value="12" />
+			<SkillName Value="X斩" />
+			<Description Value="两把激光刀发出两道刀芒组成X型向前打出，打击一条直线上的敌人。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.006" />
+			<InitialProbability Value="0.6" />
+			<CD Value="8" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<MechId Value="12" />
+			<SkillName Value="突斩" />
+			<Description Value="极速前进，对路径上的敌人造成伤害，技能施行中不可被打断。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.004" />
+			<InitialProbability Value="0.4" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<MechId Value="12" />
+			<SkillName Value="分身斩" />
+			<Description Value="对前方单一敌人做两次快速突斩，给敌人造成大量伤害，技能施行中不可被打断。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="2" />
+			<LvlupAddProbability Value="0.004" />
+			<InitialProbability Value="0.4" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<MechId Value="13" />
+			<SkillName Value="冰射线" />
+			<Description Value="前爪打出一团冰雾，造成伤害，并将正前方的敌人冻成冰块。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.8" />
+			<CD Value="9" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<MechId Value="13" />
+			<SkillName Value="旋风轮" />
+			<Description Value="尾巴前伸使尾端圆锯开转，对正前方的敌人造成大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="3" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.2" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="39" />
+			<MechId Value="13" />
+			<SkillName Value="魔力球" />
+			<Description Value="尾端放出光球，对敌人英雄进行追踪打击，并造成伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.004" />
+			<InitialProbability Value="0.4" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="40" />
+			<MechId Value="14" />
+			<SkillName Value="咆哮" />
+			<Description Value="张嘴向前长时间放出一束激光，对敌人造成持续伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="4" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.2" />
+			<CD Value="7" />
+		</data>
+		<data>
+			<Id Value="41" />
+			<MechId Value="14" />
+			<SkillName Value="冰雨" />
+			<Description Value="为正前方降下大量光束能量，对指定范围内敌人造成持续大量杀伤。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="6" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.1" />
+			<CD Value="13" />
+		</data>
+		<data>
+			<Id Value="42" />
+			<MechId Value="14" />
+			<SkillName Value="自爆" />
+			<Description Value="将自己炸死，对周围敌人造成大量杀伤。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.02" />
+			<InitialProbability Value="2" />
+			<CD Value="0" />
+		</data>
+		<data>
+			<Id Value="43" />
+			<MechId Value="15" />
+			<SkillName Value="毒液" />
+			<Description Value="向前方喷出毒液，使前方敌人受到腐蚀。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="5" />
+			<AttackTime Value="6" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.1" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="44" />
+			<MechId Value="15" />
+			<SkillName Value="变异射线" />
+			<Description Value="尾端射出三条射线，使召唤出的小卡尔的个头变大，生命增加一倍。每增加一级获得生命的百分比增加。" />
+			<LvlupAddAtt Value="HpAtt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.005" />
+			<InitialProbability Value="0.5" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="45" />
+			<MechId Value="15" />
+			<SkillName Value="召唤" />
+			<Description Value="召唤出三个带有嘲讽技能的小卡尔，属性是卡尔的一半，存活时间5秒钟。每增加一级其基础属性值增加。" />
+			<LvlupAddAtt Value="BaseAtt" />
+			<BuffTime Value="5" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.005" />
+			<InitialProbability Value="0.5" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="46" />
+			<MechId Value="16" />
+			<SkillName Value="大坐" />
+			<Description Value="被背后的喷射器射向天空，落下后将周围的敌人砸晕并附加大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.015" />
+			<InitialProbability Value="1.5" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="47" />
+			<MechId Value="16" />
+			<SkillName Value="滑板" />
+			<Description Value="将竹棒当作滑板滑行，并将旁边的敌人击退。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="2" />
+			<LvlupAddProbability Value="0.006" />
+			<InitialProbability Value="0.6" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="48" />
+			<MechId Value="16" />
+			<SkillName Value="太极" />
+			<Description Value="在地上画出一个太极图，一定时间内使己方机甲受到的伤害减少。每增加一级所受伤害的百分比减少。" />
+			<LvlupAddAtt Value="BeHurt" />
+			<BuffTime Value="7" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.3" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="49" />
+			<MechId Value="17" />
+			<SkillName Value="神爪" />
+			<Description Value="放出左手飞爪，将敌方机甲抓到自己向前，同时造成一定伤害并使敌人眩晕。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="2" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.01" />
+			<InitialProbability Value="0.64" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="50" />
+			<MechId Value="17" />
+			<SkillName Value="手钻" />
+			<Description Value="开动右手电钻，对一个敌方机甲造成大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="8" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.08" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="51" />
+			<MechId Value="17" />
+			<SkillName Value="免疫" />
+			<Description Value="一定机率免疫普通伤害。（被动技能）每增加一级免疫普通伤害的机率增加。" />
+			<LvlupAddAtt Value="Resistance" />
+			<BuffTime Value="8" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="0.3" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="52" />
+			<MechId Value="18" />
+			<SkillName Value="地震" />
+			<Description Value="地面剧烈晃动，造成大量伤害。每增加一级伤害值增加。" />
+			<LvlupAddAtt Value="AllHurt" />
+			<BuffTime Value="3" />
+			<AttackTime Value="5" />
+			<LvlupAddProbability Value="0.002" />
+			<InitialProbability Value="0.2" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="53" />
+			<MechId Value="18" />
+			<SkillName Value="地牢" />
+			<Description Value="锁住敌方腿脚，使其无法行走。每增加一级敌方被锁住的时间增加。" />
+			<LvlupAddAtt Value="BuffTime" />
+			<BuffTime Value="0" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.03" />
+			<InitialProbability Value="3" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="54" />
+			<MechId Value="18" />
+			<SkillName Value="钢铁肌肤" />
+			<Description Value="增加防御力。每增加一级防御力增加。" />
+			<LvlupAddAtt Value="Defence" />
+			<BuffTime Value="8" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.1" />
+			<InitialProbability Value="1" />
+			<CD Value="15" />
+		</data>
+		<data>
+			<Id Value="55" />
+			<MechId Value="19" />
+			<SkillName Value="流逝" />
+			<Description Value="范围内所有己方机甲技能CD时间减半" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="10" />
+		</data>
+		<data>
+			<Id Value="56" />
+			<MechId Value="19" />
+			<SkillName Value="岁月" />
+			<Description Value="范围内所有敌方机甲技能CD时间加倍" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="12" />
+		</data>
+		<data>
+			<Id Value="57" />
+			<MechId Value="19" />
+			<SkillName Value="预言" />
+			<Description Value="范围内所有敌方机甲技能CD归零" />
+			<LvlupAddAtt Value="CD" />
+			<BuffTime Value="3" />
+			<AttackTime Value="0" />
+			<LvlupAddProbability Value="0.003" />
+			<InitialProbability Value="1" />
+			<CD Value="15" />
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+		<data>
+		</data>
+	</root>

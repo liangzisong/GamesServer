@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<TurnName Value="金晶" />
+			<GoodsId Value="3" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="6" />
+			<AddTurn Value="10000" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<TurnName Value="紫晶" />
+			<GoodsId Value="4" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="10" />
+			<AddTurn Value="1000" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<TurnName Value="士兵回忆录" />
+			<GoodsId Value="46" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="10" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<TurnName Value="尉官回忆录" />
+			<GoodsId Value="47" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="100" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<TurnName Value="将军回忆录" />
+			<GoodsId Value="48" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="9" />
+			<AddTurn Value="1000" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<TurnName Value="元帅回忆录" />
+			<GoodsId Value="49" />
+			<Type Value="Item" />
+			<GemCharacter Value="" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="5" />
+			<AddTurn Value="10000" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<TurnName Value="随机1级星核" />
+			<GoodsId Value="0" />
+			<Type Value="Chip" />
+			<GemCharacter Value="" />
+			<ChipColor Value="Green" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="100" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<TurnName Value="随机2级星核" />
+			<GoodsId Value="0" />
+			<Type Value="Chip" />
+			<GemCharacter Value="" />
+			<ChipColor Value="Blue" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="500" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<TurnName Value="随机3级星核" />
+			<GoodsId Value="0" />
+			<Type Value="Chip" />
+			<GemCharacter Value="" />
+			<ChipColor Value="Purple" />
+			<ProbabilityTurn Value="10" />
+			<AddTurn Value="3000" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<TurnName Value="随机1级星石" />
+			<GoodsId Value="0" />
+			<Type Value="Gem" />
+			<GemCharacter Value="Triangle" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="60" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<TurnName Value="随机2级星石" />
+			<GoodsId Value="0" />
+			<Type Value="Gem" />
+			<GemCharacter Value="Quadrilateral" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="150" />
+			<AddTurn Value="300" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<TurnName Value="随机3级星石" />
+			<GoodsId Value="0" />
+			<Type Value="Gem" />
+			<GemCharacter Value="Pentagon" />
+			<ChipColor Value="" />
+			<ProbabilityTurn Value="60" />
+			<AddTurn Value="2000" />
+		</data>
+	</root>

@@ -1,0 +1,43 @@
+log4j.properties
+log4j.rootLogger=INFO,stdout
+
+log4j.logger.com.mangni.vegaplan.mainserver=INFO,db
+log4j.logger.com.mangni.vegaplan.servletsrc=INFO,db
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss} %p - - <%m>%n
+
+log4j.appender.logfile=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.logfile.File=${webapp.root}/logs/exppower.log
+log4j.appender.logfile.DatePattern=.yyyy-MM-dd
+log4j.appender.logfile.layout=org.apache.log4j.PatternLayout
+log4j.appender.logfile.layout.ConversionPattern=%d %p wang- <%m>%n
+########################  
+
+# JDBC Appender  
+ 
+#######################  
+
+#log4j.logger.business=INFO,db
+#log4j.appender.db=com.neam.commons.MyJDBCAppender
+log4j.appender.db=com.mangni.vegaplan.toolshelper.MyJDBCAppender
+
+log4j.appender.JDBC.jndiName=log  
+
+log4j.appender.db.BufferSize=1
+
+#log4j.appender.db.sqlname=errlog
+
+#log4j.appender.db.driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+                  
+#log4j.appender.db.URL=jdbc:sqlserver://127.0.0.1:1433;DatabaseName=gamesznx
+
+#log4j.appender.db.user=sa
+
+#log4j.appender.db.password=123456
+
+log4j.appender.db.sql=insert into errlog (loglv,classname,playerid,statement,methodname,createtime,logmes) values ('%p','%X{classname}','%X{playerid}','%X{statement}','%M','%d{yyyy-MM-dd HH:mm:ss}','%m')
+
+log4j.appender.db.layout=org.apache.log4j.PatternLayout
+

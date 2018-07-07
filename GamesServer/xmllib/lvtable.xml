@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="0" />
+			<coin Value="0" />
+			<PlayerExp Value="0" />
+			<FighterExp Value="0" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="1" />
+			<FighterExpBase Value="1" />
+			<GoldBase Value="100" />
+			<SkillMax Value="1" />
+			<FactionExp Value="1500" />
+			<FortExp Value="500" />
+		</data>
+		<data>
+			<Id Value="1" />
+			<coin Value="200" />
+			<PlayerExp Value="1" />
+			<FighterExp Value="1" />
+			<EquipLv Value="1" />
+			<chip Value="3" />
+			<material Value="2" />
+			<PlayerExpBase Value="5" />
+			<FighterExpBase Value="5" />
+			<GoldBase Value="200" />
+			<SkillMax Value="3" />
+			<FactionExp Value="3000" />
+			<FortExp Value="1000" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<coin Value="500" />
+			<PlayerExp Value="5" />
+			<FighterExp Value="5" />
+			<EquipLv Value="6" />
+			<chip Value="6" />
+			<material Value="4" />
+			<PlayerExpBase Value="9" />
+			<FighterExpBase Value="9" />
+			<GoldBase Value="300" />
+			<SkillMax Value="5" />
+			<FactionExp Value="6000" />
+			<FortExp Value="2000" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<coin Value="600" />
+			<PlayerExp Value="9" />
+			<FighterExp Value="9" />
+			<EquipLv Value="11" />
+			<chip Value="10" />
+			<material Value="6" />
+			<PlayerExpBase Value="13" />
+			<FighterExpBase Value="13" />
+			<GoldBase Value="400" />
+			<SkillMax Value="8" />
+			<FactionExp Value="9000" />
+			<FortExp Value="3000" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<coin Value="700" />
+			<PlayerExp Value="15" />
+			<FighterExp Value="15" />
+			<EquipLv Value="16" />
+			<chip Value="15" />
+			<material Value="8" />
+			<PlayerExpBase Value="17" />
+			<FighterExpBase Value="17" />
+			<GoldBase Value="500" />
+			<SkillMax Value="12" />
+			<FactionExp Value="12000" />
+			<FortExp Value="4000" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<coin Value="800" />
+			<PlayerExp Value="30" />
+			<FighterExp Value="30" />
+			<EquipLv Value="21" />
+			<chip Value="20" />
+			<material Value="10" />
+			<PlayerExpBase Value="21" />
+			<FighterExpBase Value="21" />
+			<GoldBase Value="600" />
+			<SkillMax Value="17" />
+			<FactionExp Value="15000" />
+			<FortExp Value="5000" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<coin Value="900" />
+			<PlayerExp Value="45" />
+			<FighterExp Value="45" />
+			<EquipLv Value="26" />
+			<chip Value="25" />
+			<material Value="12" />
+			<PlayerExpBase Value="25" />
+			<FighterExpBase Value="25" />
+			<GoldBase Value="700" />
+			<SkillMax Value="23" />
+			<FactionExp Value="18000" />
+			<FortExp Value="6000" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<coin Value="1000" />
+			<PlayerExp Value="60" />
+			<FighterExp Value="60" />
+			<EquipLv Value="31" />
+			<chip Value="30" />
+			<material Value="14" />
+			<PlayerExpBase Value="29" />
+			<FighterExpBase Value="29" />
+			<GoldBase Value="800" />
+			<SkillMax Value="30" />
+			<FactionExp Value="21000" />
+			<FortExp Value="7000" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<coin Value="1100" />
+			<PlayerExp Value="75" />
+			<FighterExp Value="75" />
+			<EquipLv Value="36" />
+			<chip Value="0" />
+			<material Value="16" />
+			<PlayerExpBase Value="33" />
+			<FighterExpBase Value="33" />
+			<GoldBase Value="900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="24000" />
+			<FortExp Value="8000" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<coin Value="1200" />
+			<PlayerExp Value="90" />
+			<FighterExp Value="90" />
+			<EquipLv Value="41" />
+			<chip Value="0" />
+			<material Value="18" />
+			<PlayerExpBase Value="37" />
+			<FighterExpBase Value="37" />
+			<GoldBase Value="1000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="27000" />
+			<FortExp Value="9000" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<coin Value="1400" />
+			<PlayerExp Value="100" />
+			<FighterExp Value="120" />
+			<EquipLv Value="46" />
+			<chip Value="0" />
+			<material Value="20" />
+			<PlayerExpBase Value="41" />
+			<FighterExpBase Value="41" />
+			<GoldBase Value="1100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="30000" />
+			<FortExp Value="10000" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<coin Value="1600" />
+			<PlayerExp Value="160" />
+			<FighterExp Value="180" />
+			<EquipLv Value="51" />
+			<chip Value="0" />
+			<material Value="22" />
+			<PlayerExpBase Value="45" />
+			<FighterExpBase Value="45" />
+			<GoldBase Value="1200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="34500" />
+			<FortExp Value="11500" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<coin Value="1800" />
+			<PlayerExp Value="250" />
+			<FighterExp Value="250" />
+			<EquipLv Value="56" />
+			<chip Value="0" />
+			<material Value="24" />
+			<PlayerExpBase Value="49" />
+			<FighterExpBase Value="49" />
+			<GoldBase Value="1300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="39000" />
+			<FortExp Value="13000" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<coin Value="2000" />
+			<PlayerExp Value="400" />
+			<FighterExp Value="400" />
+			<EquipLv Value="61" />
+			<chip Value="0" />
+			<material Value="26" />
+			<PlayerExpBase Value="53" />
+			<FighterExpBase Value="53" />
+			<GoldBase Value="1400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="43500" />
+			<FortExp Value="14500" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<coin Value="2300" />
+			<PlayerExp Value="600" />
+			<FighterExp Value="600" />
+			<EquipLv Value="71" />
+			<chip Value="0" />
+			<material Value="28" />
+			<PlayerExpBase Value="57" />
+			<FighterExpBase Value="57" />
+			<GoldBase Value="1500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="48000" />
+			<FortExp Value="16000" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<coin Value="2600" />
+			<PlayerExp Value="800" />
+			<FighterExp Value="800" />
+			<EquipLv Value="86" />
+			<chip Value="0" />
+			<material Value="30" />
+			<PlayerExpBase Value="61" />
+			<FighterExpBase Value="61" />
+			<GoldBase Value="1600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="52500" />
+			<FortExp Value="17500" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<coin Value="2900" />
+			<PlayerExp Value="850" />
+			<FighterExp Value="850" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="65" />
+			<FighterExpBase Value="65" />
+			<GoldBase Value="1700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="57000" />
+			<FortExp Value="19000" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<coin Value="3100" />
+			<PlayerExp Value="900" />
+			<FighterExp Value="900" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="69" />
+			<FighterExpBase Value="69" />
+			<GoldBase Value="1800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="61500" />
+			<FortExp Value="20500" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<coin Value="3300" />
+			<PlayerExp Value="1000" />
+			<FighterExp Value="1000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="73" />
+			<FighterExpBase Value="73" />
+			<GoldBase Value="1900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="66000" />
+			<FortExp Value="22000" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<coin Value="3600" />
+			<PlayerExp Value="1100" />
+			<FighterExp Value="1100" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="77" />
+			<FighterExpBase Value="77" />
+			<GoldBase Value="2000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="70500" />
+			<FortExp Value="23500" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<coin Value="3900" />
+			<PlayerExp Value="1200" />
+			<FighterExp Value="1200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="81" />
+			<FighterExpBase Value="81" />
+			<GoldBase Value="2100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="75000" />
+			<FortExp Value="25000" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<coin Value="4100" />
+			<PlayerExp Value="1300" />
+			<FighterExp Value="1300" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="85" />
+			<FighterExpBase Value="85" />
+			<GoldBase Value="2200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="81000" />
+			<FortExp Value="27000" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<coin Value="4300" />
+			<PlayerExp Value="1350" />
+			<FighterExp Value="1350" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="89" />
+			<FighterExpBase Value="89" />
+			<GoldBase Value="2300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="87000" />
+			<FortExp Value="29000" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<coin Value="4500" />
+			<PlayerExp Value="1400" />
+			<FighterExp Value="1400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="93" />
+			<FighterExpBase Value="93" />
+			<GoldBase Value="2400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="93000" />
+			<FortExp Value="31000" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<coin Value="4700" />
+			<PlayerExp Value="1450" />
+			<FighterExp Value="1450" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="97" />
+			<FighterExpBase Value="97" />
+			<GoldBase Value="2500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="99000" />
+			<FortExp Value="33000" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<coin Value="4900" />
+			<PlayerExp Value="1500" />
+			<FighterExp Value="1500" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="101" />
+			<FighterExpBase Value="101" />
+			<GoldBase Value="2600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="105000" />
+			<FortExp Value="35000" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<coin Value="5100" />
+			<PlayerExp Value="1600" />
+			<FighterExp Value="1600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="105" />
+			<FighterExpBase Value="105" />
+			<GoldBase Value="2700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="111000" />
+			<FortExp Value="37000" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<coin Value="5300" />
+			<PlayerExp Value="1650" />
+			<FighterExp Value="1650" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="109" />
+			<FighterExpBase Value="109" />
+			<GoldBase Value="2800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="117000" />
+			<FortExp Value="39000" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<coin Value="5500" />
+			<PlayerExp Value="1700" />
+			<FighterExp Value="1700" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="113" />
+			<FighterExpBase Value="113" />
+			<GoldBase Value="2900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="123000" />
+			<FortExp Value="41000" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<coin Value="6000" />
+			<PlayerExp Value="1750" />
+			<FighterExp Value="1750" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="117" />
+			<FighterExpBase Value="117" />
+			<GoldBase Value="3000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="129000" />
+			<FortExp Value="43000" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<coin Value="6600" />
+			<PlayerExp Value="1980" />
+			<FighterExp Value="1980" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="121" />
+			<FighterExpBase Value="121" />
+			<GoldBase Value="3100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="135000" />
+			<FortExp Value="45000" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<coin Value="7200" />
+			<PlayerExp Value="2310" />
+			<FighterExp Value="2310" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="125" />
+			<FighterExpBase Value="125" />
+			<GoldBase Value="3200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="144000" />
+			<FortExp Value="48000" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<coin Value="8300" />
+			<PlayerExp Value="2640" />
+			<FighterExp Value="2640" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="129" />
+			<FighterExpBase Value="129" />
+			<GoldBase Value="3300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="153000" />
+			<FortExp Value="51000" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<coin Value="8700" />
+			<PlayerExp Value="2970" />
+			<FighterExp Value="2970" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="133" />
+			<FighterExpBase Value="133" />
+			<GoldBase Value="3400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="162000" />
+			<FortExp Value="54000" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<coin Value="9000" />
+			<PlayerExp Value="3300" />
+			<FighterExp Value="3300" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="137" />
+			<FighterExpBase Value="137" />
+			<GoldBase Value="3500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="171000" />
+			<FortExp Value="57000" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<coin Value="9400" />
+			<PlayerExp Value="3630" />
+			<FighterExp Value="3630" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="141" />
+			<FighterExpBase Value="141" />
+			<GoldBase Value="3600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="180000" />
+			<FortExp Value="60000" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<coin Value="9700" />
+			<PlayerExp Value="4125" />
+			<FighterExp Value="4125" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="145" />
+			<FighterExpBase Value="145" />
+			<GoldBase Value="3700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="189000" />
+			<FortExp Value="63000" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<coin Value="10000" />
+			<PlayerExp Value="4785" />
+			<FighterExp Value="4785" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="149" />
+			<FighterExpBase Value="149" />
+			<GoldBase Value="3800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="198000" />
+			<FortExp Value="66000" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<coin Value="10400" />
+			<PlayerExp Value="5445" />
+			<FighterExp Value="5445" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="153" />
+			<FighterExpBase Value="153" />
+			<GoldBase Value="3900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="207000" />
+			<FortExp Value="69000" />
+		</data>
+		<data>
+			<Id Value="39" />
+			<coin Value="12600" />
+			<PlayerExp Value="6270" />
+			<FighterExp Value="6270" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="157" />
+			<FighterExpBase Value="157" />
+			<GoldBase Value="4000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="216000" />
+			<FortExp Value="72000" />
+		</data>
+		<data>
+			<Id Value="40" />
+			<coin Value="13600" />
+			<PlayerExp Value="7740" />
+			<FighterExp Value="7740" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="161" />
+			<FighterExpBase Value="161" />
+			<GoldBase Value="4100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="225000" />
+			<FortExp Value="75000" />
+		</data>
+		<data>
+			<Id Value="41" />
+			<coin Value="14700" />
+			<PlayerExp Value="9000" />
+			<FighterExp Value="9000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="165" />
+			<FighterExpBase Value="165" />
+			<GoldBase Value="4200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="237000" />
+			<FortExp Value="79000" />
+		</data>
+		<data>
+			<Id Value="42" />
+			<coin Value="15800" />
+			<PlayerExp Value="10800" />
+			<FighterExp Value="10800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="169" />
+			<FighterExpBase Value="169" />
+			<GoldBase Value="4300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="249000" />
+			<FortExp Value="83000" />
+		</data>
+		<data>
+			<Id Value="43" />
+			<coin Value="17000" />
+			<PlayerExp Value="12600" />
+			<FighterExp Value="12600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="173" />
+			<FighterExpBase Value="173" />
+			<GoldBase Value="4400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="261000" />
+			<FortExp Value="87000" />
+		</data>
+		<data>
+			<Id Value="44" />
+			<coin Value="18000" />
+			<PlayerExp Value="14400" />
+			<FighterExp Value="14400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="177" />
+			<FighterExpBase Value="177" />
+			<GoldBase Value="4500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="273000" />
+			<FortExp Value="91000" />
+		</data>
+		<data>
+			<Id Value="45" />
+			<coin Value="19000" />
+			<PlayerExp Value="17100" />
+			<FighterExp Value="17100" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="181" />
+			<FighterExpBase Value="181" />
+			<GoldBase Value="4600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="285000" />
+			<FortExp Value="95000" />
+		</data>
+		<data>
+			<Id Value="46" />
+			<coin Value="20100" />
+			<PlayerExp Value="18000" />
+			<FighterExp Value="18000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="185" />
+			<FighterExpBase Value="185" />
+			<GoldBase Value="4700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="297000" />
+			<FortExp Value="99000" />
+		</data>
+		<data>
+			<Id Value="47" />
+			<coin Value="21200" />
+			<PlayerExp Value="18900" />
+			<FighterExp Value="18900" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="189" />
+			<FighterExpBase Value="189" />
+			<GoldBase Value="4800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="309000" />
+			<FortExp Value="103000" />
+		</data>
+		<data>
+			<Id Value="48" />
+			<coin Value="22300" />
+			<PlayerExp Value="19800" />
+			<FighterExp Value="19800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="193" />
+			<FighterExpBase Value="193" />
+			<GoldBase Value="4900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="321000" />
+			<FortExp Value="107000" />
+		</data>
+		<data>
+			<Id Value="49" />
+			<coin Value="29000" />
+			<PlayerExp Value="20700" />
+			<FighterExp Value="20700" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="197" />
+			<FighterExpBase Value="197" />
+			<GoldBase Value="5000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="333000" />
+			<FortExp Value="111000" />
+		</data>
+		<data>
+			<Id Value="50" />
+			<coin Value="30600" />
+			<PlayerExp Value="23400" />
+			<FighterExp Value="23400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="201" />
+			<FighterExpBase Value="201" />
+			<GoldBase Value="5100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="51" />
+			<coin Value="32400" />
+			<PlayerExp Value="24375" />
+			<FighterExp Value="24375" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="205" />
+			<FighterExpBase Value="205" />
+			<GoldBase Value="5200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="52" />
+			<coin Value="34200" />
+			<PlayerExp Value="27300" />
+			<FighterExp Value="27300" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="209" />
+			<FighterExpBase Value="209" />
+			<GoldBase Value="5300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="53" />
+			<coin Value="36000" />
+			<PlayerExp Value="30225" />
+			<FighterExp Value="30225" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="213" />
+			<FighterExpBase Value="213" />
+			<GoldBase Value="5400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="54" />
+			<coin Value="37800" />
+			<PlayerExp Value="33150" />
+			<FighterExp Value="33150" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="217" />
+			<FighterExpBase Value="217" />
+			<GoldBase Value="5500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="55" />
+			<coin Value="39600" />
+			<PlayerExp Value="36075" />
+			<FighterExp Value="36075" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="221" />
+			<FighterExpBase Value="221" />
+			<GoldBase Value="5600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="56" />
+			<coin Value="41400" />
+			<PlayerExp Value="39000" />
+			<FighterExp Value="39000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="225" />
+			<FighterExpBase Value="225" />
+			<GoldBase Value="5700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="57" />
+			<coin Value="43200" />
+			<PlayerExp Value="42900" />
+			<FighterExp Value="42900" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="229" />
+			<FighterExpBase Value="229" />
+			<GoldBase Value="5800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="58" />
+			<coin Value="45000" />
+			<PlayerExp Value="46800" />
+			<FighterExp Value="46800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="233" />
+			<FighterExpBase Value="233" />
+			<GoldBase Value="5900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="59" />
+			<coin Value="50400" />
+			<PlayerExp Value="48750" />
+			<FighterExp Value="48750" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="237" />
+			<FighterExpBase Value="237" />
+			<GoldBase Value="6000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="60" />
+			<coin Value="53300" />
+			<PlayerExp Value="50700" />
+			<FighterExp Value="50700" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="241" />
+			<FighterExpBase Value="241" />
+			<GoldBase Value="6100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="61" />
+			<coin Value="56200" />
+			<PlayerExp Value="52650" />
+			<FighterExp Value="52650" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="245" />
+			<FighterExpBase Value="245" />
+			<GoldBase Value="6200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="62" />
+			<coin Value="59100" />
+			<PlayerExp Value="54600" />
+			<FighterExp Value="54600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="249" />
+			<FighterExpBase Value="249" />
+			<GoldBase Value="6300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="63" />
+			<coin Value="62000" />
+			<PlayerExp Value="58500" />
+			<FighterExp Value="58500" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="253" />
+			<FighterExpBase Value="253" />
+			<GoldBase Value="6400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="64" />
+			<coin Value="64800" />
+			<PlayerExp Value="62400" />
+			<FighterExp Value="62400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="257" />
+			<FighterExpBase Value="257" />
+			<GoldBase Value="6500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="65" />
+			<coin Value="67800" />
+			<PlayerExp Value="66300" />
+			<FighterExp Value="66300" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="261" />
+			<FighterExpBase Value="261" />
+			<GoldBase Value="6600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="66" />
+			<coin Value="70600" />
+			<PlayerExp Value="70200" />
+			<FighterExp Value="70200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="265" />
+			<FighterExpBase Value="265" />
+			<GoldBase Value="6700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="67" />
+			<coin Value="73400" />
+			<PlayerExp Value="72150" />
+			<FighterExp Value="72150" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="269" />
+			<FighterExpBase Value="269" />
+			<GoldBase Value="6800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="68" />
+			<coin Value="76300" />
+			<PlayerExp Value="74100" />
+			<FighterExp Value="74100" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="273" />
+			<FighterExpBase Value="273" />
+			<GoldBase Value="6900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="69" />
+			<coin Value="82800" />
+			<PlayerExp Value="78000" />
+			<FighterExp Value="78000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="277" />
+			<FighterExpBase Value="277" />
+			<GoldBase Value="7000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="70" />
+			<coin Value="86700" />
+			<PlayerExp Value="83000" />
+			<FighterExp Value="83000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="281" />
+			<FighterExpBase Value="281" />
+			<GoldBase Value="7100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="71" />
+			<coin Value="90700" />
+			<PlayerExp Value="88200" />
+			<FighterExp Value="88200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="285" />
+			<FighterExpBase Value="285" />
+			<GoldBase Value="7200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="72" />
+			<coin Value="94600" />
+			<PlayerExp Value="92400" />
+			<FighterExp Value="92400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="289" />
+			<FighterExpBase Value="289" />
+			<GoldBase Value="7300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="73" />
+			<coin Value="98600" />
+			<PlayerExp Value="96600" />
+			<FighterExp Value="96600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="293" />
+			<FighterExpBase Value="293" />
+			<GoldBase Value="7400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="74" />
+			<coin Value="102600" />
+			<PlayerExp Value="100800" />
+			<FighterExp Value="100800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="297" />
+			<FighterExpBase Value="297" />
+			<GoldBase Value="7500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="75" />
+			<coin Value="106500" />
+			<PlayerExp Value="105000" />
+			<FighterExp Value="105000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="301" />
+			<FighterExpBase Value="301" />
+			<GoldBase Value="7600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="76" />
+			<coin Value="110500" />
+			<PlayerExp Value="109200" />
+			<FighterExp Value="109200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="305" />
+			<FighterExpBase Value="305" />
+			<GoldBase Value="7700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="77" />
+			<coin Value="114500" />
+			<PlayerExp Value="113400" />
+			<FighterExp Value="113400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="309" />
+			<FighterExpBase Value="309" />
+			<GoldBase Value="7800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="78" />
+			<coin Value="118500" />
+			<PlayerExp Value="117600" />
+			<FighterExp Value="117600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="313" />
+			<FighterExpBase Value="313" />
+			<GoldBase Value="7900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="79" />
+			<coin Value="122500" />
+			<PlayerExp Value="121800" />
+			<FighterExp Value="121800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="317" />
+			<FighterExpBase Value="317" />
+			<GoldBase Value="8000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="80" />
+			<coin Value="126500" />
+			<PlayerExp Value="126000" />
+			<FighterExp Value="126000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="321" />
+			<FighterExpBase Value="321" />
+			<GoldBase Value="8100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="81" />
+			<coin Value="130500" />
+			<PlayerExp Value="130200" />
+			<FighterExp Value="130200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="325" />
+			<FighterExpBase Value="325" />
+			<GoldBase Value="8200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="82" />
+			<coin Value="134500" />
+			<PlayerExp Value="134400" />
+			<FighterExp Value="134400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="329" />
+			<FighterExpBase Value="329" />
+			<GoldBase Value="8300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="83" />
+			<coin Value="138500" />
+			<PlayerExp Value="138600" />
+			<FighterExp Value="138600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="333" />
+			<FighterExpBase Value="333" />
+			<GoldBase Value="8400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="84" />
+			<coin Value="142500" />
+			<PlayerExp Value="142800" />
+			<FighterExp Value="142800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="337" />
+			<FighterExpBase Value="337" />
+			<GoldBase Value="8500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="85" />
+			<coin Value="146500" />
+			<PlayerExp Value="147000" />
+			<FighterExp Value="147000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="341" />
+			<FighterExpBase Value="341" />
+			<GoldBase Value="8600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="86" />
+			<coin Value="150500" />
+			<PlayerExp Value="151200" />
+			<FighterExp Value="151200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="345" />
+			<FighterExpBase Value="345" />
+			<GoldBase Value="8700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="87" />
+			<coin Value="154500" />
+			<PlayerExp Value="155400" />
+			<FighterExp Value="155400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="349" />
+			<FighterExpBase Value="349" />
+			<GoldBase Value="8800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="88" />
+			<coin Value="158500" />
+			<PlayerExp Value="159600" />
+			<FighterExp Value="159600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="353" />
+			<FighterExpBase Value="353" />
+			<GoldBase Value="8900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="89" />
+			<coin Value="162500" />
+			<PlayerExp Value="163800" />
+			<FighterExp Value="163800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="357" />
+			<FighterExpBase Value="357" />
+			<GoldBase Value="9000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="90" />
+			<coin Value="166500" />
+			<PlayerExp Value="168000" />
+			<FighterExp Value="168000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="361" />
+			<FighterExpBase Value="361" />
+			<GoldBase Value="9100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="91" />
+			<coin Value="170500" />
+			<PlayerExp Value="172200" />
+			<FighterExp Value="172200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="365" />
+			<FighterExpBase Value="365" />
+			<GoldBase Value="9200" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="92" />
+			<coin Value="174500" />
+			<PlayerExp Value="176400" />
+			<FighterExp Value="176400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="369" />
+			<FighterExpBase Value="369" />
+			<GoldBase Value="9300" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="93" />
+			<coin Value="178500" />
+			<PlayerExp Value="180600" />
+			<FighterExp Value="180600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="373" />
+			<FighterExpBase Value="373" />
+			<GoldBase Value="9400" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="94" />
+			<coin Value="182500" />
+			<PlayerExp Value="184800" />
+			<FighterExp Value="184800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="377" />
+			<FighterExpBase Value="377" />
+			<GoldBase Value="9500" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="95" />
+			<coin Value="186500" />
+			<PlayerExp Value="189000" />
+			<FighterExp Value="189000" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="381" />
+			<FighterExpBase Value="381" />
+			<GoldBase Value="9600" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="96" />
+			<coin Value="190500" />
+			<PlayerExp Value="193200" />
+			<FighterExp Value="193200" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="385" />
+			<FighterExpBase Value="385" />
+			<GoldBase Value="9700" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="97" />
+			<coin Value="194500" />
+			<PlayerExp Value="197400" />
+			<FighterExp Value="197400" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="389" />
+			<FighterExpBase Value="389" />
+			<GoldBase Value="9800" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="98" />
+			<coin Value="198500" />
+			<PlayerExp Value="201600" />
+			<FighterExp Value="201600" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="393" />
+			<FighterExpBase Value="393" />
+			<GoldBase Value="9900" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="99" />
+			<coin Value="202500" />
+			<PlayerExp Value="205800" />
+			<FighterExp Value="205800" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="397" />
+			<FighterExpBase Value="397" />
+			<GoldBase Value="10000" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+		<data>
+			<Id Value="100" />
+			<coin Value="0" />
+			<PlayerExp Value="0" />
+			<FighterExp Value="0" />
+			<EquipLv Value="0" />
+			<chip Value="0" />
+			<material Value="0" />
+			<PlayerExpBase Value="401" />
+			<FighterExpBase Value="401" />
+			<GoldBase Value="10100" />
+			<SkillMax Value="0" />
+			<FactionExp Value="0" />
+			<FortExp Value="0" />
+		</data>
+	</root>

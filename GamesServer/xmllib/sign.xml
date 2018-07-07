@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<WhichDay Value="1" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="28" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<WhichDay Value="2" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="58" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<WhichDay Value="3" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="88" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<WhichDay Value="4" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="108" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<WhichDay Value="5" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="128" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<WhichDay Value="6" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="158" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<WhichDay Value="7" />
+			<SignType Value="Week" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="188" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="false" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<WhichDay Value="1" />
+			<SignType Value="Month" />
+			<RewardType Value="Gold" />
+			<RewardValue Value="10000" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="1" />
+			<CanRepairSign Value="true" />
+			<Description Value="星币" />
+			<IconPath Value="星币" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<WhichDay Value="2" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="241" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="铜钥匙" />
+			<IconPath Value="铜钥匙" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<WhichDay Value="3" />
+			<SignType Value="Month" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="20" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="1" />
+			<CanRepairSign Value="true" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<WhichDay Value="4" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="222" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="1" />
+			<CanRepairSign Value="true" />
+			<Description Value="士兵回忆录" />
+			<IconPath Value="士兵回忆录" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<WhichDay Value="5" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="225" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="初级技能书" />
+			<IconPath Value="初级技能书" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<WhichDay Value="6" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="243" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="金钥匙" />
+			<IconPath Value="金钥匙" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<WhichDay Value="7" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="201" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="强化石" />
+			<IconPath Value="强化石" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<WhichDay Value="8" />
+			<SignType Value="Month" />
+			<RewardType Value="Gold" />
+			<RewardValue Value="20000" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="2" />
+			<CanRepairSign Value="true" />
+			<Description Value="星币" />
+			<IconPath Value="星币" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<WhichDay Value="9" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="6" />
+			<RewardItemId Value="241" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="铜钥匙" />
+			<IconPath Value="铜钥匙" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<WhichDay Value="10" />
+			<SignType Value="Month" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="40" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="2" />
+			<CanRepairSign Value="true" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<WhichDay Value="11" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="2" />
+			<RewardItemId Value="222" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="2" />
+			<CanRepairSign Value="true" />
+			<Description Value="士兵回忆录" />
+			<IconPath Value="士兵回忆录" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<WhichDay Value="12" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="2" />
+			<RewardItemId Value="225" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="初级技能书" />
+			<IconPath Value="初级技能书" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<WhichDay Value="13" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="2" />
+			<RewardItemId Value="243" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="金钥匙" />
+			<IconPath Value="金钥匙" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<WhichDay Value="14" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="2" />
+			<RewardItemId Value="201" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="强化石" />
+			<IconPath Value="强化石" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<WhichDay Value="15" />
+			<SignType Value="Month" />
+			<RewardType Value="Gold" />
+			<RewardValue Value="30000" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="3" />
+			<CanRepairSign Value="true" />
+			<Description Value="星币" />
+			<IconPath Value="星币" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<WhichDay Value="16" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="9" />
+			<RewardItemId Value="241" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="铜钥匙" />
+			<IconPath Value="铜钥匙" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<WhichDay Value="17" />
+			<SignType Value="Month" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="60" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="3" />
+			<CanRepairSign Value="true" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<WhichDay Value="18" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="222" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="3" />
+			<CanRepairSign Value="true" />
+			<Description Value="士兵回忆录" />
+			<IconPath Value="士兵回忆录" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<WhichDay Value="19" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="225" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="初级技能书" />
+			<IconPath Value="初级技能书" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<WhichDay Value="20" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="243" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="金钥匙" />
+			<IconPath Value="金钥匙" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<WhichDay Value="21" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="201" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="强化石" />
+			<IconPath Value="强化石" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<WhichDay Value="22" />
+			<SignType Value="Month" />
+			<RewardType Value="Gold" />
+			<RewardValue Value="40000" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="4" />
+			<CanRepairSign Value="true" />
+			<Description Value="星币" />
+			<IconPath Value="星币" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<WhichDay Value="23" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="12" />
+			<RewardItemId Value="241" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="铜钥匙" />
+			<IconPath Value="铜钥匙" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<WhichDay Value="24" />
+			<SignType Value="Month" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="80" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="4" />
+			<CanRepairSign Value="true" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<WhichDay Value="25" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="223" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="4" />
+			<CanRepairSign Value="true" />
+			<Description Value="军官回忆录" />
+			<IconPath Value="军官回忆录" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<WhichDay Value="26" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="1" />
+			<RewardItemId Value="226" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="中级技能书" />
+			<IconPath Value="中级技能书" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<WhichDay Value="27" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="5" />
+			<RewardItemId Value="243" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="金钥匙" />
+			<IconPath Value="金钥匙" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<WhichDay Value="28" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="5" />
+			<RewardItemId Value="201" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="强化石" />
+			<IconPath Value="强化石" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<WhichDay Value="29" />
+			<SignType Value="Month" />
+			<RewardType Value="Gold" />
+			<RewardValue Value="50000" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="5" />
+			<CanRepairSign Value="true" />
+			<Description Value="星币" />
+			<IconPath Value="星币" />
+		</data>
+		<data>
+			<Id Value="37" />
+			<WhichDay Value="30" />
+			<SignType Value="Month" />
+			<RewardType Value="Item" />
+			<RewardValue Value="3" />
+			<RewardItemId Value="203" />
+			<VipIsDoubleReward Value="false" />
+			<DoubleNeedVipLv Value="0" />
+			<CanRepairSign Value="true" />
+			<Description Value="万能碎片" />
+			<IconPath Value="万能碎片" />
+		</data>
+		<data>
+			<Id Value="38" />
+			<WhichDay Value="31" />
+			<SignType Value="Month" />
+			<RewardType Value="Stone" />
+			<RewardValue Value="100" />
+			<RewardItemId Value="0" />
+			<VipIsDoubleReward Value="true" />
+			<DoubleNeedVipLv Value="5" />
+			<CanRepairSign Value="true" />
+			<Description Value="星钻" />
+			<IconPath Value="星钻" />
+		</data>
+	</root>

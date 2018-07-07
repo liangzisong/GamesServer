@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.springframework.org/schema/beans" 
+  xmlns:aop="http://www.springframework.org/schema/aop"
+  xmlns:context="http://www.springframework.org/schema/context" 
+  xmlns:tx="http://www.springframework.org/schema/tx"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans 
+     http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+     http://www.springframework.org/schema/aop
+     http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
+     http://www.springframework.org/schema/context
+     http://www.springframework.org/schema/context/spring-context-4.3.xsd
+     http://www.springframework.org/schema/tx
+     http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+           
+
+<!-- 
+    <bean id="loadProperties" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+            <list>
+                <value>file:${user.dir}/config/db.properties</value>
+            </list>
+        </property>
+	</bean>
+	-->
+	<context:property-placeholder location="file:${user.dir}/config/db.properties"/>
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource"  init-method="init"  destroy-method="close">
+   	 	<property name="driverClassName" value="${driverClassName}"> </property>
+    	<property name="url" value="${url}"></property>
+    	<property name="initialSize" value="${initialSize}"></property>
+    	<property name="minIdle" value="${minIdle}"></property>
+    	<property name="filters" value="${filters}"></property>
+        <property name="maxActive" value="${maxActive}"></property>
+        <property name="timeBetweenEvictionRunsMillis" value="${timeBetweenEvictionRunsMillis}"></property>
+        <property name="testWhileIdle" value="${testWhileIdle}"></property>
+        <property name="testOnBorrow" value="${testOnBorrow}"></property>
+        <property name="testOnReturn" value="${testOnReturn}"></property>
+         <property name="validationQuery" value="${validationQuery}"></property>
+	</bean>
+	
+	<bean id="myJdbcTemplate" class="com.mangni.vegaplan.toolshelper.MyJdbcTemplate">  
+        <property name = "dataSource" ref="dataSource" />
+	</bean>
+	
+
+	<bean id="txManager" 
+			class="org.springframework.jdbc.datasource.DataSourceTransactionManager"> 
+		<property name="dataSource" ref="dataSource" /> 
+	</bean> 
+
+	<tx:advice id="txAdvice" transaction-manager="txManager"> 
+		<tx:attributes> 
+		<tx:method name="dopost*" propagation="REQUIRED" />
+		</tx:attributes> 
+	</tx:advice> 
+
+	<aop:aspectj-autoproxy proxy-target-class="true" />
+		<bean id="LogAspect" class="com.mangni.vegaplan.toolshelper.LogAspect"></bean>
+		<aop:config>
+	   <!-- 配置切点表达式  -->
+	   <aop:pointcut id="pointcut" expression="execution(* com.mangni.vegaplan.servletsrc.*.*.*(..))" />
+	   <!-- 配置切面及配置 -->
+	   <aop:aspect order="1" ref="LogAspect">
+	      <!-- 前置通知 
+	      <aop:before method="beforMethod" pointcut-ref="pointcut"/>-->
+	      <!-- 后置通知
+	      <aop:after method="afterMethod" pointcut-ref="pointcut"/> -->
+	      <!-- 返回通知 
+	      <aop:after-returning method="afterReturnMethod" pointcut-ref="pointcut" returning="result"/>-->
+	      <!-- 异常通知 -->
+	      <aop:after-throwing method="afterThrow" pointcut-ref="pointcut" throwing="ex"/>
+	   </aop:aspect>
+	</aop:config>
+
+
+	<aop:config proxy-target-class="true"> 
+		<aop:pointcut id="allManagerMethod" 
+				expression="execution(public * com.mangni.vegaplan..*.*(..))" /> 
+		<aop:advisor pointcut-ref="allManagerMethod" advice-ref="txAdvice" order="2"/> 
+	</aop:config> 
+
+
+	
+    <bean id="getservertime" class="com.mangni.vegaplan.servletsrc.beforeplay.getServerTime" />
+    <bean id="gettemplatetable" class="com.mangni.vegaplan.servletsrc.beforeplay.GetTemplateTable" />
+	<bean id="reuserlogin" class="com.mangni.vegaplan.servletsrc.beforeplay.ReUserLogin" />
+	
+	<bean id="getplayerdata" class="com.mangni.vegaplan.servletsrc.beforeplay.GetPlayerData" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getchampionstop" class="com.mangni.vegaplan.servletsrc.selectdata.GetChampionstop">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getmilitaryrank" class="com.mangni.vegaplan.servletsrc.selectdata.GetMilitaryRank">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getplayerchamtop" class="com.mangni.vegaplan.servletsrc.selectdata.GetPlayerchamtop">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	
+	
+	<bean id="buyrankshop" class="com.mangni.vegaplan.servletsrc.updatedata.BuyRankShop" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+
+	<bean id="challengemilitafter" class="com.mangni.vegaplan.servletsrc.updatedata.ChallengeMilitAfter" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="challengemilitbefore" class="com.mangni.vegaplan.servletsrc.updatedata.ChallengeMilitBefore" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+
+	<bean id="chipuplv" class="com.mangni.vegaplan.servletsrc.updatedata.ChipUpLv" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="chipupstar" class="com.mangni.vegaplan.servletsrc.updatedata.ChipUpStar" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fichampions" class="com.mangni.vegaplan.servletsrc.updatedata.FiChampions" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="usefighterpatch" class="com.mangni.vegaplan.servletsrc.updatedata.UseFighterPatch" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="jeworchipcompose" class="com.mangni.vegaplan.servletsrc.updatedata.JewOrChipCompose" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="militaryrankdanriseafter" class="com.mangni.vegaplan.servletsrc.updatedata.MilitaryRankdanRiseAfter" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="militaryrankdanrisebefore" class="com.mangni.vegaplan.servletsrc.updatedata.MilitaryRankdanRiseBefore" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="rafflenew" class="com.mangni.vegaplan.servletsrc.updatedata.Rafflenew" >
+	</bean>
+	
+	<bean id="updatepcbset" class="com.mangni.vegaplan.servletsrc.updatedata.UpdatePcbSet" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="onekeypcbset" class="com.mangni.vegaplan.servletsrc.updatedata.OnekeyPcbset" />
+	
+	<bean id="uptobattle" class="com.mangni.vegaplan.servletsrc.updatedata.UpTobattle" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="usegoods" class="com.mangni.vegaplan.servletsrc.updatedata.UseGoods" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="vitcut" class="com.mangni.vegaplan.servletsrc.updatedata.VitCut" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="insertfighter" class="com.mangni.vegaplan.servletsrc.intodata.InsertFighter" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivevipaward" class="com.mangni.vegaplan.servletsrc.vipsystem.ReceiveVipAward" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="breakbarrier" class="com.mangni.vegaplan.servletsrc.updatedata.BreakBarrier">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sweepbarrier" class="com.mangni.vegaplan.servletsrc.updatedata.SweepBarrier" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="buyveg" class="com.mangni.vegaplan.servletsrc.vipsystem.BuyVEG" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="exercisegrounds" class="com.mangni.vegaplan.servletsrc.updatedata.ExerciseGrounds" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sendworldmessage" class="com.mangni.vegaplan.servletsrc.chatandmail.SendWorldMessage" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sendplayermessage" class="com.mangni.vegaplan.servletsrc.chatandmail.SendPlayerMessage" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getoutlinemessage" class="com.mangni.vegaplan.servletsrc.chatandmail.GetOutlineMessage" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getmail" class="com.mangni.vegaplan.servletsrc.chatandmail.GetMail" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="readmail" class="com.mangni.vegaplan.servletsrc.chatandmail.ReadMail" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="buystoreshop" class="com.mangni.vegaplan.servletsrc.updatedata.BuyStoreShop" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getfriendslist" class="com.mangni.vegaplan.servletsrc.chatandmail.GetFriendsList" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="makefriends" class="com.mangni.vegaplan.servletsrc.chatandmail.MakeFriends" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getonlinefriends" class="com.mangni.vegaplan.servletsrc.chatandmail.GetOnlineFriends" />
+	
+	<bean id="deletefriend" class="com.mangni.vegaplan.servletsrc.chatandmail.DeleteFriend" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="playersign" class="com.mangni.vegaplan.servletsrc.updatedata.PlayerSign" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="dailytask" class="com.mangni.vegaplan.servletsrc.updatedata.DailyTask" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="lvlupskills" class="com.mangni.vegaplan.servletsrc.updatedata.LvlupSkills" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sellequip" class="com.mangni.vegaplan.servletsrc.updatedata.SellEquip" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="getallrank" class="com.mangni.vegaplan.servletsrc.selectdata.GetAllRank" />
+	
+	<bean id="receivecustomermessage" class="com.mangni.vegaplan.servletsrc.chatandmail.ReceiveCustomerMessage" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="vitreward" class="com.mangni.vegaplan.servletsrc.updatedata.VitReward" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivefirstrecharge" class="com.mangni.vegaplan.servletsrc.vipsystem.ReceiveFirstRecharge" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="buyvipshop" class="com.mangni.vegaplan.servletsrc.updatedata.BuyVipShop" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="growthfund" class="com.mangni.vegaplan.servletsrc.economicsystem.GrowthFund" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fimercenarytask" class="com.mangni.vegaplan.servletsrc.mercenary.FiMercenaryTask" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivexxdd" class="com.mangni.vegaplan.servletsrc.economicsystem.ReceiveXxdd" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivejjfy" class="com.mangni.vegaplan.servletsrc.economicsystem.ReceiveJjfy" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receiveaddrmb" class="com.mangni.vegaplan.servletsrc.economicsystem.ReceiveAddrmb" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receiveaddbuy" class="com.mangni.vegaplan.servletsrc.economicsystem.ReceiveAddbuy" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="creategang" class="com.mangni.vegaplan.servletsrc.gang.CreateGang" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="askforjoingang" class="com.mangni.vegaplan.servletsrc.gang.AskforJoinGang" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="askforleavegang" class="com.mangni.vegaplan.servletsrc.gang.AskforLeaveGang" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="processjoinasking" class="com.mangni.vegaplan.servletsrc.gang.ProcessJoinAsking" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="kickplayer" class="com.mangni.vegaplan.servletsrc.gang.KickPlayer" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="dismissgang" class="com.mangni.vegaplan.servletsrc.gang.DismissGang" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="updategangduties" class="com.mangni.vegaplan.servletsrc.gang.UpdateGangDuties" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="updategang" class="com.mangni.vegaplan.servletsrc.gang.UpdateGang" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="promotionreward" class="com.mangni.vegaplan.servletsrc.economicsystem.PromotionReward" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="turnget" class="com.mangni.vegaplan.servletsrc.gang.TurnGet" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="turnpay" class="com.mangni.vegaplan.servletsrc.gang.TurnPay" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="rename" class="com.mangni.vegaplan.servletsrc.updatedata.ReName" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="rewardgangpay" class="com.mangni.vegaplan.servletsrc.gang.RewardGangPay" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	 
+	<bean id="fitrial" class="com.mangni.vegaplan.servletsrc.updatedata.FiTrial" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sendgangmessage" class="com.mangni.vegaplan.servletsrc.chatandmail.SendGangMessage" />
+	
+	<bean id="buygangshop" class="com.mangni.vegaplan.servletsrc.gang.BuyGangShop" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="sicompose" class="com.mangni.vegaplan.servletsrc.updatedata.SiCompose" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="holidayreceive" class="com.mangni.vegaplan.servletsrc.economicsystem.HolidayReceive" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="exchangeholidaygold" class="com.mangni.vegaplan.servletsrc.economicsystem.ExchangeHolidaygold" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="wizardreceive" class="com.mangni.vegaplan.servletsrc.economicsystem.WizardReceive" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="digreceive" class="com.mangni.vegaplan.servletsrc.economicsystem.DigReceive" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="goallocked" class="com.mangni.vegaplan.servletsrc.gang.GoalLocked" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="goalhurt" class="com.mangni.vegaplan.servletsrc.gang.GoalHurt" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="ganggoalallot" class="com.mangni.vegaplan.servletsrc.gang.GanggoalAllot" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="jeworchiprecast" class="com.mangni.vegaplan.servletsrc.updatedata.JewOrChipRecast" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="buyskin" class="com.mangni.vegaplan.servletsrc.updatedata.BuySkin" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="updateskin" class="com.mangni.vegaplan.servletsrc.updatedata.UpdateSkin" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivesevenday" class="com.mangni.vegaplan.servletsrc.economicsystem.ReceiveSevenday" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fightertacticsuplv" class="com.mangni.vegaplan.servletsrc.updatedata.FighterTacticsUplv" >
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fighterupstar" class="com.mangni.vegaplan.servletsrc.updatedata.FighterUpstar">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fighterequipuplv" class="com.mangni.vegaplan.servletsrc.updatedata.FighterEquipUplv">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="fighterskilluplv" class="com.mangni.vegaplan.servletsrc.updatedata.FighterSkillUplv">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="buyshopmall" class="com.mangni.vegaplan.servletsrc.updatedata.BuyShopMall">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="competitionseason" class="com.mangni.vegaplan.servletsrc.matching.CompetitionSeason" />
+	
+	<bean id="competitionsensoncomplete" class="com.mangni.vegaplan.servletsrc.matching.CompetitionSensonComplete">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="useexppool" class="com.mangni.vegaplan.servletsrc.updatedata.UseExppool" />
+	
+	<bean id="gangbattlesite" class="com.mangni.vegaplan.servletsrc.gang.GangBattleSite">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="gangbattlechallenge" class="com.mangni.vegaplan.servletsrc.gang.GangBattleChallenge">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="rewardbarrierstone" class="com.mangni.vegaplan.servletsrc.updatedata.RewardBarrierStone">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="gangcontribute" class="com.mangni.vegaplan.servletsrc.gang.GangContribute">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+	<bean id="receivecontributestone" class="com.mangni.vegaplan.servletsrc.gang.ReceiveContributeStone">
+		<property name="myJdbcTemplate" ref="myJdbcTemplate"/>
+	</bean>
+	
+</beans>

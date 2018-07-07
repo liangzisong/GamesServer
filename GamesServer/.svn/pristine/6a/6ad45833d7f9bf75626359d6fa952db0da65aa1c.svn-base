@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Holiday Value="第一天" />
+			<Description Value="开服红包" />
+			<GetGold Value="11111" />
+			<GetItem1Id Value="48" />
+			<GetItem1Num Value="1" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="45" />
+			<GetStone Value="11" />
+			<GemCharacter Value="Quadrilateral" />
+			<ChipColor Value="Blue" />
+			<GemItemId Value="10047" />
+			<ChipItemId Value="10052" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="4" />
+			<ItemNum Value="1" />
+			<Vit Value="8" />
+			<Stone Value="58" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-10 00:00:00" />
+			<HolidayDesc Value="8月9日----8月17日" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Holiday Value="第二天" />
+			<Description Value="祝福红包" />
+			<GetGold Value="22222" />
+			<GetItem1Id Value="47" />
+			<GetItem1Num Value="7" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="40" />
+			<GetStone Value="22" />
+			<GemCharacter Value="Pentagon" />
+			<ChipColor Value="Blue" />
+			<GemItemId Value="10048" />
+			<ChipItemId Value="10052" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="4" />
+			<ItemNum Value="2" />
+			<Vit Value="18" />
+			<Stone Value="88" />
+			<StartDate Value="2017-08-10 00:00:00" />
+			<EndDate Value="2017-08-11 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Holiday Value="第三天" />
+			<Description Value="如意红包" />
+			<GetGold Value="33333" />
+			<GetItem1Id Value="47" />
+			<GetItem1Num Value="4" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="35" />
+			<GetStone Value="33" />
+			<GemCharacter Value="Hexagon" />
+			<ChipColor Value="Blue" />
+			<GemItemId Value="10049" />
+			<ChipItemId Value="10052" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="4" />
+			<ItemNum Value="3" />
+			<Vit Value="28" />
+			<Stone Value="128" />
+			<StartDate Value="2017-08-11 00:00:00" />
+			<EndDate Value="2017-08-12 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Holiday Value="第四天" />
+			<Description Value="平安红包" />
+			<GetGold Value="44444" />
+			<GetItem1Id Value="47" />
+			<GetItem1Num Value="2" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="30" />
+			<GetStone Value="44" />
+			<GemCharacter Value="Quadrilateral" />
+			<ChipColor Value="Purple" />
+			<GemItemId Value="10047" />
+			<ChipItemId Value="10053" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="4" />
+			<ItemNum Value="4" />
+			<Vit Value="38" />
+			<Stone Value="188" />
+			<StartDate Value="2017-08-12 00:00:00" />
+			<EndDate Value="2017-08-13 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Holiday Value="第五天" />
+			<Description Value="健康红包" />
+			<GetGold Value="55555" />
+			<GetItem1Id Value="47" />
+			<GetItem1Num Value="1" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="25" />
+			<GetStone Value="55" />
+			<GemCharacter Value="Pentagon" />
+			<ChipColor Value="Purple" />
+			<GemItemId Value="10048" />
+			<ChipItemId Value="10053" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="62" />
+			<ItemNum Value="1" />
+			<Vit Value="48" />
+			<Stone Value="288" />
+			<StartDate Value="2017-08-13 00:00:00" />
+			<EndDate Value="2017-08-14 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Holiday Value="第六天" />
+			<Description Value="吉利红包" />
+			<GetGold Value="66666" />
+			<GetItem1Id Value="46" />
+			<GetItem1Num Value="7" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="20" />
+			<GetStone Value="66" />
+			<GemCharacter Value="Hexagon" />
+			<ChipColor Value="Purple" />
+			<GemItemId Value="10049" />
+			<ChipItemId Value="10053" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="3" />
+			<ItemNum Value="1" />
+			<Vit Value="58" />
+			<Stone Value="388" />
+			<StartDate Value="2017-08-14 00:00:00" />
+			<EndDate Value="2017-08-15 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Holiday Value="第七天" />
+			<Description Value="好运红包" />
+			<GetGold Value="77777" />
+			<GetItem1Id Value="46" />
+			<GetItem1Num Value="4" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="15" />
+			<GetStone Value="77" />
+			<GemCharacter Value="Quadrilateral" />
+			<ChipColor Value="Gold" />
+			<GemItemId Value="10047" />
+			<ChipItemId Value="10054" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="3" />
+			<ItemNum Value="2" />
+			<Vit Value="68" />
+			<Stone Value="688" />
+			<StartDate Value="2017-08-15 00:00:00" />
+			<EndDate Value="2017-08-16 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Holiday Value="第八天" />
+			<Description Value="旺财红包" />
+			<GetGold Value="88888" />
+			<GetItem1Id Value="46" />
+			<GetItem1Num Value="2" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="10" />
+			<GetStone Value="88" />
+			<GemCharacter Value="Pentagon" />
+			<ChipColor Value="Gold" />
+			<GemItemId Value="10048" />
+			<ChipItemId Value="10054" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="3" />
+			<ItemNum Value="3" />
+			<Vit Value="78" />
+			<Stone Value="788" />
+			<StartDate Value="2017-08-16 00:00:00" />
+			<EndDate Value="2017-08-17 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Holiday Value="第九天" />
+			<Description Value="幸福红包" />
+			<GetGold Value="99999" />
+			<GetItem1Id Value="46" />
+			<GetItem1Num Value="1" />
+			<GetItem2Id Value="1" />
+			<GetItem2Num Value="5" />
+			<GetStone Value="99" />
+			<GemCharacter Value="Hexagon" />
+			<ChipColor Value="Gold" />
+			<GemItemId Value="10049" />
+			<ChipItemId Value="10054" />
+			<GemId Value="0" />
+			<ChipId Value="0" />
+			<ItemId Value="3" />
+			<ItemNum Value="4" />
+			<Vit Value="88" />
+			<Stone Value="888" />
+			<StartDate Value="2017-08-17 00:00:00" />
+			<EndDate Value="2017-08-18 00:00:00" />
+			<HolidayDesc Value="" />
+		</data>
+	</root>

@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1011" />
+			<Name Value="武器" />
+			<FighterID Value="101" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1012" />
+			<Name Value="头盔" />
+			<FighterID Value="101" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1013" />
+			<Name Value="胸甲" />
+			<FighterID Value="101" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1014" />
+			<Name Value="护腿" />
+			<FighterID Value="101" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1021" />
+			<Name Value="武器" />
+			<FighterID Value="102" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="12" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="12" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1022" />
+			<Name Value="头盔" />
+			<FighterID Value="102" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="13" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="13" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1023" />
+			<Name Value="胸甲" />
+			<FighterID Value="102" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="12" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="12" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1024" />
+			<Name Value="护腿" />
+			<FighterID Value="102" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="13" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="13" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1031" />
+			<Name Value="武器" />
+			<FighterID Value="103" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="6" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="6" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1032" />
+			<Name Value="头盔" />
+			<FighterID Value="103" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1033" />
+			<Name Value="胸甲" />
+			<FighterID Value="103" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1034" />
+			<Name Value="护腿" />
+			<FighterID Value="103" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="6" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="6" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1041" />
+			<Name Value="武器" />
+			<FighterID Value="104" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1042" />
+			<Name Value="头盔" />
+			<FighterID Value="104" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="12" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="240" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="12" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="240" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1043" />
+			<Name Value="胸甲" />
+			<FighterID Value="104" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="240" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="240" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1044" />
+			<Name Value="护腿" />
+			<FighterID Value="104" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="12" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="12" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1051" />
+			<Name Value="武器" />
+			<FighterID Value="105" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1052" />
+			<Name Value="头盔" />
+			<FighterID Value="105" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1053" />
+			<Name Value="胸甲" />
+			<FighterID Value="105" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1054" />
+			<Name Value="护腿" />
+			<FighterID Value="105" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1061" />
+			<Name Value="武器" />
+			<FighterID Value="106" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1062" />
+			<Name Value="头盔" />
+			<FighterID Value="106" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1063" />
+			<Name Value="胸甲" />
+			<FighterID Value="106" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1064" />
+			<Name Value="护腿" />
+			<FighterID Value="106" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="9" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="9" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1071" />
+			<Name Value="武器" />
+			<FighterID Value="107" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="13" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="13" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1072" />
+			<Name Value="头盔" />
+			<FighterID Value="107" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="12" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="12" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1073" />
+			<Name Value="胸甲" />
+			<FighterID Value="107" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="13" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="13" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1074" />
+			<Name Value="护腿" />
+			<FighterID Value="107" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="12" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="12" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1081" />
+			<Name Value="武器" />
+			<FighterID Value="108" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1082" />
+			<Name Value="头盔" />
+			<FighterID Value="108" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1083" />
+			<Name Value="胸甲" />
+			<FighterID Value="108" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1084" />
+			<Name Value="护腿" />
+			<FighterID Value="108" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="9" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="9" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1091" />
+			<Name Value="武器" />
+			<FighterID Value="109" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="7" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="7" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1092" />
+			<Name Value="头盔" />
+			<FighterID Value="109" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="12" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="12" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1093" />
+			<Name Value="胸甲" />
+			<FighterID Value="109" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1094" />
+			<Name Value="护腿" />
+			<FighterID Value="109" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="12" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="12" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1101" />
+			<Name Value="武器" />
+			<FighterID Value="110" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="6" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="6" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1102" />
+			<Name Value="头盔" />
+			<FighterID Value="110" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1103" />
+			<Name Value="胸甲" />
+			<FighterID Value="110" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1104" />
+			<Name Value="护腿" />
+			<FighterID Value="110" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1111" />
+			<Name Value="武器" />
+			<FighterID Value="111" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="7" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="7" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1112" />
+			<Name Value="头盔" />
+			<FighterID Value="111" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1113" />
+			<Name Value="胸甲" />
+			<FighterID Value="111" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1114" />
+			<Name Value="护腿" />
+			<FighterID Value="111" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="5" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="5" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1121" />
+			<Name Value="武器" />
+			<FighterID Value="112" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1122" />
+			<Name Value="头盔" />
+			<FighterID Value="112" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="11" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="11" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1123" />
+			<Name Value="胸甲" />
+			<FighterID Value="112" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1124" />
+			<Name Value="护腿" />
+			<FighterID Value="112" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="11" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="11" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1131" />
+			<Name Value="武器" />
+			<FighterID Value="113" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="14" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="14" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1132" />
+			<Name Value="头盔" />
+			<FighterID Value="113" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="12" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="12" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1133" />
+			<Name Value="胸甲" />
+			<FighterID Value="113" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="13" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="230" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="13" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="230" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1134" />
+			<Name Value="护腿" />
+			<FighterID Value="113" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="11" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="11" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1141" />
+			<Name Value="武器" />
+			<FighterID Value="114" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1142" />
+			<Name Value="头盔" />
+			<FighterID Value="114" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1143" />
+			<Name Value="胸甲" />
+			<FighterID Value="114" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1144" />
+			<Name Value="护腿" />
+			<FighterID Value="114" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="9" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="9" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1151" />
+			<Name Value="武器" />
+			<FighterID Value="115" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1152" />
+			<Name Value="头盔" />
+			<FighterID Value="115" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="13" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="240" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="13" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="240" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1153" />
+			<Name Value="胸甲" />
+			<FighterID Value="115" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="240" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="240" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1154" />
+			<Name Value="护腿" />
+			<FighterID Value="115" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="12" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="12" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1161" />
+			<Name Value="武器" />
+			<FighterID Value="116" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="6" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="6" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1162" />
+			<Name Value="头盔" />
+			<FighterID Value="116" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1163" />
+			<Name Value="胸甲" />
+			<FighterID Value="116" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="6" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="200" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="6" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="200" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1164" />
+			<Name Value="护腿" />
+			<FighterID Value="116" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="10" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="7" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="10" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="7" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1171" />
+			<Name Value="武器" />
+			<FighterID Value="117" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="7" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="7" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1172" />
+			<Name Value="头盔" />
+			<FighterID Value="117" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1173" />
+			<Name Value="胸甲" />
+			<FighterID Value="117" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1174" />
+			<Name Value="护腿" />
+			<FighterID Value="117" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="9" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="9" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1181" />
+			<Name Value="武器" />
+			<FighterID Value="118" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1182" />
+			<Name Value="头盔" />
+			<FighterID Value="118" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1183" />
+			<Name Value="胸甲" />
+			<FighterID Value="118" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="210" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="210" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1184" />
+			<Name Value="护腿" />
+			<FighterID Value="118" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="EleAttack" />
+			<lvValue1 Value="8" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="8" />
+			<equipType1 Value="EleAttack" />
+			<equipValue1 Value="8" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="8" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1191" />
+			<Name Value="武器" />
+			<FighterID Value="119" />
+			<equipPos Value="1" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="3" />
+			<material4 Value="4" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="PhyDefence" />
+			<lvValue2 Value="10" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="PhyDefence" />
+			<equipValue2 Value="10" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1192" />
+			<Name Value="头盔" />
+			<FighterID Value="119" />
+			<equipPos Value="2" />
+			<material1 Value="2" />
+			<material2 Value="3" />
+			<material3 Value="4" />
+			<material4 Value="5" />
+			<lvType1 Value="EleDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="EleDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1193" />
+			<Name Value="胸甲" />
+			<FighterID Value="119" />
+			<equipPos Value="3" />
+			<material1 Value="3" />
+			<material2 Value="4" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyDefence" />
+			<lvValue1 Value="9" />
+			<lvType2 Value="HP" />
+			<lvValue2 Value="220" />
+			<equipType1 Value="PhyDefence" />
+			<equipValue1 Value="9" />
+			<equipType2 Value="HP" />
+			<equipValue2 Value="220" />
+			<Path1 Value="" />
+		</data>
+		<data>
+			<Id Value="1194" />
+			<Name Value="护腿" />
+			<FighterID Value="119" />
+			<equipPos Value="4" />
+			<material1 Value="1" />
+			<material2 Value="2" />
+			<material3 Value="5" />
+			<material4 Value="6" />
+			<lvType1 Value="PhyAttack" />
+			<lvValue1 Value="7" />
+			<lvType2 Value="EleDefence" />
+			<lvValue2 Value="9" />
+			<equipType1 Value="PhyAttack" />
+			<equipValue1 Value="7" />
+			<equipType2 Value="EleDefence" />
+			<equipValue2 Value="9" />
+			<Path1 Value="" />
+		</data>
+	</root>

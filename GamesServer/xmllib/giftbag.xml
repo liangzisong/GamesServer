@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<GetGold Value="50000" />
+			<GetItem1Id Value="47" />
+			<GetItem1Num Value="10" />
+			<ChipId Value="43" />
+		</data>
+	</root>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Name Value="开卷有益" />
+			<Dot Value="5" />
+			<Description Value="今日登录游戏1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="1" />
+			<Goto Value="无" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Name Value="各取所需" />
+			<Dot Value="5" />
+			<Description Value="购买经验1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="0" />
+			<HeroExp Value="1" />
+			<RewardExp Value="1" />
+			<Type Value="2" />
+			<Goto Value="购买经验弹窗" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Name Value="公平交易" />
+			<Dot Value="5" />
+			<Description Value="购买星币1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="2" />
+			<Goto Value="购买星币弹窗" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Name Value="强身健体" />
+			<Dot Value="10" />
+			<Description Value="购买体力1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<HeroExp Value="2" />
+			<RewardExp Value="2" />
+			<Type Value="3" />
+			<Goto Value="购买体力弹窗" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Name Value="会员有礼" />
+			<Dot Value="10" />
+			<Description Value="购买1次会员礼包" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<HeroExp Value="2" />
+			<RewardExp Value="2" />
+			<Type Value="3" />
+			<Goto Value="商城（会员）" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Name Value="穷文富武" />
+			<Dot Value="15" />
+			<Description Value="消耗300钻石" />
+			<TaskCount Value="300" />
+			<RewardStone Value="15" />
+			<RewardGold Value="0" />
+			<HeroExp Value="3" />
+			<RewardExp Value="3" />
+			<Type Value="4" />
+			<Goto Value="商城" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Name Value="束脩六礼" />
+			<Dot Value="15" />
+			<Description Value="消耗50000星币" />
+			<TaskCount Value="50000" />
+			<RewardStone Value="15" />
+			<RewardGold Value="0" />
+			<HeroExp Value="3" />
+			<RewardExp Value="3" />
+			<Type Value="4" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Name Value="熟能生巧" />
+			<Dot Value="15" />
+			<Description Value="消耗50技能点数" />
+			<TaskCount Value="50" />
+			<RewardStone Value="15" />
+			<RewardGold Value="3" />
+			<HeroExp Value="0" />
+			<RewardExp Value="3" />
+			<Type Value="5" />
+			<Goto Value="技能" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Name Value="日积月累" />
+			<Dot Value="15" />
+			<Description Value="消耗10块英雄碎片" />
+			<TaskCount Value="10" />
+			<RewardStone Value="15" />
+			<RewardGold Value="3" />
+			<HeroExp Value="0" />
+			<RewardExp Value="3" />
+			<Type Value="5" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Name Value="自强不息" />
+			<Dot Value="10" />
+			<Description Value="消耗50颗强化石" />
+			<TaskCount Value="50" />
+			<RewardStone Value="10" />
+			<RewardGold Value="2" />
+			<HeroExp Value="0" />
+			<RewardExp Value="2" />
+			<Type Value="6" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Name Value="按步就班" />
+			<Dot Value="10" />
+			<Description Value="装备强化1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="10" />
+			<RewardGold Value="2" />
+			<HeroExp Value="0" />
+			<RewardExp Value="2" />
+			<Type Value="6" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Name Value="好友众乐" />
+			<Dot Value="5" />
+			<Description Value="为5个好友赠送体力" />
+			<TaskCount Value="5" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="7" />
+			<Goto Value="聊天好友" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Name Value="维护保养" />
+			<Dot Value="5" />
+			<Description Value="进行1次维护保养" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="7" />
+			<Goto Value="维护保养" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<Name Value="横扫千军" />
+			<Dot Value="10" />
+			<Description Value="挑战任意剧情副本10次" />
+			<TaskCount Value="10" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<HeroExp Value="2" />
+			<RewardExp Value="2" />
+			<Type Value="8" />
+			<Goto Value="战役" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<Name Value="极限挑战" />
+			<Dot Value="10" />
+			<Description Value="挑战竞技场5次" />
+			<TaskCount Value="5" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<HeroExp Value="2" />
+			<RewardExp Value="2" />
+			<Type Value="9" />
+			<Goto Value="竞技场" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<Name Value="竞技之王" />
+			<Dot Value="10" />
+			<Description Value="赛季比赛3次" />
+			<TaskCount Value="3" />
+			<RewardStone Value="10" />
+			<RewardGold Value="0" />
+			<HeroExp Value="2" />
+			<RewardExp Value="2" />
+			<Type Value="9" />
+			<Goto Value="赛季" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<Name Value="应名点卯" />
+			<Dot Value="5" />
+			<Description Value="进行1次连续签到" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="10" />
+			<Goto Value="活动连续签到" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<Name Value="天天向上" />
+			<Dot Value="5" />
+			<Description Value="进行1次月签到" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="10" />
+			<Goto Value="活动月签到" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<Name Value="紫微流年" />
+			<Dot Value="5" />
+			<Description Value="进行1次碎片抽奖" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="11" />
+			<Goto Value="基地（抽碎片）" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<Name Value="六爻八卦" />
+			<Dot Value="5" />
+			<Description Value="进行1次材料抽奖" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="1" />
+			<HeroExp Value="0" />
+			<RewardExp Value="1" />
+			<Type Value="11" />
+			<Goto Value="基地（抽材料）" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<Name Value="节节高升" />
+			<Dot Value="5" />
+			<Description Value="英雄升级1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="0" />
+			<HeroExp Value="1" />
+			<RewardExp Value="1" />
+			<Type Value="12" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<Name Value="步步高升" />
+			<Dot Value="5" />
+			<Description Value="装备升级1次" />
+			<TaskCount Value="1" />
+			<RewardStone Value="5" />
+			<RewardGold Value="0" />
+			<HeroExp Value="1" />
+			<RewardExp Value="1" />
+			<Type Value="12" />
+			<Goto Value="英雄" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<Name Value="20点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到20点数" />
+			<TaskCount Value="20" />
+			<RewardStone Value="20" />
+			<RewardGold Value="0" />
+			<HeroExp Value="0" />
+			<RewardExp Value="0" />
+			<Type Value="101" />
+			<Goto Value="无" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<Name Value="50点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到50点数" />
+			<TaskCount Value="50" />
+			<RewardStone Value="30" />
+			<RewardGold Value="0" />
+			<HeroExp Value="0" />
+			<RewardExp Value="0" />
+			<Type Value="102" />
+			<Goto Value="无" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<Name Value="80点数" />
+			<Dot Value="0" />
+			<Description Value="今日任务累积到80点数" />
+			<TaskCount Value="80" />
+			<RewardStone Value="50" />
+			<RewardGold Value="0" />
+			<HeroExp Value="0" />
+			<RewardExp Value="0" />
+			<Type Value="103" />
+			<Goto Value="无" />
+		</data>
+	</root>

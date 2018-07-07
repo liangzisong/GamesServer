@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Num Value="1" />
+			<Stake1 Value="50" />
+			<Stake2 Value="150" />
+			<Ring1 Value="60" />
+			<Ring2 Value="61" />
+			<Ring3 Value="61" />
+			<Ring4 Value="62" />
+			<Ring5 Value="63" />
+			<Ring6 Value="63" />
+			<Ring7 Value="64" />
+			<Ring8 Value="64" />
+			<Ring9 Value="65" />
+			<Ring10 Value="66" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="2" />
+			<Stake1 Value="265" />
+			<Stake2 Value="795" />
+			<Ring1 Value="318" />
+			<Ring2 Value="321" />
+			<Ring3 Value="325" />
+			<Ring4 Value="328" />
+			<Ring5 Value="331" />
+			<Ring6 Value="335" />
+			<Ring7 Value="338" />
+			<Ring8 Value="341" />
+			<Ring9 Value="345" />
+			<Ring10 Value="348" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="3" />
+			<Stake1 Value="795" />
+			<Stake2 Value="2384" />
+			<Ring1 Value="953" />
+			<Ring2 Value="963" />
+			<Ring3 Value="973" />
+			<Ring4 Value="983" />
+			<Ring5 Value="993" />
+			<Ring6 Value="1003" />
+			<Ring7 Value="1013" />
+			<Ring8 Value="1023" />
+			<Ring9 Value="1033" />
+			<Ring10 Value="1043" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="4" />
+			<Stake1 Value="1833" />
+			<Stake2 Value="5499" />
+			<Ring1 Value="2199" />
+			<Ring2 Value="2222" />
+			<Ring3 Value="2245" />
+			<Ring4 Value="2268" />
+			<Ring5 Value="2291" />
+			<Ring6 Value="2314" />
+			<Ring7 Value="2337" />
+			<Ring8 Value="2360" />
+			<Ring9 Value="2383" />
+			<Ring10 Value="2406" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="5" />
+			<Stake1 Value="3633" />
+			<Stake2 Value="10898" />
+			<Ring1 Value="4359" />
+			<Ring2 Value="4405" />
+			<Ring3 Value="4450" />
+			<Ring4 Value="4495" />
+			<Ring5 Value="4541" />
+			<Ring6 Value="4586" />
+			<Ring7 Value="4632" />
+			<Ring8 Value="4677" />
+			<Ring9 Value="4723" />
+			<Ring10 Value="4768" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="6" />
+			<Stake1 Value="6523" />
+			<Stake2 Value="19568" />
+			<Ring1 Value="7827" />
+			<Ring2 Value="7909" />
+			<Ring3 Value="7990" />
+			<Ring4 Value="8072" />
+			<Ring5 Value="8153" />
+			<Ring6 Value="8235" />
+			<Ring7 Value="8316" />
+			<Ring8 Value="8398" />
+			<Ring9 Value="8479" />
+			<Ring10 Value="8561" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+		<data>
+			<Num Value="7" />
+			<Stake1 Value="10929" />
+			<Stake2 Value="32788" />
+			<Ring1 Value="13115" />
+			<Ring2 Value="13252" />
+			<Ring3 Value="13388" />
+			<Ring4 Value="13525" />
+			<Ring5 Value="13662" />
+			<Ring6 Value="13798" />
+			<Ring7 Value="13935" />
+			<Ring8 Value="14071" />
+			<Ring9 Value="14208" />
+			<Ring10 Value="14345" />
+			<StartDate Value="2016-11-09" />
+			<EndDate Value="2016-11-30" />
+		</data>
+	</root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Description Value="星蕴共有五层，机甲每满十级将开启下一层星蕴。" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Description Value="与星核槽类型相匹配的星核才能装入星蕴。" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Description Value="与星石槽颜色一致的星石才能装入星蕴。" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Description Value="机甲库里，水平滑动机甲图像可显示其他机甲。" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Description Value="在15级前一定要攒够600星钻，因为成长基金只能15级以前购买。" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Description Value="每进入一次关卡消耗5点体力值，如果闯关失败则返还3点体力值。" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Description Value="5颗同类型的星核将合成1颗同类型高一级星核。" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Description Value="5颗同颜色的星石将合成1颗同颜色高一级星石。" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Description Value="VIP的等级越高，每天可以接受的赏金任务就越多。" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Description Value="小心布尔，它还有一个隐藏技能----自爆。" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<Description Value="当你在竞技场进入前十时，你就获得挑战前十名任意一个玩家的权利。" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<Description Value="当您处在自动战斗状态时，手动触发技能不会更换到手动状态。" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<Description Value="英雄不只能看到所有机甲，还能看到你所拥有的物品。" />
+		</data>
+	</root>

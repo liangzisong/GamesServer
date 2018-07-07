@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="test/resources/|test/java/|main/java/|main/resources/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-all-9.3.6.v20151106-uber.jar" sourcepath="D:/Java/jdk1.8.0_162/src.zip"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/druid-1.0.21.jar" sourcepath="lib/druid-1.0.21-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/quartz-all-1.8.6.jar"/>
+	<classpathentry kind="lib" path="lib/java_websocket.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.3.4.RELEASE.jar" sourcepath="lib/spring-jdbc-4.3.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

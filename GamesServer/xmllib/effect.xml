@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Name Value="Effect_nvcike_sp02" />
+			<WithMech Value="false" />
+			<EffectType Value="MoveActor" />
+			<TouchOffEffType Value="Dot" />
+			<TouchOffEffRange Value="0" />
+			<BallisticSpeed Value="20" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Name Value="nvcikeHit" />
+			<WithMech Value="true" />
+			<EffectType Value="SkillActorBase" />
+			<TouchOffEffType Value="Dot" />
+			<TouchOffEffRange Value="0" />
+			<BallisticSpeed Value="0" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Name Value="Effect_nvcike_sp03" />
+			<WithMech Value="false" />
+			<EffectType Value="GuideActor" />
+			<TouchOffEffType Value="Circular" />
+			<TouchOffEffRange Value="2" />
+			<BallisticSpeed Value="5" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Name Value="火焰弹" />
+			<WithMech Value="false" />
+			<EffectType Value="" />
+			<TouchOffEffType Value="Circular" />
+			<TouchOffEffRange Value="1.5" />
+			<BallisticSpeed Value="5" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Name Value="冷冻弹" />
+			<WithMech Value="false" />
+			<EffectType Value="" />
+			<TouchOffEffType Value="Circular" />
+			<TouchOffEffRange Value="2.5" />
+			<BallisticSpeed Value="4" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Name Value="连环弹" />
+			<WithMech Value="false" />
+			<EffectType Value="" />
+			<TouchOffEffType Value="Circular" />
+			<TouchOffEffRange Value="2.5" />
+			<BallisticSpeed Value="3" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<Name Value="线粒体" />
+			<WithMech Value="false" />
+			<EffectType Value="" />
+			<TouchOffEffType Value="Dot" />
+			<TouchOffEffRange Value="0" />
+			<BallisticSpeed Value="0" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Name Value="聚变" />
+			<WithMech Value="false" />
+			<EffectType Value="" />
+			<TouchOffEffType Value="Circular" />
+			<TouchOffEffRange Value="1" />
+			<BallisticSpeed Value="4" />
+		</data>
+	</root>

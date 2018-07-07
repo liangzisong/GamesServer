@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="0" />
+			<FighterStar Value="1" />
+			<Pro1 Value="30" />
+			<Pro2 Value="50" />
+			<ProMax Value="20" />
+			<NeedSkillNum Value="1" />
+			<MaxValue Value="6" />
+		</data>
+		<data>
+			<Id Value="1" />
+			<FighterStar Value="2" />
+			<Pro1 Value="32" />
+			<Pro2 Value="49" />
+			<ProMax Value="19" />
+			<NeedSkillNum Value="2" />
+			<MaxValue Value="7" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<FighterStar Value="2" />
+			<Pro1 Value="34" />
+			<Pro2 Value="48" />
+			<ProMax Value="18" />
+			<NeedSkillNum Value="3" />
+			<MaxValue Value="8" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<FighterStar Value="3" />
+			<Pro1 Value="36" />
+			<Pro2 Value="47" />
+			<ProMax Value="17" />
+			<NeedSkillNum Value="4" />
+			<MaxValue Value="9" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<FighterStar Value="3" />
+			<Pro1 Value="38" />
+			<Pro2 Value="46" />
+			<ProMax Value="16" />
+			<NeedSkillNum Value="5" />
+			<MaxValue Value="10" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<FighterStar Value="3" />
+			<Pro1 Value="40" />
+			<Pro2 Value="45" />
+			<ProMax Value="15" />
+			<NeedSkillNum Value="6" />
+			<MaxValue Value="11" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<FighterStar Value="4" />
+			<Pro1 Value="42" />
+			<Pro2 Value="44" />
+			<ProMax Value="14" />
+			<NeedSkillNum Value="7" />
+			<MaxValue Value="12" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<FighterStar Value="4" />
+			<Pro1 Value="44" />
+			<Pro2 Value="43" />
+			<ProMax Value="13" />
+			<NeedSkillNum Value="8" />
+			<MaxValue Value="13" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<FighterStar Value="4" />
+			<Pro1 Value="46" />
+			<Pro2 Value="42" />
+			<ProMax Value="12" />
+			<NeedSkillNum Value="9" />
+			<MaxValue Value="14" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<FighterStar Value="4" />
+			<Pro1 Value="48" />
+			<Pro2 Value="41" />
+			<ProMax Value="11" />
+			<NeedSkillNum Value="10" />
+			<MaxValue Value="15" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<FighterStar Value="5" />
+			<Pro1 Value="50" />
+			<Pro2 Value="40" />
+			<ProMax Value="10" />
+			<NeedSkillNum Value="11" />
+			<MaxValue Value="16" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<FighterStar Value="5" />
+			<Pro1 Value="52" />
+			<Pro2 Value="39" />
+			<ProMax Value="9" />
+			<NeedSkillNum Value="12" />
+			<MaxValue Value="17" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<FighterStar Value="5" />
+			<Pro1 Value="54" />
+			<Pro2 Value="38" />
+			<ProMax Value="8" />
+			<NeedSkillNum Value="13" />
+			<MaxValue Value="18" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<FighterStar Value="5" />
+			<Pro1 Value="56" />
+			<Pro2 Value="37" />
+			<ProMax Value="7" />
+			<NeedSkillNum Value="14" />
+			<MaxValue Value="19" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<FighterStar Value="5" />
+			<Pro1 Value="58" />
+			<Pro2 Value="36" />
+			<ProMax Value="6" />
+			<NeedSkillNum Value="15" />
+			<MaxValue Value="20" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<FighterStar Value="6" />
+			<Pro1 Value="60" />
+			<Pro2 Value="35" />
+			<ProMax Value="5" />
+			<NeedSkillNum Value="16" />
+			<MaxValue Value="21" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<FighterStar Value="6" />
+			<Pro1 Value="62" />
+			<Pro2 Value="34" />
+			<ProMax Value="4" />
+			<NeedSkillNum Value="17" />
+			<MaxValue Value="22" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<FighterStar Value="6" />
+			<Pro1 Value="64" />
+			<Pro2 Value="33" />
+			<ProMax Value="3" />
+			<NeedSkillNum Value="18" />
+			<MaxValue Value="23" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<FighterStar Value="6" />
+			<Pro1 Value="66" />
+			<Pro2 Value="32" />
+			<ProMax Value="2" />
+			<NeedSkillNum Value="19" />
+			<MaxValue Value="24" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<FighterStar Value="6" />
+			<Pro1 Value="68" />
+			<Pro2 Value="31" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="20" />
+			<MaxValue Value="25" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<FighterStar Value="6" />
+			<Pro1 Value="69" />
+			<Pro2 Value="30" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="21" />
+			<MaxValue Value="26" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<FighterStar Value="7" />
+			<Pro1 Value="70" />
+			<Pro2 Value="29" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="22" />
+			<MaxValue Value="27" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<FighterStar Value="7" />
+			<Pro1 Value="71" />
+			<Pro2 Value="28" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="23" />
+			<MaxValue Value="28" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<FighterStar Value="7" />
+			<Pro1 Value="72" />
+			<Pro2 Value="27" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="24" />
+			<MaxValue Value="29" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<FighterStar Value="7" />
+			<Pro1 Value="73" />
+			<Pro2 Value="26" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="25" />
+			<MaxValue Value="30" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<FighterStar Value="7" />
+			<Pro1 Value="74" />
+			<Pro2 Value="25" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="26" />
+			<MaxValue Value="31" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<FighterStar Value="7" />
+			<Pro1 Value="75" />
+			<Pro2 Value="24" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="27" />
+			<MaxValue Value="32" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<FighterStar Value="7" />
+			<Pro1 Value="76" />
+			<Pro2 Value="23" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="28" />
+			<MaxValue Value="33" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<FighterStar Value="7" />
+			<Pro1 Value="77" />
+			<Pro2 Value="22" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="29" />
+			<MaxValue Value="34" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<FighterStar Value="7" />
+			<Pro1 Value="78" />
+			<Pro2 Value="21" />
+			<ProMax Value="1" />
+			<NeedSkillNum Value="30" />
+			<MaxValue Value="35" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<FighterStar Value="7" />
+			<Pro1 Value="0" />
+			<Pro2 Value="0" />
+			<ProMax Value="0" />
+			<NeedSkillNum Value="0" />
+			<MaxValue Value="0" />
+		</data>
+	</root>

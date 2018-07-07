@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+    "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+ 
+    <!-- 默认访问页面 -->
+    <package name="ssh.product.action" extends="struts-default" namespace="/">
+        <default-action-ref name="default"/>
+        <action name="default">
+            <result>/WEB-INF/view/view.jsp</result>
+        </action>
+    </package>
+ 
+ 
+    <package name="ssh.product.action" extends="json-default">
+        <action name="ajax" class="ssh.product.action.ajaxAction">
+                <!-- <param name="root">result</param> -->
+                
+        </action>
+ 	</package>
+    <!-- 商品相关请求转发 -->
+    <!-- Struts2在2.5版本后添加strict-method-invocation(严格方法访问)，默认为true，不能使用动态方法调用功能，故需设为false -->
+    <!-- <package name="product" extends="struts-default" namespace="/"  strict-method-invocation="false"> -->
+        <!-- 登陆 -->
+        <!-- <action name="product_findById" class="productAction" method="login">
+            <result>WEB-INF/view/index.jsp</result>
+            <result name="input">WEB-INF/view/login.jsp</result>
+        </action> -->
+        <!-- 查询所有 -->
+       <!-- <action name="findAll" class="productAction" method="findAll">
+            <result>WEB-INF/view/index.jsp</result>
+            <result name="input">WEB-INF/view/index.jsp</result>
+        </action>
+        <action name="pageAll" class="pageAction" method="queryForPage">
+            <result>WEB-INF/view/view.jsp</result>
+            <result name="input">WEB-INF/view/view.jsp</result>
+        </action> -->
+    <!-- </package> -->
+     
+    <!-- 引入资源文件 -->
+   <!--  <constant name="struts.custom.i18n.resources" value="messageResource"></constant> -->
+ 
+</struts>

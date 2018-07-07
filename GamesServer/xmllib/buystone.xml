@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<BuyVitStone Value="10" />
+			<BuyEnergyStone Value="10" />
+			<BuyGoldStone Value="10" />
+			<BuyBullFightStone Value="10" />
+			<BuyDeathStone Value="10" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<BuyVitStone Value="20" />
+			<BuyEnergyStone Value="20" />
+			<BuyGoldStone Value="20" />
+			<BuyBullFightStone Value="20" />
+			<BuyDeathStone Value="20" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<BuyVitStone Value="30" />
+			<BuyEnergyStone Value="30" />
+			<BuyGoldStone Value="30" />
+			<BuyBullFightStone Value="30" />
+			<BuyDeathStone Value="30" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<BuyVitStone Value="40" />
+			<BuyEnergyStone Value="40" />
+			<BuyGoldStone Value="40" />
+			<BuyBullFightStone Value="40" />
+			<BuyDeathStone Value="40" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<BuyVitStone Value="50" />
+			<BuyEnergyStone Value="50" />
+			<BuyGoldStone Value="50" />
+			<BuyBullFightStone Value="50" />
+			<BuyDeathStone Value="50" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<BuyVitStone Value="65" />
+			<BuyEnergyStone Value="65" />
+			<BuyGoldStone Value="65" />
+			<BuyBullFightStone Value="65" />
+			<BuyDeathStone Value="65" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<BuyVitStone Value="80" />
+			<BuyEnergyStone Value="80" />
+			<BuyGoldStone Value="80" />
+			<BuyBullFightStone Value="80" />
+			<BuyDeathStone Value="80" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<BuyVitStone Value="95" />
+			<BuyEnergyStone Value="95" />
+			<BuyGoldStone Value="95" />
+			<BuyBullFightStone Value="95" />
+			<BuyDeathStone Value="95" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<BuyVitStone Value="110" />
+			<BuyEnergyStone Value="110" />
+			<BuyGoldStone Value="110" />
+			<BuyBullFightStone Value="110" />
+			<BuyDeathStone Value="110" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<BuyVitStone Value="125" />
+			<BuyEnergyStone Value="125" />
+			<BuyGoldStone Value="125" />
+			<BuyBullFightStone Value="125" />
+			<BuyDeathStone Value="125" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<BuyVitStone Value="145" />
+			<BuyEnergyStone Value="145" />
+			<BuyGoldStone Value="145" />
+			<BuyBullFightStone Value="145" />
+			<BuyDeathStone Value="145" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<BuyVitStone Value="165" />
+			<BuyEnergyStone Value="165" />
+			<BuyGoldStone Value="165" />
+			<BuyBullFightStone Value="165" />
+			<BuyDeathStone Value="165" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<BuyVitStone Value="185" />
+			<BuyEnergyStone Value="185" />
+			<BuyGoldStone Value="185" />
+			<BuyBullFightStone Value="185" />
+			<BuyDeathStone Value="185" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<BuyVitStone Value="205" />
+			<BuyEnergyStone Value="205" />
+			<BuyGoldStone Value="205" />
+			<BuyBullFightStone Value="205" />
+			<BuyDeathStone Value="205" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<BuyVitStone Value="225" />
+			<BuyEnergyStone Value="225" />
+			<BuyGoldStone Value="225" />
+			<BuyBullFightStone Value="225" />
+			<BuyDeathStone Value="225" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<BuyVitStone Value="250" />
+			<BuyEnergyStone Value="250" />
+			<BuyGoldStone Value="250" />
+			<BuyBullFightStone Value="250" />
+			<BuyDeathStone Value="250" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<BuyVitStone Value="275" />
+			<BuyEnergyStone Value="275" />
+			<BuyGoldStone Value="275" />
+			<BuyBullFightStone Value="275" />
+			<BuyDeathStone Value="275" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<BuyVitStone Value="300" />
+			<BuyEnergyStone Value="300" />
+			<BuyGoldStone Value="300" />
+			<BuyBullFightStone Value="300" />
+			<BuyDeathStone Value="300" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<BuyVitStone Value="325" />
+			<BuyEnergyStone Value="325" />
+			<BuyGoldStone Value="325" />
+			<BuyBullFightStone Value="325" />
+			<BuyDeathStone Value="325" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<BuyVitStone Value="350" />
+			<BuyEnergyStone Value="350" />
+			<BuyGoldStone Value="350" />
+			<BuyBullFightStone Value="350" />
+			<BuyDeathStone Value="350" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<BuyVitStone Value="375" />
+			<BuyEnergyStone Value="375" />
+			<BuyGoldStone Value="375" />
+			<BuyBullFightStone Value="375" />
+			<BuyDeathStone Value="375" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<BuyVitStone Value="400" />
+			<BuyEnergyStone Value="400" />
+			<BuyGoldStone Value="400" />
+			<BuyBullFightStone Value="400" />
+			<BuyDeathStone Value="400" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<BuyVitStone Value="425" />
+			<BuyEnergyStone Value="425" />
+			<BuyGoldStone Value="425" />
+			<BuyBullFightStone Value="425" />
+			<BuyDeathStone Value="425" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<BuyVitStone Value="450" />
+			<BuyEnergyStone Value="450" />
+			<BuyGoldStone Value="450" />
+			<BuyBullFightStone Value="450" />
+			<BuyDeathStone Value="450" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<BuyVitStone Value="475" />
+			<BuyEnergyStone Value="475" />
+			<BuyGoldStone Value="475" />
+			<BuyBullFightStone Value="475" />
+			<BuyDeathStone Value="475" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<BuyVitStone Value="500" />
+			<BuyEnergyStone Value="500" />
+			<BuyGoldStone Value="500" />
+			<BuyBullFightStone Value="500" />
+			<BuyDeathStone Value="500" />
+		</data>
+	</root>

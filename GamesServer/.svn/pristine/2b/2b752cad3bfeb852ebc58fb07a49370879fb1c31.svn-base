@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Lv Value="1" />
+			<AddressPercent Value="1.02" />
+			<TurntableExp Value="100" />
+		</data>
+		<data>
+			<Lv Value="2" />
+			<AddressPercent Value="1.04" />
+			<TurntableExp Value="200" />
+		</data>
+		<data>
+			<Lv Value="3" />
+			<AddressPercent Value="1.06" />
+			<TurntableExp Value="300" />
+		</data>
+		<data>
+			<Lv Value="4" />
+			<AddressPercent Value="1.08" />
+			<TurntableExp Value="400" />
+		</data>
+		<data>
+			<Lv Value="5" />
+			<AddressPercent Value="1.1" />
+			<TurntableExp Value="500" />
+		</data>
+		<data>
+			<Lv Value="6" />
+			<AddressPercent Value="1.12" />
+			<TurntableExp Value="600" />
+		</data>
+		<data>
+			<Lv Value="7" />
+			<AddressPercent Value="1.14" />
+			<TurntableExp Value="700" />
+		</data>
+		<data>
+			<Lv Value="8" />
+			<AddressPercent Value="1.16" />
+			<TurntableExp Value="800" />
+		</data>
+		<data>
+			<Lv Value="9" />
+			<AddressPercent Value="1.18" />
+			<TurntableExp Value="900" />
+		</data>
+		<data>
+			<Lv Value="10" />
+			<AddressPercent Value="1.2" />
+			<TurntableExp Value="1000" />
+		</data>
+		<data>
+			<Lv Value="11" />
+			<AddressPercent Value="1.22" />
+			<TurntableExp Value="1100" />
+		</data>
+		<data>
+			<Lv Value="12" />
+			<AddressPercent Value="1.24" />
+			<TurntableExp Value="1200" />
+		</data>
+		<data>
+			<Lv Value="13" />
+			<AddressPercent Value="1.26" />
+			<TurntableExp Value="1300" />
+		</data>
+		<data>
+			<Lv Value="14" />
+			<AddressPercent Value="1.28" />
+			<TurntableExp Value="1400" />
+		</data>
+		<data>
+			<Lv Value="15" />
+			<AddressPercent Value="1.3" />
+			<TurntableExp Value="1500" />
+		</data>
+		<data>
+			<Lv Value="16" />
+			<AddressPercent Value="1.32" />
+			<TurntableExp Value="1600" />
+		</data>
+		<data>
+			<Lv Value="17" />
+			<AddressPercent Value="1.34" />
+			<TurntableExp Value="1700" />
+		</data>
+		<data>
+			<Lv Value="18" />
+			<AddressPercent Value="1.36" />
+			<TurntableExp Value="1800" />
+		</data>
+		<data>
+			<Lv Value="19" />
+			<AddressPercent Value="1.38" />
+			<TurntableExp Value="1900" />
+		</data>
+		<data>
+			<Lv Value="20" />
+			<AddressPercent Value="1.4" />
+			<TurntableExp Value="2000" />
+		</data>
+		<data>
+			<Lv Value="21" />
+			<AddressPercent Value="1.42" />
+			<TurntableExp Value="2100" />
+		</data>
+		<data>
+			<Lv Value="22" />
+			<AddressPercent Value="1.44" />
+			<TurntableExp Value="2200" />
+		</data>
+		<data>
+			<Lv Value="23" />
+			<AddressPercent Value="1.46" />
+			<TurntableExp Value="2300" />
+		</data>
+		<data>
+			<Lv Value="24" />
+			<AddressPercent Value="1.48" />
+			<TurntableExp Value="2400" />
+		</data>
+		<data>
+			<Lv Value="25" />
+			<AddressPercent Value="1.5" />
+			<TurntableExp Value="2500" />
+		</data>
+		<data>
+			<Lv Value="26" />
+			<AddressPercent Value="1.52" />
+			<TurntableExp Value="2600" />
+		</data>
+		<data>
+			<Lv Value="27" />
+			<AddressPercent Value="1.54" />
+			<TurntableExp Value="2700" />
+		</data>
+		<data>
+			<Lv Value="28" />
+			<AddressPercent Value="1.56" />
+			<TurntableExp Value="2800" />
+		</data>
+		<data>
+			<Lv Value="29" />
+			<AddressPercent Value="1.58" />
+			<TurntableExp Value="2900" />
+		</data>
+		<data>
+			<Lv Value="30" />
+			<AddressPercent Value="1.6" />
+			<TurntableExp Value="3000" />
+		</data>
+		<data>
+			<Lv Value="31" />
+			<AddressPercent Value="1.62" />
+			<TurntableExp Value="3100" />
+		</data>
+		<data>
+			<Lv Value="32" />
+			<AddressPercent Value="1.64" />
+			<TurntableExp Value="3200" />
+		</data>
+		<data>
+			<Lv Value="33" />
+			<AddressPercent Value="1.66" />
+			<TurntableExp Value="3300" />
+		</data>
+		<data>
+			<Lv Value="34" />
+			<AddressPercent Value="1.68" />
+			<TurntableExp Value="3400" />
+		</data>
+		<data>
+			<Lv Value="35" />
+			<AddressPercent Value="1.7" />
+			<TurntableExp Value="3500" />
+		</data>
+		<data>
+			<Lv Value="36" />
+			<AddressPercent Value="1.72" />
+			<TurntableExp Value="3600" />
+		</data>
+		<data>
+			<Lv Value="37" />
+			<AddressPercent Value="1.74" />
+			<TurntableExp Value="3700" />
+		</data>
+		<data>
+			<Lv Value="38" />
+			<AddressPercent Value="1.76" />
+			<TurntableExp Value="3800" />
+		</data>
+		<data>
+			<Lv Value="39" />
+			<AddressPercent Value="1.78" />
+			<TurntableExp Value="3900" />
+		</data>
+		<data>
+			<Lv Value="40" />
+			<AddressPercent Value="1.8" />
+			<TurntableExp Value="4000" />
+		</data>
+		<data>
+			<Lv Value="41" />
+			<AddressPercent Value="1.82" />
+			<TurntableExp Value="4100" />
+		</data>
+		<data>
+			<Lv Value="42" />
+			<AddressPercent Value="1.84" />
+			<TurntableExp Value="4200" />
+		</data>
+		<data>
+			<Lv Value="43" />
+			<AddressPercent Value="1.86" />
+			<TurntableExp Value="4300" />
+		</data>
+		<data>
+			<Lv Value="44" />
+			<AddressPercent Value="1.88" />
+			<TurntableExp Value="4400" />
+		</data>
+		<data>
+			<Lv Value="45" />
+			<AddressPercent Value="1.9" />
+			<TurntableExp Value="4500" />
+		</data>
+		<data>
+			<Lv Value="46" />
+			<AddressPercent Value="1.92" />
+			<TurntableExp Value="4600" />
+		</data>
+		<data>
+			<Lv Value="47" />
+			<AddressPercent Value="1.94" />
+			<TurntableExp Value="4700" />
+		</data>
+		<data>
+			<Lv Value="48" />
+			<AddressPercent Value="1.96" />
+			<TurntableExp Value="4800" />
+		</data>
+		<data>
+			<Lv Value="49" />
+			<AddressPercent Value="1.98" />
+			<TurntableExp Value="4900" />
+		</data>
+		<data>
+			<Lv Value="50" />
+			<AddressPercent Value="2" />
+			<TurntableExp Value="0" />
+		</data>
+	</root>

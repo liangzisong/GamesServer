@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="0" />
+			<MaxBuyVit Value="2" />
+			<MaxBuyEnergy Value="2" />
+			<MaxBuyGold Value="2" />
+			<MaxBuyChallenge Value="2" />
+			<MaxExchangePatch Value="90" />
+		</data>
+		<data>
+			<Id Value="1" />
+			<MaxBuyVit Value="4" />
+			<MaxBuyEnergy Value="4" />
+			<MaxBuyGold Value="4" />
+			<MaxBuyChallenge Value="4" />
+			<MaxExchangePatch Value="90" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<MaxBuyVit Value="6" />
+			<MaxBuyEnergy Value="6" />
+			<MaxBuyGold Value="6" />
+			<MaxBuyChallenge Value="6" />
+			<MaxExchangePatch Value="90" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<MaxBuyVit Value="8" />
+			<MaxBuyEnergy Value="8" />
+			<MaxBuyGold Value="8" />
+			<MaxBuyChallenge Value="8" />
+			<MaxExchangePatch Value="180" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<MaxBuyVit Value="10" />
+			<MaxBuyEnergy Value="10" />
+			<MaxBuyGold Value="10" />
+			<MaxBuyChallenge Value="10" />
+			<MaxExchangePatch Value="180" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<MaxBuyVit Value="12" />
+			<MaxBuyEnergy Value="12" />
+			<MaxBuyGold Value="12" />
+			<MaxBuyChallenge Value="12" />
+			<MaxExchangePatch Value="360" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<MaxBuyVit Value="14" />
+			<MaxBuyEnergy Value="14" />
+			<MaxBuyGold Value="14" />
+			<MaxBuyChallenge Value="14" />
+			<MaxExchangePatch Value="360" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<MaxBuyVit Value="16" />
+			<MaxBuyEnergy Value="16" />
+			<MaxBuyGold Value="16" />
+			<MaxBuyChallenge Value="16" />
+			<MaxExchangePatch Value="540" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<MaxBuyVit Value="18" />
+			<MaxBuyEnergy Value="18" />
+			<MaxBuyGold Value="18" />
+			<MaxBuyChallenge Value="18" />
+			<MaxExchangePatch Value="540" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<MaxBuyVit Value="20" />
+			<MaxBuyEnergy Value="20" />
+			<MaxBuyGold Value="20" />
+			<MaxBuyChallenge Value="20" />
+			<MaxExchangePatch Value="720" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<MaxBuyVit Value="22" />
+			<MaxBuyEnergy Value="22" />
+			<MaxBuyGold Value="22" />
+			<MaxBuyChallenge Value="22" />
+			<MaxExchangePatch Value="720" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<MaxBuyVit Value="24" />
+			<MaxBuyEnergy Value="24" />
+			<MaxBuyGold Value="24" />
+			<MaxBuyChallenge Value="24" />
+			<MaxExchangePatch Value="900" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<MaxBuyVit Value="26" />
+			<MaxBuyEnergy Value="26" />
+			<MaxBuyGold Value="26" />
+			<MaxBuyChallenge Value="26" />
+			<MaxExchangePatch Value="900" />
+		</data>
+	</root>

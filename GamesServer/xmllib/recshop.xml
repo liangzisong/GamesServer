@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<Name Value="" />
+			<NeedRmb Value="6" />
+			<Stone Value="60" />
+			<Desprition Value="消费6元人民币获得60星钻" />
+			<IconPath Value="星钻礼包1" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<Name Value="" />
+			<NeedRmb Value="30" />
+			<Stone Value="300" />
+			<Desprition Value="消费30元人民币获得300星钻" />
+			<IconPath Value="星钻礼包2" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<Name Value="" />
+			<NeedRmb Value="98" />
+			<Stone Value="1200" />
+			<Desprition Value="消费98元人民币获得1200星钻" />
+			<IconPath Value="星钻礼包3" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<Name Value="" />
+			<NeedRmb Value="198" />
+			<Stone Value="3000" />
+			<Desprition Value="消费198元人民币获得3000星钻" />
+			<IconPath Value="星钻礼包4" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<Name Value="" />
+			<NeedRmb Value="328" />
+			<Stone Value="5000" />
+			<Desprition Value="消费328元人民币获得5000星钻" />
+			<IconPath Value="星钻礼包5" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<Name Value="" />
+			<NeedRmb Value="648" />
+			<Stone Value="10000" />
+			<Desprition Value="消费648元人民币获得10000星钻" />
+			<IconPath Value="星钻礼包7" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<Name Value="周卡" />
+			<NeedRmb Value="18" />
+			<Stone Value="100" />
+			<Desprition Value="即刻获得100星钻，且7日内每天100星钻。" />
+			<IconPath Value="周卡" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<Name Value="月卡" />
+			<NeedRmb Value="60" />
+			<Stone Value="300" />
+			<Desprition Value="即刻获得300星钻，且31日内每天100星钻。" />
+			<IconPath Value="月卡" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<Name Value="金卡" />
+			<NeedRmb Value="108" />
+			<Stone Value="1000" />
+			<Desprition Value="即刻获得1000星钻，且100日内每天100星钻。" />
+			<IconPath Value="金卡" />
+		</data>
+	</root>

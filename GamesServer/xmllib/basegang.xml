@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<GangLv Value="1" />
+			<GangExp Value="100000" />
+			<GangCount Value="30" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<GangLv Value="2" />
+			<GangExp Value="0" />
+			<GangCount Value="35" />
+		</data>
+	</root>

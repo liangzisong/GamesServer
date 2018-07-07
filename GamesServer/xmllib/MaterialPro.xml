@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<PlayerLv Value="5" />
+			<Material1Lv Value="1" />
+			<Material2Lv Value="1" />
+			<Material3Lv Value="1" />
+			<Material4Lv Value="1" />
+			<Material5Lv Value="1" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<PlayerLv Value="10" />
+			<Material1Lv Value="1" />
+			<Material2Lv Value="1" />
+			<Material3Lv Value="2" />
+			<Material4Lv Value="2" />
+			<Material5Lv Value="2" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<PlayerLv Value="15" />
+			<Material1Lv Value="1" />
+			<Material2Lv Value="2" />
+			<Material3Lv Value="2" />
+			<Material4Lv Value="3" />
+			<Material5Lv Value="3" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<PlayerLv Value="20" />
+			<Material1Lv Value="1" />
+			<Material2Lv Value="2" />
+			<Material3Lv Value="3" />
+			<Material4Lv Value="3" />
+			<Material5Lv Value="4" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<PlayerLv Value="25" />
+			<Material1Lv Value="1" />
+			<Material2Lv Value="2" />
+			<Material3Lv Value="3" />
+			<Material4Lv Value="4" />
+			<Material5Lv Value="5" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<PlayerLv Value="30" />
+			<Material1Lv Value="2" />
+			<Material2Lv Value="3" />
+			<Material3Lv Value="4" />
+			<Material4Lv Value="5" />
+			<Material5Lv Value="6" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<PlayerLv Value="35" />
+			<Material1Lv Value="3" />
+			<Material2Lv Value="4" />
+			<Material3Lv Value="5" />
+			<Material4Lv Value="6" />
+			<Material5Lv Value="7" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<PlayerLv Value="40" />
+			<Material1Lv Value="4" />
+			<Material2Lv Value="5" />
+			<Material3Lv Value="6" />
+			<Material4Lv Value="7" />
+			<Material5Lv Value="8" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<PlayerLv Value="45" />
+			<Material1Lv Value="5" />
+			<Material2Lv Value="6" />
+			<Material3Lv Value="7" />
+			<Material4Lv Value="8" />
+			<Material5Lv Value="9" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<PlayerLv Value="50" />
+			<Material1Lv Value="6" />
+			<Material2Lv Value="7" />
+			<Material3Lv Value="8" />
+			<Material4Lv Value="9" />
+			<Material5Lv Value="10" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<PlayerLv Value="55" />
+			<Material1Lv Value="7" />
+			<Material2Lv Value="8" />
+			<Material3Lv Value="9" />
+			<Material4Lv Value="10" />
+			<Material5Lv Value="11" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<PlayerLv Value="60" />
+			<Material1Lv Value="8" />
+			<Material2Lv Value="9" />
+			<Material3Lv Value="10" />
+			<Material4Lv Value="11" />
+			<Material5Lv Value="12" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<PlayerLv Value="65" />
+			<Material1Lv Value="9" />
+			<Material2Lv Value="10" />
+			<Material3Lv Value="11" />
+			<Material4Lv Value="12" />
+			<Material5Lv Value="13" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<PlayerLv Value="70" />
+			<Material1Lv Value="10" />
+			<Material2Lv Value="11" />
+			<Material3Lv Value="12" />
+			<Material4Lv Value="13" />
+			<Material5Lv Value="14" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<PlayerLv Value="75" />
+			<Material1Lv Value="11" />
+			<Material2Lv Value="12" />
+			<Material3Lv Value="13" />
+			<Material4Lv Value="14" />
+			<Material5Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<PlayerLv Value="80" />
+			<Material1Lv Value="12" />
+			<Material2Lv Value="13" />
+			<Material3Lv Value="14" />
+			<Material4Lv Value="15" />
+			<Material5Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<PlayerLv Value="85" />
+			<Material1Lv Value="13" />
+			<Material2Lv Value="14" />
+			<Material3Lv Value="15" />
+			<Material4Lv Value="15" />
+			<Material5Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<PlayerLv Value="90" />
+			<Material1Lv Value="14" />
+			<Material2Lv Value="15" />
+			<Material3Lv Value="15" />
+			<Material4Lv Value="15" />
+			<Material5Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<PlayerLv Value="95" />
+			<Material1Lv Value="15" />
+			<Material2Lv Value="15" />
+			<Material3Lv Value="15" />
+			<Material4Lv Value="15" />
+			<Material5Lv Value="15" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<PlayerLv Value="100" />
+			<Material1Lv Value="15" />
+			<Material2Lv Value="15" />
+			<Material3Lv Value="15" />
+			<Material4Lv Value="15" />
+			<Material5Lv Value="15" />
+		</data>
+	</root>

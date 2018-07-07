@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<HolidayName Value="开服活动" />
+			<StartDate Value="2017-08-09 00:00:00" />
+			<EndDate Value="2017-08-17 23:59:59" />
+			<Desc Value="活动时间：2017年8月9日 ---- 2017年8月17日" />
+			<OpenBase Value="getReceivemap&amp;getWizardmap&amp;getDigmap" />
+			<BaseName Value="消费兑换&amp;任务向导&amp;挖宝奇兵" />
+		</data>
+	</root>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<DigNum Value="0" />
+			<UId Value="2" />
+			<DigId Value="1" />
+			<ItemType Value="Item" />
+			<ItemId Value="1" />
+			<ItemNum Value="15" />
+			<ItemCurrency Value="50" />
+			<CGI Value="0" />
+			<MaxId Value="25" />
+			<Description Value="1、藏宝图上一共有五块大陆，每块大陆有数量不同的宝藏，您将按照藏宝图的指定顺序进行挖宝。&#xA;2、每次挖宝需要消耗一定数量的刀币，刀币足够时，点击一次宝箱即可完成一次挖宝。&#xA;3、越是后面的大陆，宝箱的数量越多，每次挖宝所需刀币数量也越大。&#xA;4、每次挖宝将会获得一样物品，可点击藏宝图下方的相应物品图片查看即将获得的物品属性。&#xA;5、挖宝次数每达到6次，即可通过左边窗口领取额外的装备奖励。" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<DigNum Value="0" />
+			<UId Value="2" />
+			<DigId Value="2" />
+			<ItemType Value="Gem" />
+			<ItemId Value="27" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="50" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<DigNum Value="0" />
+			<UId Value="2" />
+			<DigId Value="3" />
+			<ItemType Value="Chip" />
+			<ItemId Value="7" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="50" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<DigNum Value="0" />
+			<UId Value="4" />
+			<DigId Value="1" />
+			<ItemType Value="Item" />
+			<ItemId Value="46" />
+			<ItemNum Value="5" />
+			<ItemCurrency Value="100" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<DigNum Value="0" />
+			<UId Value="4" />
+			<DigId Value="2" />
+			<ItemType Value="Gem" />
+			<ItemId Value="43" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="100" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<DigNum Value="0" />
+			<UId Value="4" />
+			<DigId Value="3" />
+			<ItemType Value="Gem" />
+			<ItemId Value="38" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="100" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<DigNum Value="0" />
+			<UId Value="4" />
+			<DigId Value="5" />
+			<ItemType Value="Chip" />
+			<ItemId Value="8" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="100" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<DigNum Value="0" />
+			<UId Value="5" />
+			<DigId Value="1" />
+			<ItemType Value="Item" />
+			<ItemId Value="4" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="200" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<DigNum Value="0" />
+			<UId Value="5" />
+			<DigId Value="2" />
+			<ItemType Value="Gem" />
+			<ItemId Value="18" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="200" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<DigNum Value="0" />
+			<UId Value="5" />
+			<DigId Value="3" />
+			<ItemType Value="Gem" />
+			<ItemId Value="23" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="200" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<DigNum Value="0" />
+			<UId Value="5" />
+			<DigId Value="5" />
+			<ItemType Value="Chip" />
+			<ItemId Value="25" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="200" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<DigNum Value="0" />
+			<UId Value="5" />
+			<DigId Value="6" />
+			<ItemType Value="Chip" />
+			<ItemId Value="24" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="200" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="1" />
+			<ItemType Value="Item" />
+			<ItemId Value="47" />
+			<ItemNum Value="5" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="2" />
+			<ItemType Value="Item" />
+			<ItemId Value="62" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="3" />
+			<ItemType Value="Chip" />
+			<ItemId Value="40" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="4" />
+			<ItemType Value="Chip" />
+			<ItemId Value="41" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="5" />
+			<ItemType Value="Gem" />
+			<ItemId Value="39" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<DigNum Value="0" />
+			<UId Value="6" />
+			<DigId Value="6" />
+			<ItemType Value="Gem" />
+			<ItemId Value="44" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="350" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="1" />
+			<ItemType Value="Item" />
+			<ItemId Value="48" />
+			<ItemNum Value="5" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="2" />
+			<ItemType Value="Item" />
+			<ItemId Value="3" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="3" />
+			<ItemType Value="Item" />
+			<ItemId Value="63" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="4" />
+			<ItemType Value="Gem" />
+			<ItemId Value="24" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="5" />
+			<ItemType Value="Gem" />
+			<ItemId Value="19" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="6" />
+			<ItemType Value="Chip" />
+			<ItemId Value="56" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<DigNum Value="0" />
+			<UId Value="7" />
+			<DigId Value="7" />
+			<ItemType Value="Chip" />
+			<ItemId Value="55" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="550" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<DigNum Value="6" />
+			<UId Value="0" />
+			<DigId Value="0" />
+			<ItemType Value="Chip" />
+			<ItemId Value="206" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="0" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<DigNum Value="12" />
+			<UId Value="0" />
+			<DigId Value="0" />
+			<ItemType Value="Gem" />
+			<ItemId Value="74" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="0" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<DigNum Value="18" />
+			<UId Value="0" />
+			<DigId Value="0" />
+			<ItemType Value="Chip" />
+			<ItemId Value="214" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="0" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<DigNum Value="24" />
+			<UId Value="0" />
+			<DigId Value="0" />
+			<ItemType Value="Chip" />
+			<ItemId Value="105" />
+			<ItemNum Value="1" />
+			<ItemCurrency Value="0" />
+			<CGI Value="0" />
+			<MaxId Value="" />
+			<Description Value="" />
+		</data>
+	</root>

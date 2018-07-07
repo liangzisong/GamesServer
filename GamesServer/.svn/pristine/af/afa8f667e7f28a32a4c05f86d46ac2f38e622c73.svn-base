@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<StarNum Value="15" />
+			<GetExp Value="50" />
+			<GetGold Value="5000" />
+			<GetStore Value="50" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<StarNum Value="30" />
+			<GetExp Value="100" />
+			<GetGold Value="10000" />
+			<GetStore Value="100" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<StarNum Value="45" />
+			<GetExp Value="200" />
+			<GetGold Value="15000" />
+			<GetStore Value="150" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<StarNum Value="60" />
+			<GetExp Value="500" />
+			<GetGold Value="20000" />
+			<GetStore Value="200" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<StarNum Value="75" />
+			<GetExp Value="1000" />
+			<GetGold Value="25000" />
+			<GetStore Value="250" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<StarNum Value="90" />
+			<GetExp Value="2000" />
+			<GetGold Value="30000" />
+			<GetStore Value="300" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<StarNum Value="105" />
+			<GetExp Value="5000" />
+			<GetGold Value="35000" />
+			<GetStore Value="350" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<StarNum Value="120" />
+			<GetExp Value="10000" />
+			<GetGold Value="40000" />
+			<GetStore Value="400" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<StarNum Value="135" />
+			<GetExp Value="20000" />
+			<GetGold Value="45000" />
+			<GetStore Value="450" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<StarNum Value="150" />
+			<GetExp Value="50000" />
+			<GetGold Value="50000" />
+			<GetStore Value="500" />
+		</data>
+	</root>

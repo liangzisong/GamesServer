@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<VipPackageName Value="VIP0礼包" />
+			<VipPackageGold Value="5000" />
+			<GemName Value="2级星石残片" />
+			<GemIconPath Value="随机2级星石" />
+			<GemCharacter Value="Quadrilateral" />
+			<GemQuantity Value="1" />
+			<ChipName Value="蓝色星核" />
+			<ChipIconPath Value="随机2级星核" />
+			<ChipColor Value="Blue" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="紫晶" />
+			<GuiIconPath Value="紫晶" />
+			<GuiItemId Value="4" />
+			<GuiQuantity Value="1" />
+			<VipPackageStone Value="80" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<VipPackageName Value="VIP1礼包" />
+			<VipPackageGold Value="20000" />
+			<GemName Value="3级星石碎块" />
+			<GemIconPath Value="随机3级星石" />
+			<GemCharacter Value="Pentagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="紫色星核" />
+			<ChipIconPath Value="随机3级星核" />
+			<ChipColor Value="Purple" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="紫晶" />
+			<GuiIconPath Value="紫晶" />
+			<GuiItemId Value="4" />
+			<GuiQuantity Value="2" />
+			<VipPackageStone Value="180" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<VipPackageName Value="VIP2礼包" />
+			<VipPackageGold Value="50000" />
+			<GemName Value="3级星石碎块" />
+			<GemIconPath Value="随机3级星石" />
+			<GemCharacter Value="Pentagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="紫色星核" />
+			<ChipIconPath Value="随机3级星核" />
+			<ChipColor Value="Purple" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="紫晶" />
+			<GuiIconPath Value="紫晶" />
+			<GuiItemId Value="4" />
+			<GuiQuantity Value="5" />
+			<VipPackageStone Value="280" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<VipPackageName Value="VIP3礼包" />
+			<VipPackageGold Value="80000" />
+			<GemName Value="3级星石碎块" />
+			<GemIconPath Value="随机3级星石" />
+			<GemCharacter Value="Pentagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="紫色星核" />
+			<ChipIconPath Value="随机3级星核" />
+			<ChipColor Value="Purple" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="金晶" />
+			<GuiIconPath Value="金晶" />
+			<GuiItemId Value="3" />
+			<GuiQuantity Value="1" />
+			<VipPackageStone Value="400" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<VipPackageName Value="VIP4礼包" />
+			<VipPackageGold Value="120000" />
+			<GemName Value="4级磨损星石" />
+			<GemIconPath Value="随机4级星石" />
+			<GemCharacter Value="Hexagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="紫色星核" />
+			<ChipIconPath Value="随机3级星核" />
+			<ChipColor Value="Purple" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="金晶" />
+			<GuiIconPath Value="金晶" />
+			<GuiItemId Value="3" />
+			<GuiQuantity Value="2" />
+			<VipPackageStone Value="1000" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<VipPackageName Value="VIP5礼包" />
+			<VipPackageGold Value="170000" />
+			<GemName Value="4级磨损星石" />
+			<GemIconPath Value="随机4级星石" />
+			<GemCharacter Value="Hexagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="金色星核" />
+			<ChipIconPath Value="随机4级星核" />
+			<ChipColor Value="Gold" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="金晶" />
+			<GuiIconPath Value="金晶" />
+			<GuiItemId Value="3" />
+			<GuiQuantity Value="3" />
+			<VipPackageStone Value="1500" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<VipPackageName Value="VIP6礼包" />
+			<VipPackageGold Value="230000" />
+			<GemName Value="4级磨损星石" />
+			<GemIconPath Value="随机4级星石" />
+			<GemCharacter Value="Hexagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="金色星核" />
+			<ChipIconPath Value="随机4级星核" />
+			<ChipColor Value="Gold" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="金晶" />
+			<GuiIconPath Value="金晶" />
+			<GuiItemId Value="3" />
+			<GuiQuantity Value="4" />
+			<VipPackageStone Value="1800" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<VipPackageName Value="VIP7礼包" />
+			<VipPackageGold Value="300000" />
+			<GemName Value="4级磨损星石" />
+			<GemIconPath Value="随机4级星石" />
+			<GemCharacter Value="Hexagon" />
+			<GemQuantity Value="1" />
+			<ChipName Value="金色星核" />
+			<ChipIconPath Value="随机4级星核" />
+			<ChipColor Value="Gold" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="金晶" />
+			<GuiIconPath Value="金晶" />
+			<GuiItemId Value="3" />
+			<GuiQuantity Value="5" />
+			<VipPackageStone Value="2000" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<VipPackageName Value="VIP8礼包" />
+			<VipPackageGold Value="400000" />
+			<GemName Value="5级完美星石" />
+			<GemIconPath Value="随机5级星石" />
+			<GemCharacter Value="Circle" />
+			<GemQuantity Value="1" />
+			<ChipName Value="金色星核" />
+			<ChipIconPath Value="随机4级星核" />
+			<ChipColor Value="Gold" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="彩晶" />
+			<GuiIconPath Value="彩晶" />
+			<GuiItemId Value="2" />
+			<GuiQuantity Value="1" />
+			<VipPackageStone Value="3600" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<VipPackageName Value="VIP9礼包" />
+			<VipPackageGold Value="550000" />
+			<GemName Value="5级完美星石" />
+			<GemIconPath Value="随机5级星石" />
+			<GemCharacter Value="Circle" />
+			<GemQuantity Value="1" />
+			<ChipName Value="金色星核" />
+			<ChipIconPath Value="随机4级星核" />
+			<ChipColor Value="Gold" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="彩晶" />
+			<GuiIconPath Value="彩晶" />
+			<GuiItemId Value="2" />
+			<GuiQuantity Value="2" />
+			<VipPackageStone Value="5000" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<VipPackageName Value="VIP10礼包" />
+			<VipPackageGold Value="700000" />
+			<GemName Value="5级完美星石" />
+			<GemIconPath Value="随机5级星石" />
+			<GemCharacter Value="Circle" />
+			<GemQuantity Value="1" />
+			<ChipName Value="红色星核" />
+			<ChipIconPath Value="随机5级星核" />
+			<ChipColor Value="Red" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="彩晶" />
+			<GuiIconPath Value="彩晶" />
+			<GuiItemId Value="2" />
+			<GuiQuantity Value="3" />
+			<VipPackageStone Value="7600" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<VipPackageName Value="VIP11礼包" />
+			<VipPackageGold Value="850000" />
+			<GemName Value="5级完美星石" />
+			<GemIconPath Value="随机5级星石" />
+			<GemCharacter Value="Circle" />
+			<GemQuantity Value="1" />
+			<ChipName Value="红色星核" />
+			<ChipIconPath Value="随机5级星核" />
+			<ChipColor Value="Red" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="彩晶" />
+			<GuiIconPath Value="彩晶" />
+			<GuiItemId Value="2" />
+			<GuiQuantity Value="4" />
+			<VipPackageStone Value="8800" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<VipPackageName Value="VIP12礼包" />
+			<VipPackageGold Value="1000000" />
+			<GemName Value="5级完美星石" />
+			<GemIconPath Value="随机5级星石" />
+			<GemCharacter Value="Circle" />
+			<GemQuantity Value="1" />
+			<ChipName Value="红色星核" />
+			<ChipIconPath Value="随机5级星核" />
+			<ChipColor Value="Red" />
+			<ChipQuantity Value="1" />
+			<GuiName Value="彩晶" />
+			<GuiIconPath Value="彩晶" />
+			<GuiItemId Value="2" />
+			<GuiQuantity Value="5" />
+			<VipPackageStone Value="10000" />
+		</data>
+	</root>

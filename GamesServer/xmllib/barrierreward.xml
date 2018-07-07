@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<startbarrierid Value="1" />
+			<endbarrierid Value="8" />
+			<needstar Value="8" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<startbarrierid Value="1" />
+			<endbarrierid Value="8" />
+			<needstar Value="16" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<startbarrierid Value="1" />
+			<endbarrierid Value="8" />
+			<needstar Value="24" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<startbarrierid Value="9" />
+			<endbarrierid Value="16" />
+			<needstar Value="8" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<startbarrierid Value="9" />
+			<endbarrierid Value="16" />
+			<needstar Value="16" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<startbarrierid Value="9" />
+			<endbarrierid Value="16" />
+			<needstar Value="24" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<startbarrierid Value="17" />
+			<endbarrierid Value="24" />
+			<needstar Value="8" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<startbarrierid Value="17" />
+			<endbarrierid Value="24" />
+			<needstar Value="16" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="9" />
+			<startbarrierid Value="17" />
+			<endbarrierid Value="24" />
+			<needstar Value="24" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="10" />
+			<startbarrierid Value="25" />
+			<endbarrierid Value="33" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="11" />
+			<startbarrierid Value="25" />
+			<endbarrierid Value="33" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="12" />
+			<startbarrierid Value="25" />
+			<endbarrierid Value="33" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="13" />
+			<startbarrierid Value="34" />
+			<endbarrierid Value="42" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="14" />
+			<startbarrierid Value="34" />
+			<endbarrierid Value="42" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="15" />
+			<startbarrierid Value="34" />
+			<endbarrierid Value="42" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="16" />
+			<startbarrierid Value="43" />
+			<endbarrierid Value="51" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="17" />
+			<startbarrierid Value="43" />
+			<endbarrierid Value="51" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="18" />
+			<startbarrierid Value="43" />
+			<endbarrierid Value="51" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="19" />
+			<startbarrierid Value="52" />
+			<endbarrierid Value="60" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="20" />
+			<startbarrierid Value="52" />
+			<endbarrierid Value="60" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="21" />
+			<startbarrierid Value="52" />
+			<endbarrierid Value="60" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="22" />
+			<startbarrierid Value="61" />
+			<endbarrierid Value="69" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="23" />
+			<startbarrierid Value="61" />
+			<endbarrierid Value="69" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="24" />
+			<startbarrierid Value="61" />
+			<endbarrierid Value="69" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="25" />
+			<startbarrierid Value="70" />
+			<endbarrierid Value="78" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="26" />
+			<startbarrierid Value="70" />
+			<endbarrierid Value="78" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="27" />
+			<startbarrierid Value="70" />
+			<endbarrierid Value="78" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="28" />
+			<startbarrierid Value="79" />
+			<endbarrierid Value="87" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="29" />
+			<startbarrierid Value="79" />
+			<endbarrierid Value="87" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="30" />
+			<startbarrierid Value="79" />
+			<endbarrierid Value="87" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="31" />
+			<startbarrierid Value="88" />
+			<endbarrierid Value="96" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="32" />
+			<startbarrierid Value="88" />
+			<endbarrierid Value="96" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="33" />
+			<startbarrierid Value="88" />
+			<endbarrierid Value="96" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+		<data>
+			<Id Value="34" />
+			<startbarrierid Value="97" />
+			<endbarrierid Value="105" />
+			<needstar Value="9" />
+			<stone Value="50" />
+		</data>
+		<data>
+			<Id Value="35" />
+			<startbarrierid Value="97" />
+			<endbarrierid Value="105" />
+			<needstar Value="18" />
+			<stone Value="100" />
+		</data>
+		<data>
+			<Id Value="36" />
+			<startbarrierid Value="97" />
+			<endbarrierid Value="105" />
+			<needstar Value="27" />
+			<stone Value="150" />
+		</data>
+	</root>

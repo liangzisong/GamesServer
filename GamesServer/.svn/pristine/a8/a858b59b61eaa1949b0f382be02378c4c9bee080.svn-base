@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1001" />
+			<Type Value="2" />
+			<FighterId Value="1" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1002" />
+			<Type Value="2" />
+			<FighterId Value="2" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1003" />
+			<Type Value="2" />
+			<FighterId Value="3" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1004" />
+			<Type Value="2" />
+			<FighterId Value="4" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1005" />
+			<Type Value="2" />
+			<FighterId Value="5" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1006" />
+			<Type Value="2" />
+			<FighterId Value="6" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1007" />
+			<Type Value="2" />
+			<FighterId Value="7" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1008" />
+			<Type Value="2" />
+			<FighterId Value="8" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="1600" />
+			<LeagueStone Value="1000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1009" />
+			<Type Value="2" />
+			<FighterId Value="9" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="2400" />
+			<LeagueStone Value="1500" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1010" />
+			<Type Value="2" />
+			<FighterId Value="10" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="2400" />
+			<LeagueStone Value="1500" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1011" />
+			<Type Value="2" />
+			<FighterId Value="11" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="2400" />
+			<LeagueStone Value="1500" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1013" />
+			<Type Value="2" />
+			<FighterId Value="13" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="3200" />
+			<LeagueStone Value="2000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1017" />
+			<Type Value="2" />
+			<FighterId Value="17" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="3200" />
+			<LeagueStone Value="2000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="1018" />
+			<Type Value="2" />
+			<FighterId Value="18" />
+			<DayticketNum Value="80" />
+			<WeekticketNum Value="500" />
+			<OldStone Value="3200" />
+			<LeagueStone Value="2000" />
+			<Desc Value="4月21日-5月15日" />
+		</data>
+		<data>
+			<Id Value="2001" />
+			<Type Value="3" />
+			<FighterId Value="1" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2003" />
+			<Type Value="3" />
+			<FighterId Value="3" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2007" />
+			<Type Value="3" />
+			<FighterId Value="7" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2012" />
+			<Type Value="3" />
+			<FighterId Value="12" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2014" />
+			<Type Value="3" />
+			<FighterId Value="14" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2016" />
+			<Type Value="3" />
+			<FighterId Value="16" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2019" />
+			<Type Value="3" />
+			<FighterId Value="19" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2020" />
+			<Type Value="3" />
+			<FighterId Value="20" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+		<data>
+			<Id Value="2021" />
+			<Type Value="3" />
+			<FighterId Value="21" />
+			<DayticketNum Value="0" />
+			<WeekticketNum Value="0" />
+			<OldStone Value="0" />
+			<LeagueStone Value="0" />
+			<Desc Value="" />
+		</data>
+	</root>

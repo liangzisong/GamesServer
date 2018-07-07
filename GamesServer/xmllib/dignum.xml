@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<data>
+			<Id Value="1" />
+			<DigNum Value="3" />
+			<ItemType Value="Item" />
+			<ItemId Value="1" />
+			<ItemNum Value="30" />
+			<CGI Value="0" />
+		</data>
+		<data>
+			<Id Value="2" />
+			<DigNum Value="6" />
+			<ItemType Value="Item" />
+			<ItemId Value="4" />
+			<ItemNum Value="1" />
+			<CGI Value="0" />
+		</data>
+		<data>
+			<Id Value="3" />
+			<DigNum Value="9" />
+			<ItemType Value="Item" />
+			<ItemId Value="62" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+		<data>
+			<Id Value="4" />
+			<DigNum Value="12" />
+			<ItemType Value="Gem" />
+			<ItemId Value="20" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+		<data>
+			<Id Value="5" />
+			<DigNum Value="15" />
+			<ItemType Value="Gem" />
+			<ItemId Value="25" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+		<data>
+			<Id Value="6" />
+			<DigNum Value="18" />
+			<ItemType Value="Chip" />
+			<ItemId Value="55" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+		<data>
+			<Id Value="7" />
+			<DigNum Value="21" />
+			<ItemType Value="Chip" />
+			<ItemId Value="56" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+		<data>
+			<Id Value="8" />
+			<DigNum Value="24" />
+			<ItemType Value="Chip" />
+			<ItemId Value="150" />
+			<ItemNum Value="1" />
+			<CGI Value="1" />
+		</data>
+	</root>
