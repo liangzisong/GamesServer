@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<link href="css/bootstrap-datepicker.min.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+</head>
+<body>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#div1").hide();
+			$("#one1").click(function() {
+				$(this).parents("#project1").hide();
+				$("#div1").show();
+			});
+		});
+	</script>
+	<div class="container">
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+				<h3>您好！</h3>
+				<nav class="navbar navbar-default navbar-static-top"
+					role="navigation">
+					<div class="navbar-header">
+						<p class="navbar-brand">请输入要查询的项目</p>
+					</div>
+
+					<div class="collapse navbar-collapse"
+						id="bs-example-navbar-collapse-1">
+
+						<form class="navbar-form navbar-left" role="search">
+							<div class="form-group">
+								<input type="text" class="form-control" />
+							</div>
+							<button type="submit" class="btn btn-default">搜索</button>
+						</form>
+
+					</div>
+
+				</nav>
+				<ul id="project1">
+					<li><a id="one1">项目一</a></li>
+					<li>项目二</li>
+					<li>项目三</li>
+					<li style="">项目四</li>
+				</ul>
+
+
+				<div class="container" id="div1">
+					<div class="row clearfix">
+						<div class="col-md-2 column"></div>
+						<div class="col-md-8 column">
+							<h3 class="text-center">项目总结</h3>
+							<form class="form-horizontal" role="form">
+								<div class="form-group">
+									<label for="inputEmail3" class="col-sm-2 control-label">评审会意见摘要</label>
+									<div class="col-sm-10">
+										<input type="email" class="form-control" id="inputEmail3" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword3" class="col-sm-2 control-label">项目技术总结</label>
+									<div class="col-sm-10">
+										<input type="password" class="form-control"
+											id="inputPassword3" />
+									</div>
+								</div>
+
+
+							</form>
+							<form class="form-horizontal" role="form">
+								<div class="form-group">
+									<label for="inputEmail3" class="col-sm-2 control-label">经验与教训</label>
+									<div class="col-sm-10">
+										<input type="email" class="form-control" id="inputEmail3" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword3" class="col-sm-2 control-label">其他</label>
+									<div class="col-sm-10">
+										<input type="password" class="form-control"
+											id="inputPassword3" />
+									</div>
+								</div>
+
+
+							</form>
+
+						</div>
+						<div class="col-md-2 column"></div>
+					</div>
+					<div class="row clearfix">
+						<div class="col-md-2 column"></div>
+						<div class="col-md-8 column">
+							<div class="row clearfix">
+								<div class="col-md-4 column"></div>
+								<div class="col-md-4 column">
+									<br />
+									<br />
+									<button type="button" class="btn btn-default">提交</button>
+								</div>
+								<div class="col-md-4 column"></div>
+							</div>
+						</div>
+						<div class="col-md-2 column"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+
+</body>
+</html>

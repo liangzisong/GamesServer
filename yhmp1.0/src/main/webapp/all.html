@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>基础测绘项目管理系统</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+  </head>
+  <body>
+
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-4">
+				</div>
+				<div class="col-md-8">
+					<h2 class="text-primary">
+						欢迎登陆基础测绘项目管理系统
+					</h2>
+				</div>
+			</div>
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="navbar-header">
+					 
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button> <a class="navbar-brand" id="index" onclick="show(1)">主页</a>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li class="active">
+							<a>项目信息</a>
+						</li>
+						<li>
+							<a onclick="show(2)">项目申报</a>
+						</li>
+						<li class="active" >
+							<a onclick="show(3)">项目计划</a>
+						</li>
+						<li>
+							<a onclick="show(4)">项目进度</a>
+						</li>
+						<li class="active" >
+							<a onclick="show(5)">项目审核</a>
+						</li>
+						<li>
+							<a onclick="show(6)">项目存档</a>
+						</li>
+						<li class="active" >
+							<a href="#" style="text-decoration:line-through;">项目评价</a>
+						</li>
+						<li>
+							<a onclick="show(8)">项目总结</a>
+						</li>
+						<li class="active" >
+							<a onclick="show(9)">已存档项目</a>
+						</li>
+						<li>
+							<a href="#" style="text-decoration:line-through;">项目计分</a>
+						</li>
+						<li class="active" >
+							<a  onclick="show(10)">统计日志</a>
+						</li>
+						
+						
+						<!-- 以下是下拉选，功能菜单可以修改为下拉选 -->
+						<!-- <li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Action</a>
+								</li>
+								<li>
+									<a href="#">Another action</a>
+								</li>
+								<li>
+									<a href="#">Something else here</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">Separated link</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">One more separated link</a>
+								</li>
+							</ul>
+						</li> -->
+					</ul>
+					<!-- <form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control">
+						</div> 
+						<button type="submit" class="btn btn-default">
+							Submit
+						</button>
+					</form> -->
+					<ul class="nav navbar-nav navbar-right">
+					
+					<!-- 显示用户信息 -->
+						<li>
+							<a href="#">欢迎</a>
+						</li> 
+						<li >
+							<a href="#" >Link</a>
+						</li> 
+						<!-- <li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Action</a>
+								</li>
+								<li>
+									<a href="#">Another action</a>
+								</li>
+								<li>
+									<a href="#">Something else here</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">Separated link</a>
+								</li>
+							</ul>
+						</li> -->
+					</ul>
+				</div>
+				
+			</nav>
+			<!-- 此处异步加载其他功能窗口 -->
+		<div id="main" >
+			<div class="jumbotron" id="d1" name="dv">
+				<h2>
+					简介
+				</h2>
+				<p>
+					This is a template for a simple marketing or informational website. 
+					It includes a large callout called the hero unit and three supporting pieces
+					 of content. Use it as a starting point to create something more unique.
+				</p>
+				
+			</div>
+			
+			<!--项目申报交接-->
+			<div class="container" id="d2" name="dv" >
+				<div class="row clearfix">
+					<div class="col-md-2 column"></div>
+					<div class="col-md-8 column">
+						<!-- 表头 -->
+						<h3 class="text-center">项目申报交接</h3>
+						<form role="form">
+						
+							<h4 class="text-left "><b>1. 业务基本情况</b></h4>
+							<div class="form-group">
+								<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">项目名称：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="nameId" class="col-sm-2 control-label">项目标准分:</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control required" id="nameId" >
+								</div>
+							</div>
+							<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">项目规模：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							<div class="form-group">
+								<!-- 项目类型选项卡 -->
+								<ul >
+									<li>整理：
+									 <label class="checkbox-inline"> <input type="checkbox"
+											id="inlineCheckbox1" value="option1"> 综合整治
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox2" value="option2">
+											挂钩
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox3" value="option3">
+											复垦
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox4" value="option4">
+											测绘
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox5" value="option5">
+											投标
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox6" value="option6">
+											数据库
+										</label>
+								</li>
+									<li>评估：
+									 <label class="checkbox-inline"> <input type="checkbox"
+											id="inlineCheckbox1" value="option1"> 评估
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox2" value="option2">
+											集约利用
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox3" value="option3">
+											基准地价
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox4" value="option4">
+											耕地质量
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox5" value="option5">
+											区片价
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox6" value="option6">
+											投标
+										</label> <label class="checkbox-inline"> <input
+											type="checkbox" id="inlineCheckbox7" value="option7">
+											代理
+										</label>
+									</li>
+								</ul>
+								</div>
+								<div class="form-group">
+								<label for="exampleInputEmail1">合同签订情况:</label> 
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>已签订
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option2" checked>未签订
+								</div>
+							</div>
+							<h4 class="text-left "><b>2. 委托方相关信息</b></h4>
+							
+							<div class="form-group">
+								<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">单位名称：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="nameId" class="col-sm-2 control-label">联系人姓名:</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control required" id="nameId" >
+								</div>
+							</div>
+							<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">联系人电话：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							</div>
+							<h4 class="text-left "><b>3. 业务要求</b></h4>
+							<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">完成时间：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="exampleInputEmail1">项目质量要求:</label> 
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>优秀
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option2" checked>良好
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option2" checked>合格
+								<p/>
+								<label for="exampleInputEmail1">是否需要招投标:</label> 
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>需要
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option2" checked>不需要
+								<input type="radio" name="optionsRadios" id="optionsRadios1" value="option3" checked>暂不确定
+							</div>
+							
+							<h4 class="text-left "><b>4. 项目承接人</b></h4>
+							<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">承接人姓名：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							<div class="form-group">
+								 <label for="nameId" class="col-sm-2 control-label">承接人电话：</label>
+								<div class="col-sm-10">
+									<input type="text" class="form-control" id="inputEmail1" />
+								</div>
+							</div>
+							
+							<div class="col-md-9 column">
+								<div class="row clearfix">
+									<div class="col-md-3 column"></div>
+									<div class="col-md-9 column">
+										<br>
+										<br>
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+										<button type="submit" class="btn btn-default">提交</button>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+					<div class="col-md-2 column"></div>
+				</div>	
+			</div>
+			
+<div class="container" id="d3" name="dv">
+	<div class="row clearfix">
+		<div class="col-md-2 column">
+		</div>
+		<div class="col-md-8 column">
+			<h3 class="text-center">
+				项目工作计划
+			</h3>
+			<form class="form-horizontal" role="form">
+				<div class="form-group">
+					 <label for="nameId" class="col-sm-2 control-label">项目名称：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="inputEmail1" />
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">项目负责人:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				<div class="form-group">
+					<h4><b>1. 项目第一阶段计划</b></h4>
+					<label for="nameId" class="col-sm-2 control-label">计划内容:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label ">完成时间:</label>
+					<div class="col-sm-10">
+						<input type="date" class="form-control required datepicker" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label" >责任人:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="name"  placeholder="多个人名以逗号隔开">
+					</div>
+					
+				</div>
+				<div class="form-group">
+					<h4><b>2. 项目第二阶段计划</b></h4>
+					<label for="nameId" class="col-sm-2 control-label">计划内容:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label ">完成时间:</label>
+					<div class="col-sm-10">
+						<input type="date" class="form-control required datepicker" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label" >责任人:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="name"  placeholder="多个人名以逗号隔开">
+					</div>
+				</div>
+				<div class="form-group">
+					<h4><b>3. 项目第三阶段计划</b></h4>
+					<label for="nameId" class="col-sm-2 control-label">计划内容:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label ">完成时间:</label>
+					<div class="col-sm-10">
+						<input type="date" class="form-control required datepicker" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label" >责任人:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="name"  placeholder="多个人名以逗号隔开">
+					</div>
+				</div>
+				<div class="form-group">
+					<h4><b>4. 项目第一阶段计划</b></h4>
+					<label for="nameId" class="col-sm-2 control-label">计划内容:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label ">完成时间:</label>
+					<div class="col-sm-10">
+						<input type="date" class="form-control required datepicker" id="nameId" >
+					</div>
+					<label for="nameId" class="col-sm-2 control-label" >责任人:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="name"  placeholder="多个人名以逗号隔开">
+					</div>
+				</div> 
+				<div class="col-md-9 column">
+					<div class="row clearfix">
+						<div class="col-md-3 column"></div>
+						<div class="col-md-9 column">
+							<br>
+							<br>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<button type="submit" class="btn btn-default">提交</button>
+						</div>
+					</div>
+				</div>
+		</form>
+		</div>
+		<div class="col-md-2 column">
+		</div>
+		
+	</div>
+</div>
+
+
+<div class="container" id="d4" name="dv">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<h3 class="text-center">
+				项目进度管理
+			</h3>
+			<nav class="navbar navbar-default navbar-static-top" role="navigation">
+				<div class="navbar-header">
+					 <p class="navbar-brand" >请输入要查询的项目</p>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+					<form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control" />
+						</div> <button type="submit" class="btn btn-default">搜索</button>
+					</form>
+					
+				</div>
+				
+			</nav>
+			<ul id="project" >
+				<li>
+					<a id="one" >项目一</a>
+				</li>
+				<li>
+					项目二
+				</li>
+				<li>
+					项目三
+				</li>
+				<li style="hide" >
+					项目四
+				</li>
+			</ul>
+
+<div id="div" class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<p>
+				<strong>工作人员</strong>
+			</p>
+			<ul>
+				<li>
+					张三
+				</li>
+				<li>
+					李四
+				</li>
+				<li>
+					王五
+				</li>
+				<li>
+					赵六
+				</li>
+			</ul>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-1 column">
+		</div>
+		<div class="col-md-6 column">
+									 <a id="modal-92370" href="#modal-container-92370" role="button" class="btn btn-primary btn-default" data-toggle="modal">修改</a>
+									
+									<div class="modal fade" id="modal-container-92370" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+										<div class="modal-dialog">
+											<div class="modal-content">
+												<div class="modal-header">
+													 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+													<h4 class="modal-title" id="myModalLabel">
+														修改人员
+													</h4>
+												</div>
+												<div class="modal-body">
+												<strong>请输入现有工作人员，以“，”隔开</strong>
+													<textarea cols="30" rows="4" style="height: 80px; width: 100%;"></textarea> 
+												</div>
+												<div class="modal-footer">
+													 <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button> <button type="button" class="btn btn-primary">保存</button>
+												</div>
+											</div>
+											
+										</div>
+										
+									</div>
+		</div>
+		<div class="col-md-5 column">
+		</div>
+	</div>
+</div>
+			<p>
+				 <em>计划进度</em>
+			</p>
+			<div class="progress">
+				<div class="progress-bar" role="progressbar" aria-valuenow="60"
+					 aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+					
+				</div>
+			</div>
+			<p class="text-center text-success">
+				 <strong>40% 完成</strong>
+			</p>
+
+			<p>
+				 <em>当前进度</em>
+			</p>
+			<div class="progress">
+				<div class="progress-bar" role="progressbar" aria-valuenow="60"
+					 aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
+					
+				</div>
+			</div>
+			<p class="text-center text-info">
+<div style="padding: 10px 520px 10px;">
+	<form class="bs-example bs-example-form" role="form">
+		<div class="input-group">
+			<input type="text" class="form-control">
+			<span class="input-group-addon">%</span>
+		</div>
+	</form>
+</div>
+			</p>
+
+			<form class="form-horizontal" role="form">
+				<div class="form-group">
+					 <label for="inputEmail3" class="col-sm-2 control-label">本阶段完成的主要工作</label>
+					<div class="col-sm-10">
+						<input type="email" class="form-control" id="inputEmail3" />
+					</div>
+				</div>
+				<div class="form-group">
+					 <label for="inputEmail3" class="col-sm-2 control-label">存在的问题</label>
+					<div class="col-sm-10">
+						<input type="email" class="form-control" id="inputEmail3" />
+					</div>
+				</div>
+			</form>
+			
+			
+			
+<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+	<div class="flipper">
+		<div class="front">
+			<p class="text-center" >
+				<strong>需调整工期</strong>
+			</p>
+		</div>
+		<div class="back">
+				<strong class="text-center" >
+					调整理由
+				</strong>
+				<textarea cols="30" rows="4" style="height: 80px; width: 100%;"></textarea> 
+		</div>
+	</div>
+</div>			
+			
+		</div>
+	</div>
+	<div class="row clearfix">
+		<div class="col-md-2 column">
+		</div>
+		<div class="col-md-6 column">
+			 <button type="button" class="btn btn-default btn-primary">提交</button>
+		</div>
+		<div class="col-md-4 column">
+		</div>
+	</div>
+</div>
+			
+		</div>
+	</div>
+</div>
+	
+
+	<div class="container" id="d5" name="dv">
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+				<div class="row clearfix">
+					<div class="col-md-2 column"></div>
+					<div class="col-md-8 column">
+						<h4>您好，您有3项代办记事</h4>
+
+						<table class="table table-striped table-hover">
+							<thead>
+								<tr>
+									<th>编号</th>
+									<th>项目名称</th>
+									<th>领导意见</th>
+									<th>项目审核</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>1</td>
+									<td><a href="#">第一个项目</a></td>
+									<td><input type="text" class="form-control" id="name"
+										placeholder="请输入意见"></td>
+									<td><button type="submit" class="btn btn-sm btn-warning">否决</button>
+										<button type="submit" class="btn btn-sm btn-success">提交</button>
+									</td>
+								</tr>
+								<tr>
+									<td>2</td>
+									<td><a href="#">第二个项目</a></td>
+									<td><input type="text" class="form-control" id="name"
+										placeholder="请输入意见"></td>
+									<td><button type="submit" class="btn btn-sm btn-warning">否决</button>
+										<button type="submit" class="btn btn-sm btn-success">提交</button>
+									</td>
+								</tr>
+								<tr>
+									<td>3</td>
+									<td><a href="#">第三个项目</a></td>
+									<td><input type="text" class="form-control" id="name"
+										placeholder="请输入意见"></td>
+									<td><button type="submit" class="btn btn-sm btn-warning">否决</button>
+										<button type="submit" class="btn btn-sm btn-success">同意</button>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						
+					</div>
+				</div>
+					<div class="col-md-2 column"></div>
+				</div>
+			</div>
+		</div>
+	</div>	
+			
+			
+<div class="container" id="d6" name="dv">
+	<div class="row clearfix">
+		<div class="col-md-2 column">
+		</div>
+		<div class="col-md-8 column">
+			<h3 class="text-center">
+				项目存档表
+			</h3>
+			<form class="form-horizontal " role="form">
+				<div class="form-group">
+					 <label for="nameId" class="col-sm-2 control-label ">项目搜集资料：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="inputEmail1" />
+					</div>
+				</div>
+				<div class="form-group text-left">
+					<label for="nameId" class="col-sm-2 control-label ">外业调查资料:</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">项目评审资料：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">项目成果资料：</label>
+					<!-- 项目类型选项卡 -->
+					<label class="checkbox-inline"> <input type="checkbox"
+						id="inlineCheckbox1" value="option1"> 报告
+					</label> <label class="checkbox-inline"> <input
+						type="checkbox" id="inlineCheckbox2" value="option2"> 预算书
+					</label> <label class="checkbox-inline"> <input
+						type="checkbox" id="inlineCheckbox3" value="option3"> 图件
+					</label> <label class="checkbox-inline"> <input
+						type="checkbox" id="inlineCheckbox4" value="option4">
+						电子光盘
+					</label>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">项目是否审核：</label> 
+					<input type="radio" name="optionsRadios1" id="optionsRadios1" value="option1" checked>已审核
+					<input type="radio" name="optionsRadios1" id="optionsRadios1" value="option2" >未审核
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">项目协议书：</label>
+					<input type="radio" name="optionsRadios2" id="optionsRadios2" value="option3" checked>具备
+					<input type="radio" name="optionsRadios2" id="optionsRadios2" value="option4" >不具备
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">协议书编号：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">其他资料：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label ">归档日期:</label>
+					<div class="col-sm-10">
+							<input type="date" class="form-control required datepicker" id="nameId" >
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="nameId" class="col-sm-2 control-label">接收人：</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control required" id="nameId" >
+					</div>
+				</div>
+				<div class="col-md-9 column">
+					<div class="row clearfix">
+						<div class="col-md-3 column"></div>
+						<div class="col-md-9 column">
+							<br>
+							<br>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<button type="submit" class="btn btn-default">提交</button>
+						</div>
+					</div>
+				</div>
+		</form>
+		</div>
+		
+		
+
+		
+		
+		
+		
+		<div class="col-md-2 column">
+		</div>
+	</div>
+</div>
+
+	<div class="container" id="d8" name="dv">
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+				<h3>您好！</h3>
+				<nav class="navbar navbar-default navbar-static-top"
+					role="navigation">
+					<div class="navbar-header">
+						<p class="navbar-brand">请输入要查询的项目</p>
+					</div>
+
+					<div class="collapse navbar-collapse"
+						id="bs-example-navbar-collapse-1">
+
+						<form class="navbar-form navbar-left" role="search">
+							<div class="form-group">
+								<input type="text" class="form-control" />
+							</div>
+							<button type="submit" class="btn btn-default">搜索</button>
+						</form>
+
+					</div>
+
+				</nav>
+				<ul id="project1">
+					<li><a id="one1">项目一</a></li>
+					<li>项目二</li>
+					<li>项目三</li>
+					<li style="">项目四</li>
+				</ul>
+
+
+				<div class="container" id="div1">
+					<div class="row clearfix">
+						<div class="col-md-2 column"></div>
+						<div class="col-md-8 column">
+							<h3 class="text-center">项目总结</h3>
+							<form class="form-horizontal" role="form">
+								<div class="form-group">
+									<label for="inputEmail3" class="col-sm-2 control-label">评审会意见摘要</label>
+									<div class="col-sm-10">
+										<input type="email" class="form-control" id="inputEmail3" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword3" class="col-sm-2 control-label">项目技术总结</label>
+									<div class="col-sm-10">
+										<input type="password" class="form-control"
+											id="inputPassword3" />
+									</div>
+								</div>
+
+
+							</form>
+							<form class="form-horizontal" role="form">
+								<div class="form-group">
+									<label for="inputEmail3" class="col-sm-2 control-label">经验与教训</label>
+									<div class="col-sm-10">
+										<input type="email" class="form-control" id="inputEmail3" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputPassword3" class="col-sm-2 control-label">其他</label>
+									<div class="col-sm-10">
+										<input type="password" class="form-control"
+											id="inputPassword3" />
+									</div>
+								</div>
+
+
+							</form>
+
+						</div>
+						<div class="col-md-2 column"></div>
+					</div>
+					<div class="row clearfix">
+						<div class="col-md-2 column"></div>
+						<div class="col-md-8 column">
+							<div class="row clearfix">
+								<div class="col-md-4 column"></div>
+								<div class="col-md-4 column">
+									<br />
+									<br />
+									<button type="button" class="btn btn-default">提交</button>
+								</div>
+								<div class="col-md-4 column"></div>
+							</div>
+						</div>
+						<div class="col-md-2 column"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+
+<div class="container" id="d9" name="dv">
+	<div class="row clearfix">
+		<div class="col-md-2 column">
+			<hr />
+			<div class="row clearfix">
+				<div class="col-md-6 column">
+
+					<div class="btn-group btn-group-vertical">
+						 <button class="btn btn-default" type="button">2013年</button> <button class="btn btn-default" type="button">2014年</button> <button class="btn btn-default" type="button">2015年</button> <button class="btn btn-default" type="button">2016年</button>
+					</div>
+				</div>
+				<div class="col-md-6 column">
+					<div class="row clearfix">
+						<div class="col-md-12 column">
+							<br />
+						</div>
+					</div>
+					<div class="btn-group btn-group-md">
+						 <button class="btn btn-default" type="button">开发整理类</button> <button class="btn btn-default" type="button">挂钩类</button> <button class="btn btn-default" type="button">复垦类</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-10 column">
+			<form class="form-horizontal" role="form">
+				<div class="form-group">
+					<div class="col-sm-8">
+						<input type="email" class="form-control" id="inputEmail3" placeholder="请输入项目名称" />
+					</div>
+					<button type="button" class="btn btn-default">搜索</button>
+				</div>
+			</form>
+			<hr /><hr /><hr />
+			<table class="table table-hover table-bordered">
+				<thead>
+					<tr>
+						<td rowspan="2" >
+							编号
+						</td>
+						<td colspan="5">
+							项目基本概述
+						</td>
+						<td colspan="2">
+							存档
+						</td>
+						<td>
+							备注
+						</td>						
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							
+						</td>
+						<td>
+							项目名称
+						</td>
+						<td>
+							项目规模
+						</td>
+						<td>
+							项目经理
+						</td>
+						<td>
+							分管领导
+						</td>	
+						<td>
+							合同签订情况
+						</td>
+						<td>
+							纸质
+						</td>
+						<td>
+							电子
+						</td>						
+						<td>
+						
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+					<tr>
+						<td>
+							GG001
+						</td>
+						<td>
+							高青县复垦项目
+						</td>
+						<td>
+							99.555公顷
+						</td>
+						<td>
+							孙磊
+						</td>
+						<td>
+							张玉民
+						</td>	
+						<td>
+							已签订
+						</td>
+						<td>
+							√
+						</td> 
+						<td>
+							
+						</td>						
+						<td>
+							
+						</td>						
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>			
+			
+	<div class="container" id="d10" name="dv">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<div class="row clearfix">
+				<div class="col-md-2 column"></div>
+				<div class="col-md-8 column">
+					<!-- 表头 -->
+					<h3 class="text-center"><b>操作记录统计</b>
+					
+
+					</h3>
+					<table class="table">
+						<thead>
+							<tr>
+								<th>时间</th>
+								<th>用户</th>
+								<th>记录</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>2017/11/11</td>
+								<td>fanzong</td>
+								<td>审批</td>
+							</tr>
+							<tr>
+								<td>2017/11/11</td>
+								<td>fanzong</td>
+								<td>审批</td>
+							</tr>
+						</tbody>
+					</table>
+			<p class="text-right">
+						<strong class="text-danger">谨慎操作
+							<button type="button" class="btn btn-default">清空记录</button>
+						</strong>
+			</p>
+				</div>
+				<div class="col-md-2 column"></div>
+			</div>
+		</div>
+	</div>
+</div>	
+			
+			
+			
+			
+		</div>
+	</div>
+</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+	<script type="text/javascript" >
+		$(document).ready(function(){
+			
+			$(".container").parents("#div").hide();
+		  $("#one").click(function(){
+			$(this).parents("#project").hide();
+			$(".container").parents("#div").show();
+		  });
+		});
+		
+		
+function show(id){
+var divs = document.getElementsByName("dv")
+for (var i = 0 ; i < divs.length ; i++){
+if (divs[i].id == "d"+id ){
+divs[i].style.display=""
+}else{
+divs[i].style.display="none"
+}
+}
+}
+		
+	</script>
+<script type="text/javascript">
+//初始化datepicker对象
+$('.datepicker').datepicker({
+    format: 'yyyy/mm/dd',
+    autoclose: true//选中自动关闭
+})
+</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#div1").hide();
+			$("#one1").click(function() {
+				$(this).parents("#project1").hide();
+				$("#div1").show();
+			});
+		});
+	</script>
+  </body>
+</html>

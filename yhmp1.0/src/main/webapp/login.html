@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>元鸿测绘管理系统</title>
+	</head>
+	
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js" ></script>
+	<script type="text/javascript" src="js/scripts.js" ></script>
+	<script type="text/javascript" src="js/bootstrap-datepicker.min.js" ></script>
+	<script type="text/javascript" src="js/bootstrap.min.js" ></script>
+	<link href="css/bootstrap-datepicker.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet"> 
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet"> 
+    <link rel="css/AdminLTE.min.css">
+    
+<script type="text/javascript">
+$(document).ready(function(){
+	//回车按钮
+	$(document).keyup(function(event) {
+		if (event.keyCode == 13) {
+			//触发btn-login绑定的submit事件
+			$("#btn-login").trigger("click");
+		}
+	});
+	//点击登录按钮
+	$('#btn-login').click(doLogin)
+})
+function doLogin(){
+	debugger
+	var userName = $('#username').val();
+	var userPwd = $('#userpwd').val();
+	if(userName==''){
+		$('#errorMessage').parent().parent().css('display','block');
+		$('#errorMessage').text('用户名不能为空！');
+		return false;
+	}
+	if(userPwd==''){
+		$('#errorMessage').parent().parent().css('display','block');
+		$('#errorMessage').text('密码不能为空！');
+		return false;
+	}
+	//判断此用户是否存在于数据库中
+	var url = 'login.do';
+	var params = {'username':userName,'password':userPwd};
+	$.post(url,params,function(result){
+		if(result.state==1){   //用户校验成功，跳转到主页面
+			location.href='indexUI.do';
+		}else{
+			$('#errorMessage').parent().parent().css('display','block');
+			$('#errorMessage').text(result.message);
+		}
+	})
+}
+</script>
+
+	<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<h3 class="text-center">
+				<br /><br />
+				欢迎登陆元鸿测绘管理系统
+				<br />
+			</h3>
+		</div>
+	</div>
+</div>
+<div class="login-box" id="rrapp">
+  <div class="login-box-body">
+  	
+	<div class="row clearfix">
+		<div class="col-md-3 column">
+		</div>
+		<div class="col-md-6 column">
+   <form action="">
+      
+       <div class="alert alert-danger alert-dismissible" style="display:none">
+        <h4 style="margin-bottom: 0px;"><i class="fa fa-exclamation-triangle" id="errorMessage"></i></h4>
+      </div>
+      <div class="form-group has-feedback">
+      	<br /><br />
+          <input type="text" class="form-control" id="username" placeholder="账号">
+      </div>
+      <br />
+      <div class="form-group has-feedback">
+          <input type="password" class="form-control" id="userpwd" placeholder="密码">
+      </div>
+
+    <br />
+	<div class="row clearfix">
+		<div class="col-md-5 column">
+		</div>
+		<div class="col-md-2 column"><br /><br />
+			 <button type="button" class="btn btn-default btn-block btn-info" id="btn-login" >登陆</button>
+		</div>
+		<div class="col-md-5 column">
+		</div>
+	</div>
+      </form>			
+		</div>
+		<div class="col-md-3 column">
+		</div>
+	</div>
+  	
+  	
+
+  </div>
+</div>
+
+	</body>
+</html>
